@@ -1,18 +1,12 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Nav from "./Nav";
 
 export const metadata: Metadata = {
   title: "跟着 Owen 学 AI",
   description:
     "跟着 Owen 学 AI：实时 AI 新闻动态、全球大模型排行榜、从入门到进阶的 AI 学习与智能体教程，每日更新。",
 };
-
-const NAV = [
-  { href: "/", label: "首页" },
-  { href: "/news", label: "新闻动态" },
-  { href: "/rankings", label: "大模型排行" },
-  { href: "/learn", label: "AI 学习" },
-];
 
 export default function RootLayout({
   children,
@@ -24,13 +18,7 @@ export default function RootLayout({
       <body>
         <header className="site-header">
           <div className="container header-inner">
-            <nav className="nav">
-              {NAV.map((n) => (
-                <a key={n.href} href={n.href}>
-                  {n.label}
-                </a>
-              ))}
-            </nav>
+            <Nav />
             <a href="/" className="logo">
               <span className="logo-mark">🎓</span>
               <span className="logo-text">
