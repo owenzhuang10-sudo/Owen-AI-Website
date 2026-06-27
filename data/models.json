@@ -1,0 +1,1695 @@
+{
+  "updatedAt": "2026-06-27T04:12:26.918Z",
+  "source": "Artificial Analysis",
+  "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
+  "categories": [
+    {
+      "id": "intelligence",
+      "name": "综合",
+      "icon": "🧠",
+      "field": "intelligenceIndex",
+      "note": "综合各项基准的总能力，越高越强（AA Intelligence Index）",
+      "unit": "分",
+      "count": 25,
+      "models": [
+        {
+          "rank": 1,
+          "name": "Claude Fable 5",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 59.9,
+          "released": "2026-06-09"
+        },
+        {
+          "rank": 2,
+          "name": "Claude Opus 4.8",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 55.7,
+          "released": "2026-05-28"
+        },
+        {
+          "rank": 3,
+          "name": "GPT-5.5",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 54.8,
+          "released": "2026-04-23"
+        },
+        {
+          "rank": 4,
+          "name": "Claude Opus 4.7",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 53.5,
+          "released": "2026-04-16"
+        },
+        {
+          "rank": 5,
+          "name": "GLM-5.2",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 51.1,
+          "released": "2026-06-16"
+        },
+        {
+          "rank": 6,
+          "name": "Gemini 3.5 Flash",
+          "org": "Google",
+          "country": "us",
+          "score": 50.2,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 7,
+          "name": "Claude Sonnet 4.6",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 47.2,
+          "released": "2026-02-17"
+        },
+        {
+          "rank": 8,
+          "name": "Gemini 3.1 Pro Preview",
+          "org": "Google",
+          "country": "us",
+          "score": 46.5,
+          "released": "2026-02-19"
+        },
+        {
+          "rank": 9,
+          "name": "Qwen3.7 Max",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 46,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 10,
+          "name": "MiniMax-M3",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 44.4,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 11,
+          "name": "DeepSeek V4 Pro",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 44.3,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 12,
+          "name": "GPT-5.3 Codex",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 44.3,
+          "released": "2026-02-05"
+        },
+        {
+          "rank": 13,
+          "name": "Muse Spark",
+          "org": "Meta",
+          "country": "us",
+          "score": 43.1,
+          "released": "2026-04-08"
+        },
+        {
+          "rank": 14,
+          "name": "Kimi K2.6",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 42.8,
+          "released": "2026-04-20"
+        },
+        {
+          "rank": 15,
+          "name": "MiMo-V2.5-Pro",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 42.2,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 16,
+          "name": "Kimi K2.7 Code",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 41.9,
+          "released": "2026-06-12"
+        },
+        {
+          "rank": 17,
+          "name": "Nex-N2-Pro",
+          "org": "Nex AGI",
+          "country": "cn",
+          "score": 41,
+          "released": "2026-06-02"
+        },
+        {
+          "rank": 18,
+          "name": "DeepSeek V4 Flash",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 40.3,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 19,
+          "name": "GLM-5.1",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 40.2,
+          "released": "2026-04-07"
+        },
+        {
+          "rank": 20,
+          "name": "MiMo-V2.5",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 40.1,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 21,
+          "name": "GPT-5.4 mini",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 40,
+          "released": "2026-03-17"
+        },
+        {
+          "rank": 22,
+          "name": "Grok Build 0.1 0616",
+          "org": "xAI",
+          "country": "us",
+          "score": 39.8,
+          "released": null
+        },
+        {
+          "rank": 23,
+          "name": "Qwen3.6 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 39.6,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 24,
+          "name": "Qwen3.7 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 39,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 25,
+          "name": "GPT-5.4 nano",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 38.2,
+          "released": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "coding",
+      "name": "编程",
+      "icon": "💻",
+      "field": "codingIndex",
+      "note": "代码生成与软件工程能力（AA Coding Index）",
+      "unit": "分",
+      "count": 25,
+      "models": [
+        {
+          "rank": 1,
+          "name": "Claude Fable 5",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 76.5,
+          "released": "2026-06-09"
+        },
+        {
+          "rank": 2,
+          "name": "GPT-5.5",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 74.9,
+          "released": "2026-04-23"
+        },
+        {
+          "rank": 3,
+          "name": "Claude Opus 4.8",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 74.3,
+          "released": "2026-05-28"
+        },
+        {
+          "rank": 4,
+          "name": "Claude Opus 4.7",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 73.6,
+          "released": "2026-04-16"
+        },
+        {
+          "rank": 5,
+          "name": "Gemini 3.5 Flash",
+          "org": "Google",
+          "country": "us",
+          "score": 70.1,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 6,
+          "name": "Gemini 3.1 Pro Preview",
+          "org": "Google",
+          "country": "us",
+          "score": 68.8,
+          "released": "2026-02-19"
+        },
+        {
+          "rank": 7,
+          "name": "GLM-5.2",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 68.8,
+          "released": "2026-06-16"
+        },
+        {
+          "rank": 8,
+          "name": "Qwen3.7 Max",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 66,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 9,
+          "name": "Claude Sonnet 4.6",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 63,
+          "released": "2026-02-17"
+        },
+        {
+          "rank": 10,
+          "name": "Kimi K2.7 Code",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 60.8,
+          "released": "2026-06-12"
+        },
+        {
+          "rank": 11,
+          "name": "MiMo-V2.5-Pro",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 60.2,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 12,
+          "name": "DeepSeek V4 Pro",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 59.4,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 13,
+          "name": "Nex-N2-Pro",
+          "org": "Nex AGI",
+          "country": "cn",
+          "score": 59.1,
+          "released": "2026-06-02"
+        },
+        {
+          "rank": 14,
+          "name": "Muse Spark",
+          "org": "Meta",
+          "country": "us",
+          "score": 58.6,
+          "released": "2026-04-08"
+        },
+        {
+          "rank": 15,
+          "name": "MiniMax-M3",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 58.6,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 16,
+          "name": "DeepSeek V4 Flash",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 56.2,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 17,
+          "name": "GPT-5.4 mini",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 56.1,
+          "released": "2026-03-17"
+        },
+        {
+          "rank": 18,
+          "name": "GPT-5.4 nano",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 56.1,
+          "released": "2026-03-17"
+        },
+        {
+          "rank": 19,
+          "name": "Kimi K2.6",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 56,
+          "released": "2026-04-20"
+        },
+        {
+          "rank": 20,
+          "name": "Qwen3.7 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 55.9,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 21,
+          "name": "GLM-5.1",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 55.8,
+          "released": "2026-04-07"
+        },
+        {
+          "rank": 22,
+          "name": "Qwen3.6 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 54.5,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 23,
+          "name": "Qwen3.6 27B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 53.7,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 24,
+          "name": "MiniMax-M2.7",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 52.6,
+          "released": "2026-03-18"
+        },
+        {
+          "rank": 25,
+          "name": "Grok Build 0.1 0616",
+          "org": "xAI",
+          "country": "us",
+          "score": 51.5,
+          "released": null
+        }
+      ]
+    },
+    {
+      "id": "agentic",
+      "name": "智能体·工具",
+      "icon": "🤖",
+      "field": "agenticIndex",
+      "note": "自主调用工具、完成多步骤任务的能力（AA Agentic Index）",
+      "unit": "分",
+      "count": 25,
+      "models": [
+        {
+          "rank": 1,
+          "name": "Claude Fable 5",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 52.8,
+          "released": "2026-06-09"
+        },
+        {
+          "rank": 2,
+          "name": "Claude Opus 4.8",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 47.2,
+          "released": "2026-05-28"
+        },
+        {
+          "rank": 3,
+          "name": "GPT-5.5",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 44.9,
+          "released": "2026-04-23"
+        },
+        {
+          "rank": 4,
+          "name": "Claude Opus 4.7",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 44.4,
+          "released": "2026-04-16"
+        },
+        {
+          "rank": 5,
+          "name": "GLM-5.2",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 43.1,
+          "released": "2026-06-16"
+        },
+        {
+          "rank": 6,
+          "name": "Claude Sonnet 4.6",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 40.8,
+          "released": "2026-02-17"
+        },
+        {
+          "rank": 7,
+          "name": "Gemini 3.5 Flash",
+          "org": "Google",
+          "country": "us",
+          "score": 37.4,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 8,
+          "name": "DeepSeek V4 Pro",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 36.4,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 9,
+          "name": "MiniMax-M3",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 35.4,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 10,
+          "name": "DeepSeek V4 Flash",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 31.1,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 11,
+          "name": "Nex-N2-Pro",
+          "org": "Nex AGI",
+          "country": "cn",
+          "score": 31,
+          "released": "2026-06-02"
+        },
+        {
+          "rank": 12,
+          "name": "Qwen3.7 Max",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 30.6,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 13,
+          "name": "Kimi K2.6",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 30.3,
+          "released": "2026-04-20"
+        },
+        {
+          "rank": 14,
+          "name": "GPT-5.4 mini",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 30.2,
+          "released": "2026-03-17"
+        },
+        {
+          "rank": 15,
+          "name": "GLM-5.1",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 29.9,
+          "released": "2026-04-07"
+        },
+        {
+          "rank": 16,
+          "name": "Kimi K2.7 Code",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 29.6,
+          "released": "2026-06-12"
+        },
+        {
+          "rank": 17,
+          "name": "MiMo-V2.5-Pro",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 29.1,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 18,
+          "name": "Muse Spark",
+          "org": "Meta",
+          "country": "us",
+          "score": 28.7,
+          "released": "2026-04-08"
+        },
+        {
+          "rank": 19,
+          "name": "Grok Build 0.1 0616",
+          "org": "xAI",
+          "country": "us",
+          "score": 28,
+          "released": null
+        },
+        {
+          "rank": 20,
+          "name": "Qwen3.6 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 27.6,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 21,
+          "name": "GPT-5.4 nano",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 27.5,
+          "released": "2026-03-17"
+        },
+        {
+          "rank": 22,
+          "name": "Nemotron 3 Ultra 550B A55B",
+          "org": "NVIDIA",
+          "country": "us",
+          "score": 27.4,
+          "released": "2026-06-04"
+        },
+        {
+          "rank": 23,
+          "name": "Qwen3.6 27B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 27,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 24,
+          "name": "MiniMax-M2.7",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 25.6,
+          "released": "2026-03-18"
+        },
+        {
+          "rank": 25,
+          "name": "Grok 4.3",
+          "org": "xAI",
+          "country": "us",
+          "score": 24.1,
+          "released": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "科学推理",
+      "icon": "🔬",
+      "field": "gpqa",
+      "note": "博士级科学难题推理（GPQA Diamond）",
+      "unit": "%",
+      "count": 25,
+      "models": [
+        {
+          "rank": 1,
+          "name": "Gemini 3.1 Pro Preview",
+          "org": "Google",
+          "country": "us",
+          "score": 94.1,
+          "released": "2026-02-19"
+        },
+        {
+          "rank": 2,
+          "name": "GPT-5.5",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 93.5,
+          "released": "2026-04-23"
+        },
+        {
+          "rank": 3,
+          "name": "MiniMax-M3",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 92.9,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 4,
+          "name": "Claude Fable 5",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 92.6,
+          "released": "2026-06-09"
+        },
+        {
+          "rank": 5,
+          "name": "Qwen3.7 Max",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 92.3,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 6,
+          "name": "Gemini 3.5 Flash",
+          "org": "Google",
+          "country": "us",
+          "score": 92.2,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 7,
+          "name": "Claude Opus 4.8",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 92,
+          "released": "2026-05-28"
+        },
+        {
+          "rank": 8,
+          "name": "GPT-5.3 Codex",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 91.5,
+          "released": "2026-02-05"
+        },
+        {
+          "rank": 9,
+          "name": "Claude Opus 4.7",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 91.4,
+          "released": "2026-04-16"
+        },
+        {
+          "rank": 10,
+          "name": "Kimi K2.6",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 91.1,
+          "released": "2026-04-20"
+        },
+        {
+          "rank": 11,
+          "name": "DeepSeek V4 Pro",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 90.5,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 12,
+          "name": "Grok 4.3",
+          "org": "xAI",
+          "country": "us",
+          "score": 90.1,
+          "released": "2026-04-30"
+        },
+        {
+          "rank": 13,
+          "name": "Qwen3.7 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 90,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 14,
+          "name": "Kimi K2.7 Code",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 89.6,
+          "released": "2026-06-12"
+        },
+        {
+          "rank": 15,
+          "name": "Grok Build 0.1 0616",
+          "org": "xAI",
+          "country": "us",
+          "score": 89.5,
+          "released": null
+        },
+        {
+          "rank": 16,
+          "name": "GLM-5.2",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 89.5,
+          "released": "2026-06-16"
+        },
+        {
+          "rank": 17,
+          "name": "DeepSeek V4 Flash",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 89.4,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 18,
+          "name": "Qwen3.5 397B A17B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 89.3,
+          "released": "2026-02-16"
+        },
+        {
+          "rank": 19,
+          "name": "Nex-N2-Pro",
+          "org": "Nex AGI",
+          "country": "cn",
+          "score": 89.2,
+          "released": "2026-06-02"
+        },
+        {
+          "rank": 20,
+          "name": "Muse Spark",
+          "org": "Meta",
+          "country": "us",
+          "score": 88.4,
+          "released": "2026-04-08"
+        },
+        {
+          "rank": 21,
+          "name": "Qwen3.6 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 88.2,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 22,
+          "name": "Claude Sonnet 4.6",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 87.5,
+          "released": "2026-02-17"
+        },
+        {
+          "rank": 23,
+          "name": "GPT-5.4 mini",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 87.5,
+          "released": "2026-03-17"
+        },
+        {
+          "rank": 24,
+          "name": "MiniMax-M2.7",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 87.4,
+          "released": "2026-03-18"
+        },
+        {
+          "rank": 25,
+          "name": "GLM-5.1",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 86.8,
+          "released": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "id": "knowledge",
+      "name": "知识问答",
+      "icon": "📚",
+      "field": "omniscience",
+      "note": "事实知识的广度与准确度（AA Omniscience）",
+      "unit": "分",
+      "count": 25,
+      "models": [
+        {
+          "rank": 1,
+          "name": "Claude Fable 5",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 40.2,
+          "released": "2026-06-09"
+        },
+        {
+          "rank": 2,
+          "name": "Gemini 3.1 Pro Preview",
+          "org": "Google",
+          "country": "us",
+          "score": 32.9,
+          "released": "2026-02-19"
+        },
+        {
+          "rank": 3,
+          "name": "Claude Opus 4.8",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 27.4,
+          "released": "2026-05-28"
+        },
+        {
+          "rank": 4,
+          "name": "Claude Opus 4.7",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 26.2,
+          "released": "2026-04-16"
+        },
+        {
+          "rank": 5,
+          "name": "Gemini 3.5 Flash",
+          "org": "Google",
+          "country": "us",
+          "score": 22.7,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 6,
+          "name": "GPT-5.5",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 20.1,
+          "released": "2026-04-23"
+        },
+        {
+          "rank": 7,
+          "name": "Grok 4.3",
+          "org": "xAI",
+          "country": "us",
+          "score": 18.3,
+          "released": "2026-04-30"
+        },
+        {
+          "rank": 8,
+          "name": "Qwen3.7 Max",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 14.1,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 9,
+          "name": "Claude Sonnet 4.6",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 12.4,
+          "released": "2026-02-17"
+        },
+        {
+          "rank": 10,
+          "name": "GPT-5.5 Instant",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 10.3,
+          "released": "2026-05-05"
+        },
+        {
+          "rank": 11,
+          "name": "GPT-5.3 Codex",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 9.9,
+          "released": "2026-02-05"
+        },
+        {
+          "rank": 12,
+          "name": "Grok Build 0.1 0616",
+          "org": "xAI",
+          "country": "us",
+          "score": 7.4,
+          "released": null
+        },
+        {
+          "rank": 13,
+          "name": "Kimi K2.6",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 6.4,
+          "released": "2026-04-20"
+        },
+        {
+          "rank": 14,
+          "name": "Muse Spark",
+          "org": "Meta",
+          "country": "us",
+          "score": 4.1,
+          "released": "2026-04-08"
+        },
+        {
+          "rank": 15,
+          "name": "GLM-5.2",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 4,
+          "released": "2026-06-16"
+        },
+        {
+          "rank": 16,
+          "name": "MiMo-V2.5-Pro",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 3.6,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 17,
+          "name": "Qwen3.6 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 2.7,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 18,
+          "name": "Qwen3.7 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 2.4,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 19,
+          "name": "GLM-5.1",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 1.9,
+          "released": "2026-04-07"
+        },
+        {
+          "rank": 20,
+          "name": "MiniMax-M3",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 1.4,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 21,
+          "name": "MiniMax-M2.7",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 0.7,
+          "released": "2026-03-18"
+        },
+        {
+          "rank": 22,
+          "name": "MiniCPM5-1B",
+          "org": "OpenBMB",
+          "country": "cn",
+          "score": -0.8,
+          "released": "2026-05-25"
+        },
+        {
+          "rank": 23,
+          "name": "Nemotron 3 Ultra 550B A55B",
+          "org": "NVIDIA",
+          "country": "us",
+          "score": -0.8,
+          "released": "2026-06-04"
+        },
+        {
+          "rank": 24,
+          "name": "Command A+",
+          "org": "Cohere",
+          "country": "ca",
+          "score": -4,
+          "released": "2026-05-20"
+        },
+        {
+          "rank": 25,
+          "name": "Claude 4.5 Haiku",
+          "org": "Anthropic",
+          "country": "us",
+          "score": -4.2,
+          "released": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "id": "instruction",
+      "name": "指令遵循",
+      "icon": "📐",
+      "field": "ifbench",
+      "note": "严格按复杂要求执行的能力（IFBench）",
+      "unit": "%",
+      "count": 25,
+      "models": [
+        {
+          "rank": 1,
+          "name": "Grok 4.3",
+          "org": "xAI",
+          "country": "us",
+          "score": 83.3,
+          "released": "2026-04-30"
+        },
+        {
+          "rank": 2,
+          "name": "MiniMax-M3",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 82.9,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 3,
+          "name": "Nemotron 3 Ultra 550B A55B",
+          "org": "NVIDIA",
+          "country": "us",
+          "score": 81.4,
+          "released": "2026-06-04"
+        },
+        {
+          "rank": 4,
+          "name": "Qwen3.7 Max",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 80.5,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 5,
+          "name": "Nemotron Cascade 2 30B A3B",
+          "org": "NVIDIA",
+          "country": "us",
+          "score": 80.4,
+          "released": "2026-03-19"
+        },
+        {
+          "rank": 6,
+          "name": "MiMo-V2.5-Pro",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 79.9,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 7,
+          "name": "Nova 2.0 Pro Preview",
+          "org": "Amazon",
+          "country": "us",
+          "score": 79.6,
+          "released": "2025-11-27"
+        },
+        {
+          "rank": 8,
+          "name": "DeepSeek V4 Flash",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 79.2,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 9,
+          "name": "Qwen3.5 397B A17B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 78.8,
+          "released": "2026-02-16"
+        },
+        {
+          "rank": 10,
+          "name": "Qwen3.7 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 78,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 11,
+          "name": "Gemini 3.1 Flash-Lite",
+          "org": "Google",
+          "country": "us",
+          "score": 77.2,
+          "released": "2026-03-03"
+        },
+        {
+          "rank": 12,
+          "name": "Gemini 3.1 Pro Preview",
+          "org": "Google",
+          "country": "us",
+          "score": 77.1,
+          "released": "2026-02-19"
+        },
+        {
+          "rank": 13,
+          "name": "DeepSeek V4 Pro",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 76.5,
+          "released": "2026-04-24"
+        },
+        {
+          "rank": 14,
+          "name": "Gemini 3.5 Flash",
+          "org": "Google",
+          "country": "us",
+          "score": 76.3,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 15,
+          "name": "GLM-5.1",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 76.3,
+          "released": "2026-04-07"
+        },
+        {
+          "rank": 16,
+          "name": "Kimi K2.6",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 76,
+          "released": "2026-04-20"
+        },
+        {
+          "rank": 17,
+          "name": "GPT-5.4 nano",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 75.9,
+          "released": "2026-03-17"
+        },
+        {
+          "rank": 18,
+          "name": "Muse Spark",
+          "org": "Meta",
+          "country": "us",
+          "score": 75.9,
+          "released": "2026-04-08"
+        },
+        {
+          "rank": 19,
+          "name": "GPT-5.5",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 75.9,
+          "released": "2026-04-23"
+        },
+        {
+          "rank": 20,
+          "name": "Qwen3.5 122B A10B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 75.7,
+          "released": "2026-02-24"
+        },
+        {
+          "rank": 21,
+          "name": "MiniMax-M2.7",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 75.7,
+          "released": "2026-03-18"
+        },
+        {
+          "rank": 22,
+          "name": "Gemma 4 31B",
+          "org": "Google",
+          "country": "us",
+          "score": 75.6,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 23,
+          "name": "GPT-5.3 Codex",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 75.4,
+          "released": "2026-02-05"
+        },
+        {
+          "rank": 24,
+          "name": "Qwen3.6 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 75.2,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 25,
+          "name": "Command A+",
+          "org": "Cohere",
+          "country": "ca",
+          "score": 73.9,
+          "released": "2026-05-20"
+        }
+      ]
+    },
+    {
+      "id": "longcontext",
+      "name": "长文本",
+      "icon": "📖",
+      "field": "lcr",
+      "note": "超长上下文的理解与推理（Long Context Reasoning）",
+      "unit": "%",
+      "count": 25,
+      "models": [
+        {
+          "rank": 1,
+          "name": "GPT-5.5",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 74.3,
+          "released": "2026-04-23"
+        },
+        {
+          "rank": 2,
+          "name": "MiniMax-M3",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 74,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 3,
+          "name": "GPT-5.3 Codex",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 74,
+          "released": "2026-02-05"
+        },
+        {
+          "rank": 4,
+          "name": "MiMo-V2.5-Pro",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 73.3,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 5,
+          "name": "Gemini 3.1 Pro Preview",
+          "org": "Google",
+          "country": "us",
+          "score": 72.7,
+          "released": "2026-02-19"
+        },
+        {
+          "rank": 6,
+          "name": "GLM-5.2",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 71.3,
+          "released": "2026-06-16"
+        },
+        {
+          "rank": 7,
+          "name": "Gemini 3.5 Flash",
+          "org": "Google",
+          "country": "us",
+          "score": 71,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 8,
+          "name": "Claude Sonnet 4.6",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 70.7,
+          "released": "2026-02-17"
+        },
+        {
+          "rank": 9,
+          "name": "Claude Opus 4.7",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 70.3,
+          "released": "2026-04-16"
+        },
+        {
+          "rank": 10,
+          "name": "Claude 4.5 Haiku",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 70.3,
+          "released": "2025-10-15"
+        },
+        {
+          "rank": 11,
+          "name": "Claude Fable 5",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 70,
+          "released": "2026-06-09"
+        },
+        {
+          "rank": 12,
+          "name": "Kimi K2.6",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 69.7,
+          "released": "2026-04-20"
+        },
+        {
+          "rank": 13,
+          "name": "Muse Spark",
+          "org": "Meta",
+          "country": "us",
+          "score": 69.7,
+          "released": "2026-04-08"
+        },
+        {
+          "rank": 14,
+          "name": "Qwen3.6 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 69.7,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 15,
+          "name": "o3",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 69.3,
+          "released": "2025-04-16"
+        },
+        {
+          "rank": 16,
+          "name": "GPT-5.4 mini",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 69.3,
+          "released": "2026-03-17"
+        },
+        {
+          "rank": 17,
+          "name": "Qwen3.7 Max",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 69,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 18,
+          "name": "Qwen3.6 27B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 68.7,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 19,
+          "name": "MiniMax-M2.7",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 68.7,
+          "released": "2026-03-18"
+        },
+        {
+          "rank": 20,
+          "name": "Nex-N2-Pro",
+          "org": "Nex AGI",
+          "country": "cn",
+          "score": 67.7,
+          "released": "2026-06-02"
+        },
+        {
+          "rank": 21,
+          "name": "Claude Opus 4.8",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 67.7,
+          "released": "2026-05-28"
+        },
+        {
+          "rank": 22,
+          "name": "Nemotron 3 Ultra 550B A55B",
+          "org": "NVIDIA",
+          "country": "us",
+          "score": 67,
+          "released": "2026-06-04"
+        },
+        {
+          "rank": 23,
+          "name": "Qwen3.5 122B A10B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 66.7,
+          "released": "2026-02-24"
+        },
+        {
+          "rank": 24,
+          "name": "MiMo-V2-Omni",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 66.7,
+          "released": "2026-03-19"
+        },
+        {
+          "rank": 25,
+          "name": "DeepSeek V4 Pro",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 66.3,
+          "released": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "multimodal",
+      "name": "多模态·看图",
+      "icon": "🖼️",
+      "field": "mmmuPro",
+      "note": "理解图像与图表的多模态能力（MMMU-Pro）",
+      "unit": "%",
+      "count": 25,
+      "models": [
+        {
+          "rank": 1,
+          "name": "Gemini 3.5 Flash",
+          "org": "Google",
+          "country": "us",
+          "score": 84.3,
+          "released": "2026-05-19"
+        },
+        {
+          "rank": 2,
+          "name": "Gemini 3.1 Pro Preview",
+          "org": "Google",
+          "country": "us",
+          "score": 82.4,
+          "released": "2026-02-19"
+        },
+        {
+          "rank": 3,
+          "name": "GPT-5.5",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 81.2,
+          "released": "2026-04-23"
+        },
+        {
+          "rank": 4,
+          "name": "Muse Spark",
+          "org": "Meta",
+          "country": "us",
+          "score": 80.5,
+          "released": "2026-04-08"
+        },
+        {
+          "rank": 5,
+          "name": "Qwen3.7 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 80.5,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 6,
+          "name": "Kimi K2.6",
+          "org": "Kimi",
+          "country": "cn",
+          "score": 79.4,
+          "released": "2026-04-20"
+        },
+        {
+          "rank": 7,
+          "name": "Claude Opus 4.7",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 78.8,
+          "released": "2026-04-16"
+        },
+        {
+          "rank": 8,
+          "name": "MiniMax-M3",
+          "org": "MiniMax",
+          "country": "cn",
+          "score": 78.6,
+          "released": "2026-06-01"
+        },
+        {
+          "rank": 9,
+          "name": "GPT-5.3 Codex",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 78.5,
+          "released": "2026-02-05"
+        },
+        {
+          "rank": 10,
+          "name": "Grok 4.3",
+          "org": "xAI",
+          "country": "us",
+          "score": 78.1,
+          "released": "2026-04-30"
+        },
+        {
+          "rank": 11,
+          "name": "Qwen3.6 Plus",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 78,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 12,
+          "name": "Qwen3.5 397B A17B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 77.3,
+          "released": "2026-02-16"
+        },
+        {
+          "rank": 13,
+          "name": "Grok Build 0.1 0616",
+          "org": "xAI",
+          "country": "us",
+          "score": 76.5,
+          "released": null
+        },
+        {
+          "rank": 14,
+          "name": "Gemini 3.1 Flash-Lite",
+          "org": "Google",
+          "country": "us",
+          "score": 75.5,
+          "released": "2026-03-03"
+        },
+        {
+          "rank": 15,
+          "name": "MiMo-V2.5",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 75.4,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 16,
+          "name": "Step 3.7 Flash",
+          "org": "StepFun",
+          "country": "cn",
+          "score": 75.3,
+          "released": "2026-05-29"
+        },
+        {
+          "rank": 17,
+          "name": "Qwen3.6 35B A3B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 75,
+          "released": "2026-04-16"
+        },
+        {
+          "rank": 18,
+          "name": "Qwen3.5 122B A10B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 75,
+          "released": "2026-02-24"
+        },
+        {
+          "rank": 19,
+          "name": "Gemini 2.5 Pro",
+          "org": "Google",
+          "country": "us",
+          "score": 74.9,
+          "released": "2025-06-05"
+        },
+        {
+          "rank": 20,
+          "name": "Qwen3.6 27B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 74.6,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 21,
+          "name": "MiMo-V2-Omni-0327",
+          "org": "Xiaomi",
+          "country": "cn",
+          "score": 73.9,
+          "released": "2026-03-27"
+        },
+        {
+          "rank": 22,
+          "name": "Gemma 4 31B",
+          "org": "Google",
+          "country": "us",
+          "score": 73.4,
+          "released": "2026-04-02"
+        },
+        {
+          "rank": 23,
+          "name": "Claude Sonnet 4.6",
+          "org": "Anthropic",
+          "country": "us",
+          "score": 73.3,
+          "released": "2026-02-17"
+        },
+        {
+          "rank": 24,
+          "name": "GPT-5.4 mini",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 73.3,
+          "released": "2026-03-17"
+        },
+        {
+          "rank": 25,
+          "name": "GLM 5V Turbo",
+          "org": "Z AI",
+          "country": "cn",
+          "score": 72.8,
+          "released": "2026-04-01"
+        }
+      ]
+    }
+  ]
+}

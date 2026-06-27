@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+*.log
+data/fetch.log
+.DS_Store
+next-env.d.ts
+.vercel
