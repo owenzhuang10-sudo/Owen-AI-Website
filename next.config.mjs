@@ -7,6 +7,8 @@ const nextConfig = {
     "/": ["./data/*.json"],
     "/news": ["./data/*.json"],
     "/rankings": ["./data/*.json"],
+    "/api/news": ["./data/*.json"],
+    "/api/models": ["./data/*.json"],
   },
 };
 

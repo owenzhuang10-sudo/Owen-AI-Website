@@ -29,3 +29,10 @@ jobs:
           else
             echo "No changes."
           fi
+      - name: Send daily email digest to subscribers
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
+        run: node scripts/send-digest.mjs
