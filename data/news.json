@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-06-27T08:58:30.450Z",
+  "updatedAt": "2026-06-28T02:54:50.959Z",
   "count": 50,
   "items": [
+    {
+      "title": "软银首席执行官并不是唯一一位对埃隆·马斯克的轨道数据中心炒作提出质疑的人",
+      "titleEn": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-27T20:42:36.000Z"
+    },
+    {
+      "title": "据报道，Apple Vision Pro 高管将前往 OpenAI",
+      "titleEn": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-27T16:45:09.000Z"
+    },
+    {
+      "title": "房间里最健康的创始人得了癌症。以下是他如何利用人工智能进行反击。",
+      "titleEn": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-27T14:00:00.000Z"
+    },
+    {
+      "title": "随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型",
+      "titleEn": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-27T12:00:00.000Z"
+    },
     {
       "title": "特朗普政府发布 Anthropic 神话供 100 多家美国公司、机构使用",
       "titleEn": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
@@ -219,33 +255,6 @@
       "publishedAt": "2026-06-25T10:00:55.000Z"
     },
     {
-      "title": "欧洲正在反击华盛顿的芯片战",
-      "titleEn": "Europe is pushing back on Washington’s chip war",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-25T00:08:36.000Z"
-    },
-    {
-      "title": "Infosys 前首席执行官创办了一家新初创公司，希望挑战 IT 服务领域",
-      "titleEn": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-24T23:26:52.000Z"
-    },
-    {
-      "title": "Cerebras 股价在盈利后暴跌，首席执行官表示利润前景被误解",
-      "titleEn": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-24T22:41:41.000Z"
-    },
-    {
       "title": "OpenAI 和 Broadcom 推出专为大规模 LLM 推理而设计的芯片",
       "titleEn": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
       "summary": "",
@@ -253,15 +262,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1152x648.webp",
       "publishedAt": "2026-06-24T22:28:18.000Z"
-    },
-    {
-      "title": "人工智能本应消灭工程工作，但新数据表明它们是最具弹性的",
-      "titleEn": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-24T21:56:41.000Z"
     },
     {
       "title": "人工智能网络数据基础设施层的出现",
