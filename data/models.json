@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T02:55:29.987Z",
+  "updatedAt": "2026-06-30T02:49:27.413Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -930,14 +930,6 @@
         },
         {
           "rank": 10,
-          "name": "GPT-5.5 Instant",
-          "org": "OpenAI",
-          "country": "us",
-          "score": 10.3,
-          "released": "2026-05-05"
-        },
-        {
-          "rank": 11,
           "name": "GPT-5.3 Codex",
           "org": "OpenAI",
           "country": "us",
@@ -945,7 +937,7 @@
           "released": "2026-02-05"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Grok Build 0.1 0616",
           "org": "xAI",
           "country": "us",
@@ -953,7 +945,7 @@
           "released": null
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Kimi K2.6",
           "org": "Kimi",
           "country": "cn",
@@ -961,7 +953,7 @@
           "released": "2026-04-20"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Muse Spark",
           "org": "Meta",
           "country": "us",
@@ -969,7 +961,7 @@
           "released": "2026-04-08"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "GLM-5.2",
           "org": "Z AI",
           "country": "cn",
@@ -977,12 +969,20 @@
           "released": "2026-06-16"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "MiMo-V2.5-Pro",
           "org": "Xiaomi",
           "country": "cn",
           "score": 3.6,
           "released": "2026-04-22"
+        },
+        {
+          "rank": 16,
+          "name": "GPT-5.5 Instant",
+          "org": "OpenAI",
+          "country": "us",
+          "score": 3.5,
+          "released": "2026-06-25"
         },
         {
           "rank": 17,

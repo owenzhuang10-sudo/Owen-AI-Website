@@ -1,7 +1,124 @@
 {
-  "updatedAt": "2026-06-29T02:55:25.093Z",
+  "updatedAt": "2026-06-30T02:49:27.150Z",
   "count": 50,
   "items": [
+    {
+      "title": "随着人工智能初创公司寻求防御性，Vibe 编码平台 Base44 推出自己的模型",
+      "titleEn": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-30T02:28:41.000Z"
+    },
+    {
+      "title": "韩国将花费 1T 美元增加存储芯片生产和人形机器人",
+      "titleEn": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png",
+      "publishedAt": "2026-06-29T21:09:43.000Z"
+    },
+    {
+      "title": "Gemini 的个性化 AI 图像生成现已免费向美国用户开放",
+      "titleEn": "Gemini’s personalized AI image generation is now free for US users",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-29T20:12:59.000Z"
+    },
+    {
+      "title": "Anthropic 和州长 Newsom 达成协议，允许加州政府半价使用 Claude",
+      "titleEn": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-29T18:10:26.000Z"
+    },
+    {
+      "title": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
+      "titleEn": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-29T18:07:48.000Z"
+    },
+    {
+      "title": "人工智能代理不是你的“同事”",
+      "titleEn": "AI agents are not your “coworkers”",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-06-29T18:00:00.000Z"
+    },
+    {
+      "title": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
+      "titleEn": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-29T17:39:17.000Z"
+    },
+    {
+      "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
+      "titleEn": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-29T17:03:50.000Z"
+    },
+    {
+      "title": "TIDAL通过切断货币化来打击人工智能音乐",
+      "titleEn": "TIDAL cracks down on AI music by cutting off monetization",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-29T16:29:04.000Z"
+    },
+    {
+      "title": "问AI专家：全栈到底是什么？",
+      "titleEn": "Ask an AI expert: What exactly is the full stack?",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp\">一位 Google 专家解释了采用全栈方法实现 AI 的含义以及为什么它成为人工智能的基础",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp",
+      "publishedAt": "2026-06-29T16:00:00.000Z"
+    },
+    {
+      "title": "代理商对技术前沿的信心",
+      "titleEn": "Agent confidence on the technical frontier",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Report-2026-cover.png",
+      "publishedAt": "2026-06-29T14:44:01.000Z"
+    },
+    {
+      "title": "机器人手公司就特斯拉商业秘密诉讼达成和解并宣布融资 1100 万美元",
+      "titleEn": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-29T14:00:08.000Z"
+    },
+    {
+      "title": "Omen AI优化数据中心的计划全部落空",
+      "titleEn": "Omen AI’s plan to optimize data centers is all wet",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-06-29T13:00:00.000Z"
+    },
     {
       "title": "人工智能不足后，福特重新雇用“灰胡子”工程师",
       "titleEn": "Ford rehires ‘gray beard’ engineers after AI falls short",
@@ -57,8 +174,8 @@
       "publishedAt": "2026-06-27T12:00:00.000Z"
     },
     {
-      "title": "特朗普政府发布 Anthropic 神话供 100 多家美国公司、机构使用",
-      "titleEn": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "title": "特朗普政府发布 Anthropic Mythos 供 100 多家美国公司、机构使用",
+      "titleEn": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "summary": "",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "source": "TechCrunch AI",
@@ -120,42 +237,6 @@
       "publishedAt": "2026-06-26T16:24:47.000Z"
     },
     {
-      "title": "OpenAI 的 Jalapeo 芯片是大型科技公司摆脱 Nvidia 最辣的举动",
-      "titleEn": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "summary": "",
-      "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-26T14:00:00.000Z"
-    },
-    {
-      "title": "TechCrunch 创始人峰会的早鸟价将于今晚结束",
-      "titleEn": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-26T13:00:00.000Z"
-    },
-    {
-      "title": "出于安全考虑，白宫要求 OpenAI 放慢新型号的发布",
-      "titleEn": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-25T23:34:39.000Z"
-    },
-    {
-      "title": "Patronus AI 获得 5000 万美元投资，用于构建对 AI 代理进行压力测试的“数字世界”",
-      "titleEn": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-25T20:19:25.000Z"
-    },
-    {
       "title": "由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序",
       "titleEn": "Notion killing Skiff-influenced email app since most users use AI agents instead",
       "summary": "",
@@ -183,33 +264,6 @@
       "publishedAt": "2026-06-25T18:01:48.000Z"
     },
     {
-      "title": "Anthropic 的 Claude 正在赢得付费消费者的青睐，这是 ChatGPT 拥有的市场",
-      "titleEn": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-25T17:38:27.000Z"
-    },
-    {
-      "title": "General Intuition 的 2.3B 美元赌注是视频游戏可以为现实世界训练人工智能代理",
-      "titleEn": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-25T16:55:00.000Z"
-    },
-    {
-      "title": "Databricks 的前 AI 主管认为他可以将 AI 的电费削减 1,000 倍",
-      "titleEn": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-25T16:48:11.000Z"
-    },
-    {
       "title": "我们最新的 Google 财务升级，包括一个新的应用程序",
       "titleEn": "Our latest Google Finance upgrades, including a new app",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp\">新版 Google Finance 即将结束测试版并推出新的 Android 应用。",
@@ -219,15 +273,6 @@
       "publishedAt": "2026-06-25T16:00:00.000Z"
     },
     {
-      "title": "Netris 从 a16z 筹集了 1500 万美元 A 轮融资，以帮助 AI Neocloud 更快上线",
-      "titleEn": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-25T14:55:38.000Z"
-    },
-    {
       "title": "人工智能时代重新定位零售业",
       "titleEn": "Repositioning retail for the AI era",
       "summary": "",
@@ -235,15 +280,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-06-25T14:22:59.000Z"
-    },
-    {
-      "title": "还剩 2 天可节省高达 190 美元：与 1,000 多名创始人和投资者一起参加 TechCrunch 创始人峰会",
-      "titleEn": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-25T14:00:00.000Z"
     },
     {
       "title": "IBM声称世界上第一个亚1纳米芯片技术",
@@ -415,42 +451,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Hegseth-Congress-1024x648.jpg",
       "publishedAt": "2026-06-16T18:11:05.000Z"
-    },
-    {
-      "title": "SpaceX 将以 600 亿美元收购人工智能编码平台 Cursor",
-      "titleEn": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Cursor-1152x648-1781627048.png",
-      "publishedAt": "2026-06-16T16:37:45.000Z"
-    },
-    {
-      "title": "想要数据中心快速上线吗？给它一些弹性。",
-      "titleEn": "Want to get a data center online quickly? Give it some flex.",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/26-05-27-MIT-TECH-01-Interior-1-FIN-cmyk_1.jpg?w=1425",
-      "publishedAt": "2026-06-16T09:00:00.000Z"
-    },
-    {
-      "title": "为什么韩国人如此热爱人工智能？",
-      "titleEn": "Why do South Koreans love AI so much?",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-06-15T18:46:08.000Z"
-    },
-    {
-      "title": "我们正在通过新的投资和社区支持来加强我们在阿拉巴马州的业务。",
-      "titleEn": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "summary": "Google 宣布在 2026 年和 2027 年投资 15 亿美元，扩建其位于阿拉巴马州杰克逊县的数据中心园区。自 2019 年起在改造后的前…",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "source": "Google AI Blog",
-      "image": null,
-      "publishedAt": "2026-06-15T15:00:00.000Z"
     }
   ]
 }
