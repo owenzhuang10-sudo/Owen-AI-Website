@@ -1,7 +1,115 @@
 {
-  "updatedAt": "2026-07-01T02:55:04.882Z",
+  "updatedAt": "2026-07-02T02:44:54.582Z",
   "count": 50,
   "items": [
+    {
+      "title": "SpaceX 有一个人工智能设备原型，听起来确实像手机",
+      "titleEn": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-01T18:54:18.000Z"
+    },
+    {
+      "title": "阿什顿·库彻 (Ashton Kutcher) 离开 Sound Ventures，与摩根·贝勒 (Morgan Beller) 共同创办新的风险投资公司",
+      "titleEn": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-01T18:47:22.000Z"
+    },
+    {
+      "title": "我们在 2026 年 6 月公布的最新 AI 新闻",
+      "titleEn": "The latest AI news we announced in June 2026",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp\">以下是 Google 自 2026 年 6 月起的最新 AI 更新。",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
+      "publishedAt": "2026-07-01T18:15:00.000Z"
+    },
+    {
+      "title": "Cloudflare新政策推动AI公司为出版商的内容付费",
+      "titleEn": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-01T17:48:37.000Z"
+    },
+    {
+      "title": "在吓唬特朗普进行安全测试后，Anthropic人工智能模型在全球发布",
+      "titleEn": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg",
+      "publishedAt": "2026-07-01T16:44:18.000Z"
+    },
+    {
+      "title": "纽约市的教育工作者和行业领袖齐聚 Google 的办公室，共同塑造人工智能在课堂上的未来。",
+      "titleEn": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\">Google，纽约就业首席执行官委员会和城市议会主办了一场人工智能峰会，共有 150 名教育和",
+      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
+      "publishedAt": "2026-07-01T16:00:00.000Z"
+    },
+    {
+      "title": "法学硕士陷入了群体思维的困境。这家初创公司正试图将他们赶走。",
+      "titleEn": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-07-01T14:35:16.000Z"
+    },
+    {
+      "title": "随着隐私优先的人工智能平台的腾飞，Venice AI 成为独角兽，A 轮融资金额达 6500 万美元",
+      "titleEn": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-01T14:25:23.000Z"
+    },
+    {
+      "title": "Gemini Spark，Google 的代理助手，现已在 Mac 上使用",
+      "titleEn": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-01T14:20:19.000Z"
+    },
+    {
+      "title": "Builders Stage 议程揭晓：TechCrunch Disrupt 2026 上扩大初创企业规模的实用策略",
+      "titleEn": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-01T14:00:00.000Z"
+    },
+    {
+      "title": "Meta 与 SpaceX 一样，希望将多余的人工智能计算转化为现金",
+      "titleEn": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-01T13:43:07.000Z"
+    },
+    {
+      "title": "“互联网之父”终于退休了",
+      "titleEn": "The ‘Father of the Internet’ is finally retiring",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-01T03:15:37.000Z"
+    },
     {
       "title": "特朗普取消了对 Anthropic 神话和寓言模型的限制",
       "titleEn": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
@@ -156,15 +264,6 @@
       "publishedAt": "2026-06-30T15:00:00.000Z"
     },
     {
-      "title": "Proton 专注于隐私的人工智能聊天机器人 Lumo 获得升级",
-      "titleEn": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-30T14:00:00.000Z"
-    },
-    {
       "title": "农业已为人工智能做好准备，但其数据还没有",
       "titleEn": "Agriculture is ready for AI, but its data isn’t",
       "summary": "",
@@ -172,15 +271,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?w=2309",
       "publishedAt": "2026-06-30T12:00:00.000Z"
-    },
-    {
-      "title": "加密货币交易所 OKX 希望人工智能代理相互雇佣并支付报酬",
-      "titleEn": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-30T09:00:00.000Z"
     },
     {
       "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家",
@@ -192,24 +282,6 @@
       "publishedAt": "2026-06-30T06:00:00.000Z"
     },
     {
-      "title": "人工智能就业辩论变得更加混乱",
-      "titleEn": "The AI jobs debate just got messier",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-30T04:01:00.000Z"
-    },
-    {
-      "title": "随着人工智能初创公司寻求防御性，Vibe 编码平台 Base44 推出自己的模型",
-      "titleEn": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-30T02:28:41.000Z"
-    },
-    {
       "title": "韩国将花费 1T 美元增加存储芯片生产和人形机器人",
       "titleEn": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "summary": "",
@@ -219,33 +291,6 @@
       "publishedAt": "2026-06-29T21:09:43.000Z"
     },
     {
-      "title": "Gemini 的个性化 AI 图像生成现已免费向美国用户开放",
-      "titleEn": "Gemini’s personalized AI image generation is now free for US users",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-29T20:12:59.000Z"
-    },
-    {
-      "title": "Anthropic 和州长 Newsom 达成协议，允许加州政府半价使用 Claude",
-      "titleEn": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-29T18:10:26.000Z"
-    },
-    {
-      "title": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
-      "titleEn": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-29T18:07:48.000Z"
-    },
-    {
       "title": "人工智能代理不是你的“同事”",
       "titleEn": "AI agents are not your “coworkers”",
       "summary": "",
@@ -253,15 +298,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-06-29T18:00:00.000Z"
-    },
-    {
-      "title": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
-      "titleEn": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-29T17:39:17.000Z"
     },
     {
       "title": "问AI专家：全栈到底是什么？",
@@ -415,42 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-06-22T18:00:00.000Z"
-    },
-    {
-      "title": "Anthropic 是如何说服自己实施人工智能出口禁令的",
-      "titleEn": "How Anthropic may have talked itself into an AI export ban",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-1152x648.jpg",
-      "publishedAt": "2026-06-22T13:45:24.000Z"
-    },
-    {
-      "title": "一家初创公司声称它突破了阻碍法学硕士的瓶颈",
-      "titleEn": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-06-19T10:40:24.000Z"
-    },
-    {
-      "title": "随着中国的崛起，台湾为国防和美军制造了更多无人机",
-      "titleEn": "As China looms, Taiwan makes more drones for defense and the US military",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Taiwan-military-drones-1152x648.jpg",
-      "publishedAt": "2026-06-18T21:21:26.000Z"
-    },
-    {
-      "title": "伯尼·桑德斯公布 7 万亿美元计划，让美国人控制人工智能行业",
-      "titleEn": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230233284-1152x648.jpg",
-      "publishedAt": "2026-06-18T17:02:49.000Z"
     }
   ]
 }
