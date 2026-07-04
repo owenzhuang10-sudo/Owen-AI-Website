@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-07-03T02:27:33.687Z",
+  "updatedAt": "2026-07-04T02:25:33.935Z",
   "count": 50,
   "items": [
+    {
+      "title": "今年您需要的唯一人工智能术语表",
+      "titleEn": "The only AI glossary you’ll need this year",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-03T21:20:00.000Z"
+    },
+    {
+      "title": "浏览器之战不再是搜索问题——这里是 Chrome 和 Safari 的最佳替代品",
+      "titleEn": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-03T18:43:00.000Z"
+    },
     {
       "title": "马克·扎克伯格告诉员工，人工智能代理的进展没有他希望的那么快",
       "titleEn": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
@@ -246,15 +264,6 @@
       "publishedAt": "2026-07-01T02:04:40.000Z"
     },
     {
-      "title": "OpenClaw 终于在 Android 和 iOS 上可用",
-      "titleEn": "OpenClaw is finally available on Android and iOS",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-30T21:53:28.000Z"
-    },
-    {
       "title": "Claude Science是Anthropic最新旗舰产品",
       "titleEn": "Claude Science is Anthropic’s newest flagship product",
       "summary": "",
@@ -262,15 +271,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-06-30T21:50:04.000Z"
-    },
-    {
-      "title": "构建扑克人工智能的 DeepMind 三人现在正在为量化对冲基金赚钱",
-      "titleEn": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-06-30T20:33:48.000Z"
     },
     {
       "title": "新的攻击提供了人工智能浏览器不是一个好主意的又一个原因",
@@ -327,7 +327,7 @@
       "publishedAt": "2026-06-30T06:00:00.000Z"
     },
     {
-      "title": "韩国将花费 1T 美元用于更多存储芯片生产和人形机器人",
+      "title": "韩国将花费 1T 美元增加存储芯片生产和人形机器人",
       "titleEn": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
