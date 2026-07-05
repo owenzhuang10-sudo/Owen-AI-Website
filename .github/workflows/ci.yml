@@ -1,0 +1,23 @@
+name: CI 质量门禁
+
+# 每次推送/PR 自动跑类型检查 + 构建，挡住带病代码
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["data/**"]   # 每日数据提交不触发
+  pull_request:
+
+jobs:
+  quality-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: 类型检查
+        run: npx tsc --noEmit
+      - name: 构建
+        run: npm run build
