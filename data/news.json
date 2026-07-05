@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-07-04T02:25:33.935Z",
+  "updatedAt": "2026-07-05T02:34:58.128Z",
   "count": 50,
   "items": [
+    {
+      "title": "新的 Google 广告想象了在人工智能的帮助下撰写的独立宣言",
+      "titleEn": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-04T20:55:25.000Z"
+    },
+    {
+      "title": "Midjourney 希望好莱坞电影公司透露其人工智能使用的细节",
+      "titleEn": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-04T18:00:05.000Z"
+    },
+    {
+      "title": "据报道，Alibaba 禁止员工使用 Claude 代码",
+      "titleEn": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-04T16:32:08.000Z"
+    },
+    {
+      "title": "Mistral AI 是什么？关于 OpenAI 竞争对手的所有信息",
+      "titleEn": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-04T15:51:32.000Z"
+    },
     {
       "title": "今年您需要的唯一人工智能术语表",
       "titleEn": "The only AI glossary you’ll need this year",
@@ -129,7 +165,7 @@
       "publishedAt": "2026-07-02T11:15:49.000Z"
     },
     {
-      "title": "印度科技大亨自掏腰包 3000 万美元打造 Microsoft Office 的人工智能替代品",
+      "title": "印度科技大亨自掏腰包 3000 万美元打造 Microsoft Office 的人工智能替代方案",
       "titleEn": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "summary": "",
       "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
@@ -226,42 +262,6 @@
       "source": "TechCrunch AI",
       "image": null,
       "publishedAt": "2026-07-01T14:00:00.000Z"
-    },
-    {
-      "title": "Meta 与 SpaceX 一样，希望将多余的人工智能计算转化为现金",
-      "titleEn": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T13:43:07.000Z"
-    },
-    {
-      "title": "“互联网之父”终于退休了",
-      "titleEn": "The ‘Father of the Internet’ is finally retiring",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T03:15:37.000Z"
-    },
-    {
-      "title": "特朗普取消了对 Anthropic 神话和寓言模型的限制",
-      "titleEn": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T02:16:06.000Z"
-    },
-    {
-      "title": "Wayve 以 $8.5B 估值推出 8500 万美元员工收购要约",
-      "titleEn": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T02:04:40.000Z"
     },
     {
       "title": "Claude Science是Anthropic最新旗舰产品",
