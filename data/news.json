@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-07-05T02:34:58.128Z",
+  "updatedAt": "2026-07-06T02:39:19.414Z",
   "count": 50,
   "items": [
+    {
+      "title": "亚马逊将停止接受 Mechanical Turk 新客户",
+      "titleEn": "Amazon will stop accepting new customers for Mechanical Turk",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-05T17:43:36.000Z"
+    },
     {
       "title": "新的 Google 广告想象了在人工智能的帮助下撰写的独立宣言",
       "titleEn": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -228,7 +237,7 @@
       "publishedAt": "2026-07-01T16:00:00.000Z"
     },
     {
-      "title": "法学硕士陷入了群体思维的困境。这家初创公司正试图将他们赶走。",
+      "title": "法学硕士陷入了集体思维的困境。这家初创公司正试图将他们赶出去。",
       "titleEn": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
@@ -253,15 +262,6 @@
       "source": "TechCrunch AI",
       "image": null,
       "publishedAt": "2026-07-01T14:20:19.000Z"
-    },
-    {
-      "title": "Builders Stage 议程揭晓：TechCrunch Disrupt 2026 上扩大初创企业规模的实用策略",
-      "titleEn": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T14:00:00.000Z"
     },
     {
       "title": "Claude Science是Anthropic最新旗舰产品",
