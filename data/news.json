@@ -1,7 +1,115 @@
 {
-  "updatedAt": "2026-07-06T02:39:19.414Z",
+  "updatedAt": "2026-07-07T02:35:24.109Z",
   "count": 50,
   "items": [
+    {
+      "title": "“第一次”人工智能运行的勒索软件攻击仍然需要人类",
+      "titleEn": "The ‘first’ AI-run ransomware attack still needed a human",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-06T23:56:14.000Z"
+    },
+    {
+      "title": "美国投资者很快将有机会投资另一家乘着人工智能热潮的存储器制造商SK海力士",
+      "titleEn": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-06T23:21:03.000Z"
+    },
+    {
+      "title": "Vercel 首席执行官吉列尔莫·劳奇 (Guillermo Rauch) 谈模特与经纪人分离的斗争",
+      "titleEn": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-06T19:49:10.000Z"
+    },
+    {
+      "title": "现在，您可以在最新的 iOS 27 Beta 中自定义 Siri 的节奏和表现力",
+      "titleEn": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-06T19:01:59.000Z"
+    },
+    {
+      "title": "2026 年每一次重大科技裁员都涉及人工智能",
+      "titleEn": "Every major tech layoff in 2026 that has name-checked AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-06T18:35:00.000Z"
+    },
+    {
+      "title": "您家族在 OpenAI 中持有 300 美元的股份",
+      "titleEn": "Your family’s $300 stake in OpenAI",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-07-06T18:00:00.000Z"
+    },
+    {
+      "title": "如果你使用 Google，你就是在训练它的 AI。以下是如何选择退出。",
+      "titleEn": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-06T17:04:58.000Z"
+    },
+    {
+      "title": "秘密Claude追踪器在Anthropic的反监视立场后震惊用户",
+      "titleEn": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277613277-1024x648.jpg",
+      "publishedAt": "2026-07-06T16:44:18.000Z"
+    },
+    {
+      "title": "Microsoft 在 Xbox、商业销售领域裁员近 5,000 名员工",
+      "titleEn": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-06T15:32:43.000Z"
+    },
+    {
+      "title": "Reddit 正在使用法学硕士来解决法学硕士很大程度上造成的问题",
+      "titleEn": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-06T15:22:08.000Z"
+    },
+    {
+      "title": "英国监管机构警告称，为了跟上人工智能在金融服务中的应用，可能会出现“军备竞赛”",
+      "titleEn": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-1152x648.jpeg",
+      "publishedAt": "2026-07-06T14:17:42.000Z"
+    },
+    {
+      "title": "Station F 逐渐成为欧洲最热门人工智能初创公司的发射台",
+      "titleEn": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-06T13:00:00.000Z"
+    },
     {
       "title": "亚马逊将停止接受 Mechanical Turk 新客户",
       "titleEn": "Amazon will stop accepting new customers for Mechanical Turk",
@@ -111,15 +219,6 @@
       "publishedAt": "2026-07-02T15:37:08.000Z"
     },
     {
-      "title": "OpenAI拟将5%股权捐赠给美国主权财富基金",
-      "titleEn": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-02T15:20:51.000Z"
-    },
-    {
       "title": "特朗普让OpenAI提供美国5%的股份，远低于桑德斯的目标",
       "titleEn": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
       "summary": "",
@@ -138,15 +237,6 @@
       "publishedAt": "2026-07-02T14:39:17.000Z"
     },
     {
-      "title": "Microsoft 承诺投入 25 亿美元成立自己的人工智能部署公司",
-      "titleEn": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-02T13:53:00.000Z"
-    },
-    {
       "title": "教人工智能与涡轮机一起运行",
       "titleEn": "Teaching AI to run with the turbines",
       "summary": "",
@@ -154,15 +244,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-02T12:51:44.000Z"
-    },
-    {
-      "title": "是的，我们现在正在使用 OpenClaw",
-      "titleEn": "Yep, we’re using OpenClaw to date now",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-02T12:00:00.000Z"
     },
     {
       "title": "Google 的人工智能建设推动 2025 年用电量增加 37%",
@@ -174,33 +255,6 @@
       "publishedAt": "2026-07-02T11:15:49.000Z"
     },
     {
-      "title": "印度科技大亨自掏腰包 3000 万美元打造 Microsoft Office 的人工智能替代方案",
-      "titleEn": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-02T05:30:00.000Z"
-    },
-    {
-      "title": "SpaceX 有一个人工智能设备原型，听起来确实像手机",
-      "titleEn": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T18:54:18.000Z"
-    },
-    {
-      "title": "阿什顿·库彻 (Ashton Kutcher) 离开 Sound Ventures，与摩根·贝勒 (Morgan Beller) 共同创办新的风险投资公司",
-      "titleEn": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T18:47:22.000Z"
-    },
-    {
       "title": "我们在 2026 年 6 月公布的最新 AI 新闻",
       "titleEn": "The latest AI news we announced in June 2026",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp\">以下是 Google 自 2026 年 6 月起的最新 AI 更新。",
@@ -208,15 +262,6 @@
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-01T18:15:00.000Z"
-    },
-    {
-      "title": "Cloudflare新政策推动AI公司为出版商的内容付费",
-      "titleEn": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T17:48:37.000Z"
     },
     {
       "title": "在吓唬特朗普进行安全测试后，Anthropic人工智能模型在全球发布",
@@ -237,31 +282,13 @@
       "publishedAt": "2026-07-01T16:00:00.000Z"
     },
     {
-      "title": "法学硕士陷入了集体思维的困境。这家初创公司正试图将他们赶出去。",
+      "title": "法学硕士陷入了群体思维的困境。这家初创公司正试图将他们赶走。",
       "titleEn": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-01T14:35:16.000Z"
-    },
-    {
-      "title": "随着隐私第一的人工智能平台的腾飞，Venice AI 成为独角兽，A 轮融资金额达 6500 万美元",
-      "titleEn": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T14:25:23.000Z"
-    },
-    {
-      "title": "Gemini Spark，Google 的代理助手，现已在 Mac 上使用",
-      "titleEn": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-01T14:20:19.000Z"
     },
     {
       "title": "Claude Science是Anthropic最新旗舰产品",
@@ -424,33 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-06-25T14:22:59.000Z"
-    },
-    {
-      "title": "IBM声称世界上第一个亚1纳米芯片技术",
-      "titleEn": "IBM claims world’s first sub-1 nanometer chip technology",
-      "summary": "",
-      "link": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-1152x648.jpg",
-      "publishedAt": "2026-06-25T10:00:55.000Z"
-    },
-    {
-      "title": "OpenAI 和 Broadcom 推出专为大规模 LLM 推理而设计的芯片",
-      "titleEn": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-      "summary": "",
-      "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1152x648.webp",
-      "publishedAt": "2026-06-24T22:28:18.000Z"
-    },
-    {
-      "title": "人工智能网络数据基础设施层的出现",
-      "titleEn": "The emergence of the web data infrastructure layer for AI",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg",
-      "publishedAt": "2026-06-24T11:59:54.000Z"
     }
   ]
 }
