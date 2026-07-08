@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T02:35:24.342Z",
+  "updatedAt": "2026-07-08T02:08:50.152Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -183,7 +183,7 @@
         {
           "rank": 22,
           "name": "Grok Build 0.1 0616",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 39.8,
           "released": null
@@ -418,7 +418,7 @@
         {
           "rank": 25,
           "name": "Grok Build 0.1 0616",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 51.5,
           "released": null
@@ -581,7 +581,7 @@
         {
           "rank": 19,
           "name": "Grok Build 0.1 0616",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 28,
           "released": null
@@ -629,7 +629,7 @@
         {
           "rank": 25,
           "name": "Grok 4.3",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 24.1,
           "released": "2026-04-30"
@@ -744,7 +744,7 @@
         {
           "rank": 13,
           "name": "Grok 4.3",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 90.1,
           "released": "2026-04-30"
@@ -768,7 +768,7 @@
         {
           "rank": 16,
           "name": "Grok Build 0.1 0616",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 89.5,
           "released": null
@@ -907,7 +907,7 @@
         {
           "rank": 7,
           "name": "Grok 4.3",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 18.3,
           "released": "2026-04-30"
@@ -939,7 +939,7 @@
         {
           "rank": 11,
           "name": "Grok Build 0.1 0616",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 7.4,
           "released": null
@@ -1070,7 +1070,7 @@
         {
           "rank": 1,
           "name": "Grok 4.3",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 83.3,
           "released": "2026-04-30"
@@ -1564,7 +1564,7 @@
         {
           "rank": 10,
           "name": "Grok 4.3",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 78.1,
           "released": "2026-04-30"
@@ -1596,7 +1596,7 @@
         {
           "rank": 14,
           "name": "Grok Build 0.1 0616",
-          "org": "xAI",
+          "org": "SpaceXAI",
           "country": "us",
           "score": 76.5,
           "released": null
