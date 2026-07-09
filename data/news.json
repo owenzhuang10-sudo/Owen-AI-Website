@@ -1,7 +1,169 @@
 {
-  "updatedAt": "2026-07-08T02:08:49.890Z",
+  "updatedAt": "2026-07-09T02:27:29.939Z",
   "count": 50,
   "items": [
+    {
+      "title": "据报道 Lovable 正在谈判将其估值翻倍至 $13.2B",
+      "titleEn": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T22:41:33.000Z"
+    },
+    {
+      "title": "常春藤盟校教授怀疑人工智能作弊，下令进行现场决赛；成绩下降50%",
+      "titleEn": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-1152x648.jpg",
+      "publishedAt": "2026-07-08T21:42:44.000Z"
+    },
+    {
+      "title": "Google 的 Deepfake 探测器系统用于揭穿麦康奈尔骗局图片",
+      "titleEn": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T20:37:03.000Z"
+    },
+    {
+      "title": "诉讼：男子用Grok为继女制作7K色情图片，然后开枪自杀",
+      "titleEn": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-1024x648.jpg",
+      "publishedAt": "2026-07-08T19:56:37.000Z"
+    },
+    {
+      "title": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
+      "titleEn": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T19:30:16.000Z"
+    },
+    {
+      "title": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
+      "titleEn": "This startup thinks robotics is about to have its ChatGPT moment",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T19:19:15.000Z"
+    },
+    {
+      "title": "Google Photos 添加了新的 AI“视频混音”工具",
+      "titleEn": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T18:30:08.000Z"
+    },
+    {
+      "title": "为什么这位首席执行官认为视频游戏比互联网提供更好的训练数据",
+      "titleEn": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T17:47:55.000Z"
+    },
+    {
+      "title": "Meta 希望其 AI 眼镜看起来不那么令人毛骨悚然。它的人工智能战略却另有说法。",
+      "titleEn": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T17:11:18.000Z"
+    },
+    {
+      "title": "OpenAI 发布新语音模型，实现更自然的实时对话",
+      "titleEn": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T17:00:00.000Z"
+    },
+    {
+      "title": "Google 使用新的 LLM 更新了 Android Bench，但 Gemini 仍然落后",
+      "titleEn": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "summary": "",
+      "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
+      "publishedAt": "2026-07-08T16:39:48.000Z"
+    },
+    {
+      "title": "Prime Intellect 筹集 1.3 亿美元 A 轮融资，帮助企业构建自己的 AI 代理",
+      "titleEn": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T16:22:38.000Z"
+    },
+    {
+      "title": "这些人工智能初创公司的收入增长速度越来越快",
+      "titleEn": "These AI startups are growing revenue at faster and faster rates",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T15:41:06.000Z"
+    },
+    {
+      "title": "这家贝索斯支持的初创公司表示，你的游戏数据可能是 AGI 的秘密",
+      "titleEn": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "summary": "",
+      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T13:00:00.000Z"
+    },
+    {
+      "title": "OpenAI 前高管 Kevin Weil 现已成为 Stoke Space 董事会成员",
+      "titleEn": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "title": "法国热门初创公司 ZML 发布免费产品，以加快多种人工智能芯片的推理速度",
+      "titleEn": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T08:00:00.000Z"
+    },
+    {
+      "title": "AI 芯片制造商 SambaNova 在上一轮大型融资 5 个月后以 11B 美元估值筹集 10 亿美元",
+      "titleEn": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-08T07:16:00.000Z"
+    },
+    {
+      "title": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
+      "titleEn": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg",
+      "publishedAt": "2026-07-08T07:00:51.000Z"
+    },
     {
       "title": "Meta 刚刚推出了一款新的人工智能生成器 Muse Image，用户已经开始拒绝使用他们的照片",
       "titleEn": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
@@ -87,19 +249,10 @@
       "title": "人工智能如何在工作场所甚至家庭中实现自主机器人工人",
       "titleEn": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
       "summary": "",
-      "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "link": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-1152x648.jpg",
       "publishedAt": "2026-07-07T11:00:18.000Z"
-    },
-    {
-      "title": "第一批美国自主地面车辆正在乌克兰作战",
-      "titleEn": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-07T09:00:00.000Z"
     },
     {
       "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等",
@@ -111,51 +264,6 @@
       "publishedAt": "2026-07-07T08:54:00.000Z"
     },
     {
-      "title": "“第一次”人工智能运行的勒索软件攻击仍然需要人类",
-      "titleEn": "The ‘first’ AI-run ransomware attack still needed a human",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-06T23:56:14.000Z"
-    },
-    {
-      "title": "美国投资者很快将有机会投资另一家乘着人工智能热潮的存储器制造商SK海力士",
-      "titleEn": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-06T23:21:03.000Z"
-    },
-    {
-      "title": "Vercel 首席执行官吉列尔莫·劳奇 (Guillermo Rauch) 谈模特与经纪人分离的斗争",
-      "titleEn": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-06T19:49:10.000Z"
-    },
-    {
-      "title": "现在，您可以在最新的 iOS 27 Beta 中自定义 Siri 的节奏和表现力",
-      "titleEn": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-06T19:01:59.000Z"
-    },
-    {
-      "title": "2026 年每一次重大科技裁员都涉及人工智能",
-      "titleEn": "Every major tech layoff in 2026 that has name-checked AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-06T18:35:00.000Z"
-    },
-    {
       "title": "您家族在 OpenAI 中持有 300 美元的股份",
       "titleEn": "Your family’s $300 stake in OpenAI",
       "summary": "",
@@ -163,15 +271,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-06T18:00:00.000Z"
-    },
-    {
-      "title": "如果你使用 Google，你就是在训练它的 AI。以下是如何选择退出。",
-      "titleEn": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-06T17:04:58.000Z"
     },
     {
       "title": "秘密Claude追踪器在Anthropic的反监视立场后震惊用户",
@@ -183,24 +282,6 @@
       "publishedAt": "2026-07-06T16:44:18.000Z"
     },
     {
-      "title": "Microsoft 在 Xbox、商业销售领域裁员近 5,000 名员工",
-      "titleEn": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-06T15:32:43.000Z"
-    },
-    {
-      "title": "Reddit 正在使用法学硕士来解决法学硕士很大程度上造成的问题",
-      "titleEn": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-06T15:22:08.000Z"
-    },
-    {
       "title": "英国监管机构警告称，为了跟上人工智能在金融服务中的应用，可能会出现“军备竞赛”",
       "titleEn": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
       "summary": "",
@@ -208,51 +289,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-1152x648.jpeg",
       "publishedAt": "2026-07-06T14:17:42.000Z"
-    },
-    {
-      "title": "Station F 逐渐成为欧洲最热门人工智能初创公司的发射台",
-      "titleEn": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-06T13:00:00.000Z"
-    },
-    {
-      "title": "亚马逊将停止接受 Mechanical Turk 新客户",
-      "titleEn": "Amazon will stop accepting new customers for Mechanical Turk",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-05T17:43:36.000Z"
-    },
-    {
-      "title": "新的 Google 广告想象了在人工智能的帮助下撰写的独立宣言",
-      "titleEn": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-04T20:55:25.000Z"
-    },
-    {
-      "title": "Midjourney 希望好莱坞电影公司透露其人工智能使用的细节",
-      "titleEn": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-04T18:00:05.000Z"
-    },
-    {
-      "title": "据报道，Alibaba 禁止员工使用 Claude 代码",
-      "titleEn": "Alibaba reportedly bans employees from using Claude Code",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-04T16:32:08.000Z"
     },
     {
       "title": "利用人工智能实现卓越运营",
@@ -415,42 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-06-29T18:00:00.000Z"
-    },
-    {
-      "title": "问AI专家：全栈到底是什么？",
-      "titleEn": "Ask an AI expert: What exactly is the full stack?",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp\">一位 Google 专家解释了采用全栈方法实现 AI 的含义以及为什么它成为人工智能的基础",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp",
-      "publishedAt": "2026-06-29T16:00:00.000Z"
-    },
-    {
-      "title": "代理商对技术前沿的信心",
-      "titleEn": "Agent confidence on the technical frontier",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Report-2026-cover.png",
-      "publishedAt": "2026-06-29T14:44:01.000Z"
-    },
-    {
-      "title": "韩国计划将整个军队训练为“无人机战士”",
-      "titleEn": "South Korea plans to train entire military as \"drone warriors\"",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-1152x648.jpg",
-      "publishedAt": "2026-06-26T22:19:05.000Z"
-    },
-    {
-      "title": "《纽约时报》猛烈抨击 Microsoft 为 OpenAI 构建侵犯版权的超级计算机",
-      "titleEn": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-1024x648.jpg",
-      "publishedAt": "2026-06-26T20:04:55.000Z"
     }
   ]
 }
