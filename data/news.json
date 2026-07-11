@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-07-10T02:29:08.719Z",
+  "updatedAt": "2026-07-11T02:06:44.534Z",
   "count": 50,
   "items": [
+    {
+      "title": "Meta 在强烈反对后删除了 Instagram 上有争议的人工智能功能",
+      "titleEn": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-10T23:55:07.000Z"
+    },
+    {
+      "title": "苹果起诉 OpenAI 涉嫌窃取商业机密",
+      "titleEn": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-10T21:00:29.000Z"
+    },
+    {
+      "title": "Hugging Face 的 Clem Delangue 表示，开源人工智能比以往任何时候都更重要",
+      "titleEn": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "summary": "",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-10T19:00:00.000Z"
+    },
+    {
+      "title": "SK海力士在美国历史上最大的海外IPO中筹集了26.5亿美元，敦促在美国建造新的晶圆厂",
+      "titleEn": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-10T17:17:12.000Z"
+    },
+    {
+      "title": "欧盟告诉Meta，禁用自动播放和无限滚动，否则将面临巨额罚款",
+      "titleEn": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284791473-1024x648.jpg",
+      "publishedAt": "2026-07-10T15:46:18.000Z"
+    },
+    {
+      "title": "Hugging Face 首席执行官谈为什么公司不再租用人工智能",
+      "titleEn": "Hugging Face’s CEO on why companies are done renting their AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-10T14:00:00.000Z"
+    },
     {
       "title": "OpenAI表示GPT 5.6是Microsoft Copilot 365在分手传闻中的“首选型号”",
       "titleEn": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -12,8 +66,8 @@
       "publishedAt": "2026-07-10T00:16:54.000Z"
     },
     {
-      "title": "Fidji Simo 从 OpenAI 的 2 号位置上退下来。 2 角色",
-      "titleEn": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "title": "Fidji Simo 辞去 OpenAI 的二号人物角色",
+      "titleEn": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "summary": "",
       "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "source": "TechCrunch AI",
@@ -172,51 +226,6 @@
       "source": "TechCrunch AI",
       "image": null,
       "publishedAt": "2026-07-09T17:06:11.000Z"
-    },
-    {
-      "title": "Anthropic的Claude新功能正在悄悄向你推销AI",
-      "titleEn": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T14:53:09.000Z"
-    },
-    {
-      "title": "Anthropic、OpenAI 和 SpaceX 的规模超过过去 25 年的科技退出规模",
-      "titleEn": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T14:51:00.000Z"
-    },
-    {
-      "title": "流行的开源 AI 开发工具 Ollama 融资 6500 万美元，用户数量增长至近 900 万",
-      "titleEn": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T13:00:00.000Z"
-    },
-    {
-      "title": "Character.AI 凭借自己的作品进入微剧舞台，但有一个转折",
-      "titleEn": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T13:00:00.000Z"
-    },
-    {
-      "title": "Nandan Nilekani 辞去 Fundamentum 普通合伙人职务，推出 2 亿美元第三只基金",
-      "titleEn": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T12:00:00.000Z"
     },
     {
       "title": "常春藤盟校教授怀疑人工智能作弊，下令进行现场决赛；成绩下降50%",
@@ -442,15 +451,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/national-design-web-vomit-1152x648.jpg",
       "publishedAt": "2026-06-30T16:59:02.000Z"
-    },
-    {
-      "title": "报道称，特朗普向马斯克索要 SpaceX 股票，为美国儿童的储蓄账户提供资金",
-      "titleEn": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280560807-1024x648.jpg",
-      "publishedAt": "2026-06-30T15:38:08.000Z"
     }
   ]
 }
