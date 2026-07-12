@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-07-11T02:06:44.534Z",
+  "updatedAt": "2026-07-12T02:10:30.164Z",
   "count": 50,
   "items": [
+    {
+      "title": "随着ChatGPT深入家庭，OpenAI押注家庭",
+      "titleEn": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-11T14:13:00.000Z"
+    },
     {
       "title": "Meta 在强烈反对后删除了 Instagram 上有争议的人工智能功能",
       "titleEn": "Meta removes controversial AI feature on Instagram after backlash",
@@ -217,15 +226,6 @@
       "source": "TechCrunch AI",
       "image": null,
       "publishedAt": "2026-07-09T17:17:37.000Z"
-    },
-    {
-      "title": "Nvidia 是其创建的计算市场的受害者",
-      "titleEn": "Nvidia is a victim of the compute marketplace it created",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T17:06:11.000Z"
     },
     {
       "title": "常春藤盟校教授怀疑人工智能作弊，下令进行现场决赛；成绩下降50%",
