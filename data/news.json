@@ -1,7 +1,124 @@
 {
-  "updatedAt": "2026-07-13T02:11:56.972Z",
+  "updatedAt": "2026-07-14T01:57:38.724Z",
   "count": 50,
   "items": [
+    {
+      "title": "Uber 酒店、机器人出租车产品负责人以及该公司为何不想“为所有人提供一切”",
+      "titleEn": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-14T00:45:00.000Z"
+    },
+    {
+      "title": "视频生成初创公司 PixVerse 融资 4.39 亿美元，估值飙升至 20 亿美元以上",
+      "titleEn": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "title": "Hermes 代理制造商 Nous Research 正在以 1.5B 美元估值洽谈新融资",
+      "titleEn": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-13T23:31:18.000Z"
+    },
+    {
+      "title": "萨蒂亚·纳德拉 (Satya Nadella) 对使用人工智能的公司发出了令人震惊的警告",
+      "titleEn": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-13T20:59:00.000Z"
+    },
+    {
+      "title": "苹果起诉 OpenAI 前工程师涉嫌利用 bug 窃取商业机密",
+      "titleEn": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255514431-1024x648.jpg",
+      "publishedAt": "2026-07-13T19:17:51.000Z"
+    },
+    {
+      "title": "苹果针对 OpenAI 的商业秘密诉讼中最疯狂的指控",
+      "titleEn": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-13T18:22:10.000Z"
+    },
+    {
+      "title": "Anthropic 的最新人工智能发现展示了什么（以及没有展示什么）",
+      "titleEn": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-07-13T18:00:00.000Z"
+    },
+    {
+      "title": "大多数专家已经相信萨姆·奥尔特曼的太空数据中心垃圾话",
+      "titleEn": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-13T17:28:37.000Z"
+    },
+    {
+      "title": "人工智能应该帮助你逃脱杀害配偶的罪名吗？",
+      "titleEn": "Should AI help you get away with killing your spouse?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-13T16:31:23.000Z"
+    },
+    {
+      "title": "Anthropic 开始针对印度本地化 Claude 定价，印度是继美国之后的最大市场",
+      "titleEn": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-13T15:34:59.000Z"
+    },
+    {
+      "title": "现在，防御者也开始接受即时注入",
+      "titleEn": "Now, defenders are embracing the prompt injection, too",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
+      "publishedAt": "2026-07-13T15:06:34.000Z"
+    },
+    {
+      "title": "位智添加了新的人工智能功能和定制更新",
+      "titleEn": "Waze adds new AI-powered features and customization updates",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-13T14:18:16.000Z"
+    },
+    {
+      "title": "模拟一切：世界模型的承诺和局限性",
+      "titleEn": "Simulating everything, sort of: The promise and limits of world models",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/cracking-open-world-model-1152x648.jpg",
+      "publishedAt": "2026-07-13T11:00:51.000Z"
+    },
     {
       "title": "随着ChatGPT深入家庭，OpenAI押注家庭",
       "titleEn": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -111,24 +228,6 @@
       "publishedAt": "2026-07-09T22:03:54.000Z"
     },
     {
-      "title": "埃隆·马斯克赞扬神话/寓言，承诺不会“切断”Anthropic",
-      "titleEn": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T21:57:42.000Z"
-    },
-    {
-      "title": "人工智能能否回答 3 万亿美元的问题？",
-      "titleEn": "Can AI answer the $3 trillion question?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T21:47:50.000Z"
-    },
-    {
       "title": "OpenAI 希望它的新工具能够为您工作并与您一起工作",
       "titleEn": "OpenAI wants its new tool to do your work for you and with you",
       "summary": "",
@@ -156,24 +255,6 @@
       "publishedAt": "2026-07-09T20:12:03.000Z"
     },
     {
-      "title": "Meta 与 Muse Spark 1.1 进入激烈的 AI 编码大战",
-      "titleEn": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T19:40:45.000Z"
-    },
-    {
-      "title": "《纽约时报》称 OpenAI 在 ChatGPT 版权审判中隐藏证据",
-      "titleEn": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T19:05:58.000Z"
-    },
-    {
       "title": "OpenAI在与新闻机构的版权斗争中可能犯了致命的错误",
       "titleEn": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
       "summary": "",
@@ -181,51 +262,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270682238-1152x648.jpg",
       "publishedAt": "2026-07-09T18:57:53.000Z"
-    },
-    {
-      "title": "Google 现在将披露哪些广告是用 AI 制作的",
-      "titleEn": "Google will now disclose which ads are made with AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T18:40:51.000Z"
-    },
-    {
-      "title": "总部位于巴黎的人工智能语音初创公司 Gradium 筹集了 1 亿美元种子资金，由 Nvidia 支持",
-      "titleEn": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T18:34:35.000Z"
-    },
-    {
-      "title": "政府如何决定 OpenAI 的前沿模型可以安全发布？",
-      "titleEn": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T18:22:39.000Z"
-    },
-    {
-      "title": "Instagram 用户：以下是如何阻止 Meta 的 AI 使用您的照片",
-      "titleEn": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T17:56:47.000Z"
-    },
-    {
-      "title": "Meta新型AI芯片将于9月开始量产",
-      "titleEn": "Meta’s new AI chips will begin production in September",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-09T17:17:37.000Z"
     },
     {
       "title": "常春藤盟校教授怀疑人工智能作弊，下令进行现场决赛；成绩下降50%",
@@ -372,7 +408,7 @@
       "publishedAt": "2026-07-02T12:51:44.000Z"
     },
     {
-      "title": "Google 的人工智能建设推动 2025 年用电量增加 37%",
+      "title": "Google 的 AI 建设推动 2025 年用电量增加 37%",
       "titleEn": "Google’s AI buildout drove 37% increase in electricity use in 2025",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
@@ -415,42 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-01T14:35:16.000Z"
-    },
-    {
-      "title": "Claude Science是Anthropic最新旗舰产品",
-      "titleEn": "Claude Science is Anthropic’s newest flagship product",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-06-30T21:50:04.000Z"
-    },
-    {
-      "title": "新的攻击提供了人工智能浏览器不是一个好主意的又一个原因",
-      "titleEn": "New attack provides one more reason why AI browsers are a bad idea",
-      "summary": "",
-      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-1152x648.jpg",
-      "publishedAt": "2026-06-30T20:03:14.000Z"
-    },
-    {
-      "title": "Google 的全新 Nano Banana 2 Lite 图像模型是迄今为止最快、最便宜的",
-      "titleEn": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Nano-Banana-2-Lite-1152x648.jpg",
-      "publishedAt": "2026-06-30T18:36:10.000Z"
-    },
-    {
-      "title": "特朗普重新设计每个 .gov 网站的计划导致了人工智能设计的恐怖",
-      "titleEn": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/national-design-web-vomit-1152x648.jpg",
-      "publishedAt": "2026-06-30T16:59:02.000Z"
     }
   ]
 }
