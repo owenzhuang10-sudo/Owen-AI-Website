@@ -1,7 +1,115 @@
 {
-  "updatedAt": "2026-07-17T02:08:01.701Z",
+  "updatedAt": "2026-07-18T01:57:03.959Z",
   "count": 50,
   "items": [
+    {
+      "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
+      "titleEn": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-17T22:55:09.000Z"
+    },
+    {
+      "title": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
+      "titleEn": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-17T22:12:56.000Z"
+    },
+    {
+      "title": "Zoom 黑客说：“别录我”",
+      "titleEn": "The Zoom hack that says, ‘Don’t record me’",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-17T21:20:47.000Z"
+    },
+    {
+      "title": "Agility Robotics 在特斯拉后院插上了自己的旗帜",
+      "titleEn": "Agility Robotics plants its flag in Tesla’s backyard",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-17T20:19:49.000Z"
+    },
+    {
+      "title": "人工智能驱动的内存紧缩震动了印度智能手机市场",
+      "titleEn": "AI-driven memory crunch jolts India’s smartphone market",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-17T20:09:27.000Z"
+    },
+    {
+      "title": "美国和加拿大烟雾弥漫，Google支持的卫星用于野火探测",
+      "titleEn": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "summary": "",
+      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png",
+      "publishedAt": "2026-07-17T19:50:18.000Z"
+    },
+    {
+      "title": "苹果的大诉讼如何扰乱 OpenAI 的 IPO 计划",
+      "titleEn": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "summary": "",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-17T17:45:46.000Z"
+    },
+    {
+      "title": "旧金山命令 Apple、Google 从应用商店中删除裸体应用",
+      "titleEn": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg",
+      "publishedAt": "2026-07-17T16:10:05.000Z"
+    },
+    {
+      "title": "Patreon 不再要求人工智能机器人不要抓取数据，而是开始阻止它们",
+      "titleEn": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-17T15:21:17.000Z"
+    },
+    {
+      "title": "对于 OpenAI 来说，苹果的诉讼来得正是时候",
+      "titleEn": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "summary": "",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-17T14:00:00.000Z"
+    },
+    {
+      "title": "为什么第一批 GPU 金融家在 4 亿美元的交易中转向推理芯片",
+      "titleEn": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-17T12:00:00.000Z"
+    },
+    {
+      "title": "天气数据遭到破坏的风险正在上升",
+      "titleEn": "The risk of weather data sabotage is rising",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-07-17T08:57:32.000Z"
+    },
     {
       "title": "官方消息：欧盟将强制 Google 共享搜索数据并在 Android 上开放人工智能",
       "titleEn": "It's official: EU will force Google to share search data and open up AI on Android",
@@ -147,51 +255,6 @@
       "publishedAt": "2026-07-16T13:17:59.000Z"
     },
     {
-      "title": "应用计算公司希望为石油和天然气运营商提供整个工厂的人工智能模型",
-      "titleEn": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T04:00:00.000Z"
-    },
-    {
-      "title": "据报道，Microsoft 正在培训销售人员贬低 OpenAI 和 Anthropic",
-      "titleEn": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-15T23:59:44.000Z"
-    },
-    {
-      "title": "在硬件法律战中，OpenAI 为 Codex 发布了售价 230 美元的键盘",
-      "titleEn": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-15T19:41:38.000Z"
-    },
-    {
-      "title": "Starship 发射前 SpaceX IPO 价格跌至 135 美元",
-      "titleEn": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-15T18:06:05.000Z"
-    },
-    {
-      "title": "Thinking Machines 通过其第一个开放模型 Inkling 加大了对通用人工智能的赌注",
-      "titleEn": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-15T18:04:06.000Z"
-    },
-    {
       "title": "认识 GPT-Red：LLM 超级黑客 OpenAI 旨在使其模型更安全",
       "titleEn": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "summary": "",
@@ -201,33 +264,6 @@
       "publishedAt": "2026-07-15T17:09:37.000Z"
     },
     {
-      "title": "Hack 建议 AI 音乐生成器 Suno 抓取 YouTube 上的训练数据",
-      "titleEn": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-15T17:00:34.000Z"
-    },
-    {
-      "title": "Whatnot 收购 Shaped 以支持实时购物推荐",
-      "titleEn": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-15T17:00:00.000Z"
-    },
-    {
-      "title": "Microsoft 补丁记录了安全漏洞的数量，理由是其使用了人工智能",
-      "titleEn": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-15T16:20:18.000Z"
-    },
-    {
       "title": "OpenAI的第一个品牌硬件是……发光键盘？",
       "titleEn": "OpenAI's first branded hardware is... a light-up keyboard?",
       "summary": "",
@@ -235,15 +271,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/codexmicro-1152x648-1784128291.png",
       "publishedAt": "2026-07-15T16:00:33.000Z"
-    },
-    {
-      "title": "Inside Ode with Anthropic，初创公司押注人工智能服务是企业的未来",
-      "titleEn": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "summary": "",
-      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-15T15:00:00.000Z"
     },
     {
       "title": "诉讼称Meta的裁员决定是由人工智能而非人类做出的",
@@ -381,24 +408,6 @@
       "publishedAt": "2026-07-08T21:42:44.000Z"
     },
     {
-      "title": "诉讼：男子用Grok为继女制作7K色情图片，然后开枪自杀",
-      "titleEn": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-1024x648.jpg",
-      "publishedAt": "2026-07-08T19:56:37.000Z"
-    },
-    {
-      "title": "Google 使用新的 LLM 更新了 Android Bench，但 Gemini 仍然落后",
-      "titleEn": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "summary": "",
-      "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
-      "publishedAt": "2026-07-08T16:39:48.000Z"
-    },
-    {
       "title": "IT 领导者需要扩展的 AI 架构的基本元素",
       "titleEn": "The foundational elements of AI architecture that IT leaders need to scale",
       "summary": "",
@@ -442,15 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-02T12:51:44.000Z"
-    },
-    {
-      "title": "我们在 2026 年 6 月公布的最新 AI 新闻",
-      "titleEn": "The latest AI news we announced in June 2026",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp\">以下是 Google 自 2026 年 6 月起的最新 AI 更新。",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
-      "publishedAt": "2026-07-01T18:15:00.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T02:08:02.095Z",
+  "updatedAt": "2026-07-18T01:57:04.371Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -827,7 +827,7 @@
           "org": "SpaceXAI",
           "country": "us",
           "score": 89.5,
-          "released": null
+          "released": "2026-06-16"
         },
         {
           "rank": 24,
@@ -974,7 +974,7 @@
           "org": "SpaceXAI",
           "country": "us",
           "score": 7.4,
-          "released": null
+          "released": "2026-06-16"
         },
         {
           "rank": 16,
@@ -1639,7 +1639,7 @@
           "org": "SpaceXAI",
           "country": "us",
           "score": 76.5,
-          "released": null
+          "released": "2026-06-16"
         },
         {
           "rank": 20,
