@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-07-18T01:57:03.959Z",
+  "updatedAt": "2026-07-19T02:08:24.720Z",
   "count": 50,
   "items": [
+    {
+      "title": "Kimi：威胁还是威胁？",
+      "titleEn": "Kimi: Threat or menace?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-18T18:51:07.000Z"
+    },
+    {
+      "title": "人工智能会修复事先授权问题，还是让情况变得更糟？",
+      "titleEn": "Will AI fix prior authorization—or make it worse?",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-1152x648.jpg",
+      "publishedAt": "2026-07-18T11:18:25.000Z"
+    },
+    {
+      "title": "尼尔·里默 (Neil Rimer) 认为人工智能资金正在回归",
+      "titleEn": "Neil Rimer thinks the AI money is coming back out",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-18T04:47:25.000Z"
+    },
     {
       "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
       "titleEn": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
@@ -246,15 +273,6 @@
       "publishedAt": "2026-07-16T14:26:29.000Z"
     },
     {
-      "title": "Apple Intelligence 获准在中国推出 Alibaba 和百度",
-      "titleEn": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T13:17:59.000Z"
-    },
-    {
       "title": "认识 GPT-Red：LLM 超级黑客 OpenAI 旨在使其模型更安全",
       "titleEn": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "summary": "",
@@ -399,15 +417,6 @@
       "publishedAt": "2026-07-09T18:57:53.000Z"
     },
     {
-      "title": "常春藤盟校教授怀疑人工智能作弊，下令进行现场决赛；成绩下降50%",
-      "titleEn": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-1152x648.jpg",
-      "publishedAt": "2026-07-08T21:42:44.000Z"
-    },
-    {
       "title": "IT 领导者需要扩展的 AI 架构的基本元素",
       "titleEn": "The foundational elements of AI architecture that IT leaders need to scale",
       "summary": "",
@@ -442,15 +451,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MIT_TP2_2026_V9_Cover.png?w=1555",
       "publishedAt": "2026-07-02T15:37:08.000Z"
-    },
-    {
-      "title": "为自主企业奠定基础",
-      "titleEn": "Building the foundation for an autonomous enterprise",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-07-02T12:51:44.000Z"
     }
   ]
 }
