@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-07-19T02:08:24.720Z",
+  "updatedAt": "2026-07-20T03:16:28.139Z",
   "count": 50,
   "items": [
+    {
+      "title": "黄仁勋访日后需要注意什么",
+      "titleEn": "What to watch for after Jensen Huang’s Japan visit",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-19T21:16:07.000Z"
+    },
+    {
+      "title": "苹果诉讼是否会破坏 OpenAI 的硬件计划？",
+      "titleEn": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-19T19:24:45.000Z"
+    },
+    {
+      "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是明显的“特洛伊木马”",
+      "titleEn": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-19T14:52:08.000Z"
+    },
+    {
+      "title": "非营利组织 Current AI 正在竞相构建免费的人工智能万维网",
+      "titleEn": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-19T14:00:00.000Z"
+    },
     {
       "title": "Kimi：威胁还是威胁？",
       "titleEn": "Kimi: Threat or menace?",
@@ -235,42 +271,6 @@
       "source": "TechCrunch AI",
       "image": null,
       "publishedAt": "2026-07-16T15:38:55.000Z"
-    },
-    {
-      "title": "为什么 OpenAI 销售 ChatGPT 篮球？",
-      "titleEn": "Why is OpenAI selling a ChatGPT basketball?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T15:31:09.000Z"
-    },
-    {
-      "title": "一位前 DeepMind 研究员如何在推出产品之前筹集 3 亿美元的种子前估值",
-      "titleEn": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T15:02:00.000Z"
-    },
-    {
-      "title": "为什么 AMI Labs 的 Alexandre LeBrun 不会称他的人工智能为“AGI”或“超级智能”",
-      "titleEn": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T14:40:00.000Z"
-    },
-    {
-      "title": "Moonshot 即将推出的 Kimi 3 有望缩小与 Anthropic 的 Opus 4.8 的差距",
-      "titleEn": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T14:26:29.000Z"
     },
     {
       "title": "认识 GPT-Red：LLM 超级黑客 OpenAI 旨在使其模型更安全",
