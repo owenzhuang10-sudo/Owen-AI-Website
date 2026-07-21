@@ -1,7 +1,115 @@
 {
-  "updatedAt": "2026-07-20T03:16:28.139Z",
+  "updatedAt": "2026-07-21T02:07:08.048Z",
   "count": 50,
   "items": [
+    {
+      "title": "Anthropic 具有里程碑意义的 $1.5B 版权和解协议获得批准",
+      "titleEn": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T00:12:24.000Z"
+    },
+    {
+      "title": "特朗普最新的人工智能沙皇已经辞职",
+      "titleEn": "Trump’s latest AI czar has already resigned",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-20T22:21:04.000Z"
+    },
+    {
+      "title": "野火几乎全年困扰美国，消防无人机投入使用",
+      "titleEn": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-5.24.12-PM-1152x648.png",
+      "publishedAt": "2026-07-20T21:55:52.000Z"
+    },
+    {
+      "title": "Google正在开发一款新的AI芯片，旨在使Gemini更加高效",
+      "titleEn": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-20T21:21:15.000Z"
+    },
+    {
+      "title": "人工智能最重要的协议变得更容易使用",
+      "titleEn": "AI’s most important protocol is getting a little bit easier to use",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-20T20:50:40.000Z"
+    },
+    {
+      "title": "经过一年的努力，X 重新推出了重建的 Android 应用程序",
+      "titleEn": "X relaunches a rebuilt Android app after year-long effort",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-20T19:37:39.000Z"
+    },
+    {
+      "title": "OpenAI 害怕开放重量模型。美国应该如此吗？",
+      "titleEn": "OpenAI is scared of open-weight models. Should the US be?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-20T19:33:25.000Z"
+    },
+    {
+      "title": "中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾",
+      "titleEn": "China’s AI models have Trump’s AI world at war with itself",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-07-20T18:00:00.000Z"
+    },
+    {
+      "title": "Adobe 相机应用程序的新功能将使用 AI 来评估您的照片",
+      "titleEn": "Adobe camera app’s new feature will critique your photos using AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-20T15:45:00.000Z"
+    },
+    {
+      "title": "YouTube 澄清了有关 AI 内容和令人不安的视频的政策",
+      "titleEn": "YouTube clarifies policies around AI slop and upsetting videos",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-20T15:23:06.000Z"
+    },
+    {
+      "title": "超越 grep：上下文丰富的 AI 编码工具的案例",
+      "titleEn": "Beyond grep: The case for a context-rich AI coding harness",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg",
+      "publishedAt": "2026-07-20T11:20:10.000Z"
+    },
+    {
+      "title": "人工智能在招聘时比人类更有可能形成偏见",
+      "titleEn": "AI is more likely than humans to form biases when hiring",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-07-20T08:39:01.000Z"
+    },
     {
       "title": "黄仁勋访日后需要注意什么",
       "titleEn": "What to watch for after Jensen Huang’s Japan visit",
@@ -12,7 +120,7 @@
       "publishedAt": "2026-07-19T21:16:07.000Z"
     },
     {
-      "title": "苹果诉讼是否会破坏 OpenAI 的硬件计划？",
+      "title": "苹果诉讼会破坏 OpenAI 的硬件计划吗？",
       "titleEn": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "summary": "",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
@@ -138,33 +246,6 @@
       "publishedAt": "2026-07-17T16:10:05.000Z"
     },
     {
-      "title": "Patreon 不再要求人工智能机器人不要抓取数据，而是开始阻止它们",
-      "titleEn": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-17T15:21:17.000Z"
-    },
-    {
-      "title": "对于 OpenAI 来说，苹果的诉讼来得正是时候",
-      "titleEn": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "summary": "",
-      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-17T14:00:00.000Z"
-    },
-    {
-      "title": "为什么第一批 GPU 金融家在 4 亿美元的交易中转向推理芯片",
-      "titleEn": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-17T12:00:00.000Z"
-    },
-    {
       "title": "天气数据遭到破坏的风险正在上升",
       "titleEn": "The risk of weather data sabotage is rising",
       "summary": "",
@@ -210,33 +291,6 @@
       "publishedAt": "2026-07-16T19:18:23.000Z"
     },
     {
-      "title": "Google Vids 现在可让您在自己的 AI 视频中担任主角",
-      "titleEn": "Google Vids now lets you star in your own AI videos",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T18:32:54.000Z"
-    },
-    {
-      "title": "Roblox 在其移动应用程序中推出了人工智能驱动的游戏创建功能",
-      "titleEn": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T18:22:06.000Z"
-    },
-    {
-      "title": "Google 的 AI 模式现在可让您与选定的应用程序链接和交互",
-      "titleEn": "Google’s AI Mode now lets you link and interact with select apps",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T16:00:00.000Z"
-    },
-    {
       "title": "将更多应用程序连接到搜索",
       "titleEn": "Connect more of your apps to Search",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp\">您将能够在 AI 模式下直接安全地链接您的常用服务并与之交互。",
@@ -262,15 +316,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_2c2b4618-eb73-4160-997a-8f8bb5485e20-1152x648.jpeg",
       "publishedAt": "2026-07-16T15:48:21.000Z"
-    },
-    {
-      "title": "是的，您现在可以从命令行订购 DoorDash",
-      "titleEn": "Yes, you can now order DoorDash from the command line",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-16T15:38:55.000Z"
     },
     {
       "title": "认识 GPT-Red：LLM 超级黑客 OpenAI 旨在使其模型更安全",
@@ -399,24 +444,6 @@
       "publishedAt": "2026-07-09T20:22:28.000Z"
     },
     {
-      "title": "外科医生控制的人形机器人完成了世界首例活猪手术",
-      "titleEn": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/humanoid-robot-surgeons-1152x648.png",
-      "publishedAt": "2026-07-09T20:12:03.000Z"
-    },
-    {
-      "title": "OpenAI在与新闻机构的版权斗争中可能犯了致命的错误",
-      "titleEn": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270682238-1152x648.jpg",
-      "publishedAt": "2026-07-09T18:57:53.000Z"
-    },
-    {
       "title": "IT 领导者需要扩展的 AI 架构的基本元素",
       "titleEn": "The foundational elements of AI architecture that IT leaders need to scale",
       "summary": "",
@@ -424,33 +451,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617.jpg",
       "publishedAt": "2026-07-07T11:10:52.000Z"
-    },
-    {
-      "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等",
-      "titleEn": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp\">我们宣布 Gemini API 中托管代理的新功能，以便开发者可以",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
-      "publishedAt": "2026-07-07T08:54:00.000Z"
-    },
-    {
-      "title": "您家族在 OpenAI 中持有 300 美元的股份",
-      "titleEn": "Your family’s $300 stake in OpenAI",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-07-06T18:00:00.000Z"
-    },
-    {
-      "title": "利用人工智能实现卓越运营",
-      "titleEn": "Achieving operational excellence with AI",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MIT_TP2_2026_V9_Cover.png?w=1555",
-      "publishedAt": "2026-07-02T15:37:08.000Z"
     }
   ]
 }
