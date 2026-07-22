@@ -1,7 +1,115 @@
 {
-  "updatedAt": "2026-07-21T02:07:08.048Z",
+  "updatedAt": "2026-07-22T02:05:23.234Z",
   "count": 50,
   "items": [
+    {
+      "title": "Meta 正在为没有想象力的人测试一款 AI 睡前故事应用程序",
+      "titleEn": "Meta is testing an AI bedtime story app for people with no imagination",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T23:55:10.000Z"
+    },
+    {
+      "title": "OpenAI 表示 Hugging Face 的预发布型号遭到破坏",
+      "titleEn": "OpenAI says Hugging Face was breached by its pre-release models",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T20:56:55.000Z"
+    },
+    {
+      "title": "Jack Dorsey 正在与 Buzz 对抗 Slack，Buzz 是一个面向团队及其人工智能代理的群聊平台",
+      "titleEn": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T19:43:41.000Z"
+    },
+    {
+      "title": "人工智能和通用娱乐应用程序的兴起",
+      "titleEn": "AI and the rise of the universal entertainment app",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T19:39:30.000Z"
+    },
+    {
+      "title": "到 2035 年，数据中心的用电量预计将增加 4 倍",
+      "titleEn": "Data centers expected to use 4x more electricity by 2035",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T18:06:38.000Z"
+    },
+    {
+      "title": "Anthropic 的 1.5B 美元版权和解协议获得批准；只有 350 位作者选择退出",
+      "titleEn": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg",
+      "publishedAt": "2026-07-21T17:33:14.000Z"
+    },
+    {
+      "title": "Google 发布了三款新的 Gemini 型号，但没有 3.5 Pro",
+      "titleEn": "Google releases three new Gemini models — but no 3.5 Pro",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T17:11:50.000Z"
+    },
+    {
+      "title": "Google 宣布 Gemini 3.6 Flash 和网络安全 AI，预告 3.5 Pro 和 Gemini 4",
+      "titleEn": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "summary": "",
+      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-1152x648.jpg",
+      "publishedAt": "2026-07-21T16:58:25.000Z"
+    },
+    {
+      "title": "美国威胁对中国人工智能模型实施知识产权盗窃制裁",
+      "titleEn": "US threatens sanctions against Chinese AI models over IP theft",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T15:37:05.000Z"
+    },
+    {
+      "title": "音乐流媒体 Deezer 表示，超过 50% 的每日上传内容是人工智能生成的",
+      "titleEn": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T13:27:42.000Z"
+    },
+    {
+      "title": "通过材料科学创新推进下一代人工智能",
+      "titleEn": "Advancing next-gen AI with materials science innovation",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Syensqo-shutterstock_2491787317.jpg?w=1200",
+      "publishedAt": "2026-07-21T10:37:34.000Z"
+    },
+    {
+      "title": "格里特退出隐秘状态，斥资 3200 万美元用于机器人建造太阳能发电厂——然后，其他一切",
+      "titleEn": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-21T10:00:00.000Z"
+    },
     {
       "title": "Anthropic 具有里程碑意义的 $1.5B 版权和解协议获得批准",
       "titleEn": "Anthropic’s landmark $1.5B copyright settlement is approved",
@@ -120,7 +228,7 @@
       "publishedAt": "2026-07-19T21:16:07.000Z"
     },
     {
-      "title": "苹果诉讼会破坏 OpenAI 的硬件计划吗？",
+      "title": "苹果诉讼是否会破坏 OpenAI 的硬件计划？",
       "titleEn": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "summary": "",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
@@ -138,24 +246,6 @@
       "publishedAt": "2026-07-19T14:52:08.000Z"
     },
     {
-      "title": "非营利组织 Current AI 正在竞相构建免费的人工智能万维网",
-      "titleEn": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-19T14:00:00.000Z"
-    },
-    {
-      "title": "Kimi：威胁还是威胁？",
-      "titleEn": "Kimi: Threat or menace?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-18T18:51:07.000Z"
-    },
-    {
       "title": "人工智能会修复事先授权问题，还是让情况变得更糟？",
       "titleEn": "Will AI fix prior authorization—or make it worse?",
       "summary": "",
@@ -165,60 +255,6 @@
       "publishedAt": "2026-07-18T11:18:25.000Z"
     },
     {
-      "title": "尼尔·里默 (Neil Rimer) 认为人工智能资金正在回归",
-      "titleEn": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-18T04:47:25.000Z"
-    },
-    {
-      "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
-      "titleEn": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-17T22:55:09.000Z"
-    },
-    {
-      "title": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
-      "titleEn": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-17T22:12:56.000Z"
-    },
-    {
-      "title": "Zoom 黑客说：“别录我”",
-      "titleEn": "The Zoom hack that says, ‘Don’t record me’",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-17T21:20:47.000Z"
-    },
-    {
-      "title": "Agility Robotics 在特斯拉后院插上了自己的旗帜",
-      "titleEn": "Agility Robotics plants its flag in Tesla’s backyard",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-17T20:19:49.000Z"
-    },
-    {
-      "title": "人工智能驱动的内存紧缩震动了印度智能手机市场",
-      "titleEn": "AI-driven memory crunch jolts India’s smartphone market",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-17T20:09:27.000Z"
-    },
-    {
       "title": "美国和加拿大烟雾弥漫，Google支持的卫星用于野火探测",
       "titleEn": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "summary": "",
@@ -226,15 +262,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png",
       "publishedAt": "2026-07-17T19:50:18.000Z"
-    },
-    {
-      "title": "苹果的大诉讼如何扰乱 OpenAI 的 IPO 计划",
-      "titleEn": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "summary": "",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-17T17:45:46.000Z"
     },
     {
       "title": "旧金山命令 Apple、Google 从应用商店中删除裸体应用",
@@ -417,24 +444,6 @@
       "publishedAt": "2026-07-13T11:00:51.000Z"
     },
     {
-      "title": "欧盟告诉Meta，禁用自动播放和无限滚动，否则将面临巨额罚款",
-      "titleEn": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284791473-1024x648.jpg",
-      "publishedAt": "2026-07-10T15:46:18.000Z"
-    },
-    {
-      "title": "OpenAI 希望它的新工具能够为您工作并与您一起工作",
-      "titleEn": "OpenAI wants its new tool to do your work for you and with you",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gptwork-1152x648-1783630571.webp",
-      "publishedAt": "2026-07-09T21:25:55.000Z"
-    },
-    {
       "title": "Anthropic 发现了一个隐藏的空间，Claude 在这里对概念感到困惑",
       "titleEn": "Anthropic found a hidden space where Claude puzzles over concepts",
       "summary": "",
@@ -442,15 +451,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-20.29.29.png?w=180",
       "publishedAt": "2026-07-09T20:22:28.000Z"
-    },
-    {
-      "title": "IT 领导者需要扩展的 AI 架构的基本元素",
-      "titleEn": "The foundational elements of AI architecture that IT leaders need to scale",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617.jpg",
-      "publishedAt": "2026-07-07T11:10:52.000Z"
     }
   ]
 }
