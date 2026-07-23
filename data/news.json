@@ -1,7 +1,187 @@
 {
-  "updatedAt": "2026-07-22T02:05:23.234Z",
+  "updatedAt": "2026-07-23T02:11:53.578Z",
   "count": 50,
   "items": [
+    {
+      "title": "在经历了令人震惊的季度后，IBM 坚称人工智能不会杀死大型机",
+      "titleEn": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T23:47:54.000Z"
+    },
+    {
+      "title": "Google 通过蓬勃发展的云业务证明了其大规模人工智能支出的合理性",
+      "titleEn": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T22:01:52.000Z"
+    },
+    {
+      "title": "白宫声称登月计划提炼了 Anthropic 的寓言后，财政部威胁实施制裁",
+      "titleEn": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T20:49:03.000Z"
+    },
+    {
+      "title": "OpenAI 的人为错误如何导致 Hugging Face 上的人工智能黑客攻击",
+      "titleEn": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T19:11:46.000Z"
+    },
+    {
+      "title": "Travis Kalanick 的机器人公司筹集了 $1.7B，由 a16z 领投",
+      "titleEn": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T18:50:44.000Z"
+    },
+    {
+      "title": "现代汽车声称人形机器人计划不属于与罢工工人谈判的一部分",
+      "titleEn": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Boston-Dynamics-robot-standing-stance-1152x648.jpg",
+      "publishedAt": "2026-07-22T18:18:12.000Z"
+    },
+    {
+      "title": "Yope 筹集了 1230 万美元，用于建立一个没有算法或广告的私人社交网络",
+      "titleEn": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T18:13:58.000Z"
+    },
+    {
+      "title": "Monday.com 裁员数百人专注于人工智能",
+      "titleEn": "Monday.com lays off hundreds to focus on AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T17:54:14.000Z"
+    },
+    {
+      "title": "OpenAI称其AI代理突破测试沙箱攻击Hugging Face",
+      "titleEn": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2274109678-1152x648.jpg",
+      "publishedAt": "2026-07-22T16:47:49.000Z"
+    },
+    {
+      "title": "美国开源人工智能实验室 Arcee 表示，中国模式本质上并不危险",
+      "titleEn": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T16:24:08.000Z"
+    },
+    {
+      "title": "Substack 的新工具告诉您谁在使用 AI 撰写时事通讯",
+      "titleEn": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T16:23:09.000Z"
+    },
+    {
+      "title": "OpenAI 的 AI 支出热潮已飙升至 $750B",
+      "titleEn": "OpenAI’s AI spending spree has ballooned to $750B",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T16:13:30.000Z"
+    },
+    {
+      "title": "Menlo Ventures 的 Matt Murphy 解释了人工智能初创公司创始人必须采取哪些不同的做法",
+      "titleEn": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+      "summary": "",
+      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T14:00:00.000Z"
+    },
+    {
+      "title": "毕竟，无限的人工智能代币并不是无限的，因为美国陆军会耗尽供应",
+      "titleEn": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/armymen-1152x648.jpg",
+      "publishedAt": "2026-07-22T13:35:17.000Z"
+    },
+    {
+      "title": "浏览器之战不再是搜索问题——这里是 Chrome 和 Safari 的最佳替代品",
+      "titleEn": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T13:20:35.000Z"
+    },
+    {
+      "title": "Passionfroot 融资 1500 万美元，将其 B2B 创作者市场扩展到美国",
+      "titleEn": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "title": "Galaxy Unpacked 2026 的 3 个 Google 更新",
+      "titleEn": "3 Google updates from Galaxy Unpacked 2026",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp\">我们分享了三星用户如何提高工作效率并节省时间使用新的可折叠设备、手表和平板电脑",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+      "publishedAt": "2026-07-22T13:00:00.000Z"
+    },
+    {
+      "title": "Glow 以 1.2B 美元估值脱颖而出，挑战人工智能时代的端点安全",
+      "titleEn": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "title": "Synthesia 的人工智能培训平台正在从视频转向实时指导",
+      "titleEn": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T08:00:00.000Z"
+    },
+    {
+      "title": "Anthropic-物理智能谣言在人工智能推特上掀起轩然大波",
+      "titleEn": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-22T03:20:57.000Z"
+    },
     {
       "title": "Meta 正在为没有想象力的人测试一款 AI 睡前故事应用程序",
       "titleEn": "Meta is testing an AI bedtime story app for people with no imagination",
@@ -39,15 +219,6 @@
       "publishedAt": "2026-07-21T19:39:30.000Z"
     },
     {
-      "title": "到 2035 年，数据中心的用电量预计将增加 4 倍",
-      "titleEn": "Data centers expected to use 4x more electricity by 2035",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T18:06:38.000Z"
-    },
-    {
       "title": "Anthropic 的 1.5B 美元版权和解协议获得批准；只有 350 位作者选择退出",
       "titleEn": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
       "summary": "",
@@ -55,15 +226,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg",
       "publishedAt": "2026-07-21T17:33:14.000Z"
-    },
-    {
-      "title": "Google 发布了三款新的 Gemini 型号，但没有 3.5 Pro",
-      "titleEn": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T17:11:50.000Z"
     },
     {
       "title": "Google 宣布 Gemini 3.6 Flash 和网络安全 AI，预告 3.5 Pro 和 Gemini 4",
@@ -75,24 +237,6 @@
       "publishedAt": "2026-07-21T16:58:25.000Z"
     },
     {
-      "title": "美国威胁对中国人工智能模型实施知识产权盗窃制裁",
-      "titleEn": "US threatens sanctions against Chinese AI models over IP theft",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T15:37:05.000Z"
-    },
-    {
-      "title": "音乐流媒体 Deezer 表示，超过 50% 的每日上传内容是人工智能生成的",
-      "titleEn": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T13:27:42.000Z"
-    },
-    {
       "title": "通过材料科学创新推进下一代人工智能",
       "titleEn": "Advancing next-gen AI with materials science innovation",
       "summary": "",
@@ -100,33 +244,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Syensqo-shutterstock_2491787317.jpg?w=1200",
       "publishedAt": "2026-07-21T10:37:34.000Z"
-    },
-    {
-      "title": "格里特退出隐秘状态，斥资 3200 万美元用于机器人建造太阳能发电厂——然后，其他一切",
-      "titleEn": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T10:00:00.000Z"
-    },
-    {
-      "title": "Anthropic 具有里程碑意义的 $1.5B 版权和解协议获得批准",
-      "titleEn": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T00:12:24.000Z"
-    },
-    {
-      "title": "特朗普最新的人工智能沙皇已经辞职",
-      "titleEn": "Trump’s latest AI czar has already resigned",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-20T22:21:04.000Z"
     },
     {
       "title": "野火几乎全年困扰美国，消防无人机投入使用",
@@ -138,42 +255,6 @@
       "publishedAt": "2026-07-20T21:55:52.000Z"
     },
     {
-      "title": "Google正在开发一款新的AI芯片，旨在使Gemini更加高效",
-      "titleEn": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-20T21:21:15.000Z"
-    },
-    {
-      "title": "人工智能最重要的协议变得更容易使用",
-      "titleEn": "AI’s most important protocol is getting a little bit easier to use",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-20T20:50:40.000Z"
-    },
-    {
-      "title": "经过一年的努力，X 重新推出了重建的 Android 应用程序",
-      "titleEn": "X relaunches a rebuilt Android app after year-long effort",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-20T19:37:39.000Z"
-    },
-    {
-      "title": "OpenAI 害怕开放重量模型。美国应该如此吗？",
-      "titleEn": "OpenAI is scared of open-weight models. Should the US be?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-20T19:33:25.000Z"
-    },
-    {
       "title": "中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾",
       "titleEn": "China’s AI models have Trump’s AI world at war with itself",
       "summary": "",
@@ -181,24 +262,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-20T18:00:00.000Z"
-    },
-    {
-      "title": "Adobe 相机应用程序的新功能将使用 AI 来评估您的照片",
-      "titleEn": "Adobe camera app’s new feature will critique your photos using AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-20T15:45:00.000Z"
-    },
-    {
-      "title": "YouTube 澄清了有关 AI 内容和令人不安的视频的政策",
-      "titleEn": "YouTube clarifies policies around AI slop and upsetting videos",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-20T15:23:06.000Z"
     },
     {
       "title": "超越 grep：上下文丰富的 AI 编码工具的案例",
@@ -217,33 +280,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-20T08:39:01.000Z"
-    },
-    {
-      "title": "黄仁勋访日后需要注意什么",
-      "titleEn": "What to watch for after Jensen Huang’s Japan visit",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-19T21:16:07.000Z"
-    },
-    {
-      "title": "苹果诉讼是否会破坏 OpenAI 的硬件计划？",
-      "titleEn": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-19T19:24:45.000Z"
-    },
-    {
-      "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是明显的“特洛伊木马”",
-      "titleEn": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-19T14:52:08.000Z"
     },
     {
       "title": "人工智能会修复事先授权问题，还是让情况变得更糟？",
@@ -408,15 +444,6 @@
       "publishedAt": "2026-07-14T15:06:28.000Z"
     },
     {
-      "title": "苹果起诉 OpenAI 前工程师涉嫌利用 bug 窃取商业机密",
-      "titleEn": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255514431-1024x648.jpg",
-      "publishedAt": "2026-07-13T19:17:51.000Z"
-    },
-    {
       "title": "Anthropic 的最新人工智能发现展示了什么（以及没有展示什么）",
       "titleEn": "What Anthropic’s latest AI discovery does—and doesn’t—show",
       "summary": "",
@@ -424,33 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-13T18:00:00.000Z"
-    },
-    {
-      "title": "现在，防御者也开始接受即时注入",
-      "titleEn": "Now, defenders are embracing the prompt injection, too",
-      "summary": "",
-      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
-      "publishedAt": "2026-07-13T15:06:34.000Z"
-    },
-    {
-      "title": "模拟一切：世界模型的承诺和局限性",
-      "titleEn": "Simulating everything, sort of: The promise and limits of world models",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/cracking-open-world-model-1152x648.jpg",
-      "publishedAt": "2026-07-13T11:00:51.000Z"
-    },
-    {
-      "title": "Anthropic 发现了一个隐藏的空间，Claude 在这里对概念感到困惑",
-      "titleEn": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-20.29.29.png?w=180",
-      "publishedAt": "2026-07-09T20:22:28.000Z"
     }
   ]
 }
