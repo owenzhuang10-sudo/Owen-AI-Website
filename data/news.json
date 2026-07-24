@@ -1,7 +1,151 @@
 {
-  "updatedAt": "2026-07-23T02:11:53.578Z",
+  "updatedAt": "2026-07-24T02:08:31.704Z",
   "count": 50,
   "items": [
+    {
+      "title": "人工智能护栏如何阻碍进攻性网络安全研究人员的工作",
+      "titleEn": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-24T01:00:00.000Z"
+    },
+    {
+      "title": "AMD 凭借 Helios AI 机架规模系统挑战 Nvidia",
+      "titleEn": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T20:33:02.000Z"
+    },
+    {
+      "title": "《人工智能杀戮开关法案》将让特朗普政府下令关闭流氓人工智能系统",
+      "titleEn": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+      "publishedAt": "2026-07-23T19:08:01.000Z"
+    },
+    {
+      "title": "Anthropic更新Claude语音模式，拥有更多功能型号",
+      "titleEn": "Anthropic updates Claude voice mode with more capable models",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T19:00:00.000Z"
+    },
+    {
+      "title": "由前 Google 安全高管创立的 AegisAI 获得 3600 万美元资金，用于阻止人工智能驱动的鱼叉式网络钓鱼",
+      "titleEn": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T18:38:34.000Z"
+    },
+    {
+      "title": "随着生成媒体变得拥挤，Runway 推出 AI 模型路由器",
+      "titleEn": "Runway launches AI model router as generative media gets crowded",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T17:07:35.000Z"
+    },
+    {
+      "title": "OpenAI 使所有美国用户都可以使用 ChatGPT Health",
+      "titleEn": "OpenAI makes ChatGPT Health available to all US users",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T17:00:00.000Z"
+    },
+    {
+      "title": "Meta 推出了新的人工智能乐观广告，背景是一首关于人类灭绝的歌曲",
+      "titleEn": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T16:28:50.000Z"
+    },
+    {
+      "title": "由于大量人工智能支出，Google 刚刚经历了第一个负现金流季度",
+      "titleEn": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "summary": "",
+      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
+      "publishedAt": "2026-07-23T16:04:19.000Z"
+    },
+    {
+      "title": "Nvidia 正在向月球发送 GPU",
+      "titleEn": "Nvidia is sending GPUs to the moon",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "title": "AI芯片初创公司Etched无视质疑，大牌投资者估值达到10.3B美元",
+      "titleEn": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "title": "Google 的 Gemini 接近十亿用户里程碑",
+      "titleEn": "Google’s Gemini nears billion-user milestone",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T14:52:44.000Z"
+    },
+    {
+      "title": "OpenAI黑客事件后，人工智能军备竞赛将面临清算",
+      "titleEn": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-chatbot-icons-on-smartphone-1-1152x648.jpg",
+      "publishedAt": "2026-07-23T14:45:05.000Z"
+    },
+    {
+      "title": "人工智能如何帮助科学家设计下一代药物",
+      "titleEn": "How AI helps scientists design the next generation of medicines",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions-1.jpg",
+      "publishedAt": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "title": "专家表示，Kimi K3 的出色表现并非源于 Anthropic 的寓言",
+      "titleEn": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T11:00:00.000Z"
+    },
+    {
+      "title": "ServiceNow 向印度银行软件专家押注 4000 万美元，以扩大其金融服务业务",
+      "titleEn": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-23T06:09:13.000Z"
+    },
     {
       "title": "在经历了令人震惊的季度后，IBM 坚称人工智能不会杀死大型机",
       "titleEn": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
@@ -93,33 +237,6 @@
       "publishedAt": "2026-07-22T16:24:08.000Z"
     },
     {
-      "title": "Substack 的新工具告诉您谁在使用 AI 撰写时事通讯",
-      "titleEn": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-22T16:23:09.000Z"
-    },
-    {
-      "title": "OpenAI 的 AI 支出热潮已飙升至 $750B",
-      "titleEn": "OpenAI’s AI spending spree has ballooned to $750B",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-22T16:13:30.000Z"
-    },
-    {
-      "title": "Menlo Ventures 的 Matt Murphy 解释了人工智能初创公司创始人必须采取哪些不同的做法",
-      "titleEn": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-      "summary": "",
-      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-22T14:00:00.000Z"
-    },
-    {
       "title": "毕竟，无限的人工智能代币并不是无限的，因为美国陆军会耗尽供应",
       "titleEn": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
       "summary": "",
@@ -129,24 +246,6 @@
       "publishedAt": "2026-07-22T13:35:17.000Z"
     },
     {
-      "title": "浏览器之战不再是搜索问题——这里是 Chrome 和 Safari 的最佳替代品",
-      "titleEn": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-22T13:20:35.000Z"
-    },
-    {
-      "title": "Passionfroot 融资 1500 万美元，将其 B2B 创作者市场扩展到美国",
-      "titleEn": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-22T13:00:00.000Z"
-    },
-    {
       "title": "Galaxy Unpacked 2026 的 3 个 Google 更新",
       "titleEn": "3 Google updates from Galaxy Unpacked 2026",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp\">我们分享了三星用户如何提高工作效率并节省时间使用新的可折叠设备、手表和平板电脑",
@@ -154,69 +253,6 @@
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-22T13:00:00.000Z"
-    },
-    {
-      "title": "Glow 以 1.2B 美元估值脱颖而出，挑战人工智能时代的端点安全",
-      "titleEn": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-22T10:00:00.000Z"
-    },
-    {
-      "title": "Synthesia 的人工智能培训平台正在从视频转向实时指导",
-      "titleEn": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-22T08:00:00.000Z"
-    },
-    {
-      "title": "Anthropic-物理智能谣言在人工智能推特上掀起轩然大波",
-      "titleEn": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-22T03:20:57.000Z"
-    },
-    {
-      "title": "Meta 正在为没有想象力的人测试一款 AI 睡前故事应用程序",
-      "titleEn": "Meta is testing an AI bedtime story app for people with no imagination",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T23:55:10.000Z"
-    },
-    {
-      "title": "OpenAI 表示 Hugging Face 的预发布型号遭到破坏",
-      "titleEn": "OpenAI says Hugging Face was breached by its pre-release models",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T20:56:55.000Z"
-    },
-    {
-      "title": "Jack Dorsey 正在与 Buzz 对抗 Slack，Buzz 是一个面向团队及其人工智能代理的群聊平台",
-      "titleEn": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T19:43:41.000Z"
-    },
-    {
-      "title": "人工智能和通用娱乐应用程序的兴起",
-      "titleEn": "AI and the rise of the universal entertainment app",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-21T19:39:30.000Z"
     },
     {
       "title": "Anthropic 的 1.5B 美元版权和解协议获得批准；只有 350 位作者选择退出",
@@ -408,24 +444,6 @@
       "publishedAt": "2026-07-14T20:05:53.000Z"
     },
     {
-      "title": "美军首次派出爆炸性无人艇投入战斗",
-      "titleEn": "US military sent explosive drone boats into combat for the first time",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/US-military-drone-boat-attack-on-Iranian-port-1152x648.png",
-      "publishedAt": "2026-07-14T18:00:01.000Z"
-    },
-    {
-      "title": "Google 以更多​​图像和更多 AI 改进图像搜索以庆祝其成立 25 周年",
-      "titleEn": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "summary": "",
-      "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
-      "publishedAt": "2026-07-14T16:28:14.000Z"
-    },
-    {
       "title": "庆祝视觉搜索创新 25 周年",
       "titleEn": "Celebrating 25 years of visual search innovation",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp\">Google Images 即将迎来 25 岁生日。以下是一些重要里程碑的回顾以及实现这一目标的新方法",
@@ -433,24 +451,6 @@
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-14T16:00:00.000Z"
-    },
-    {
-      "title": "纽约禁止数据中心建设一年，扰乱人工智能行业",
-      "titleEn": "New York bans data center construction for a year, rattling AI industry",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg",
-      "publishedAt": "2026-07-14T15:06:28.000Z"
-    },
-    {
-      "title": "Anthropic 的最新人工智能发现展示了什么（以及没有展示什么）",
-      "titleEn": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-07-13T18:00:00.000Z"
     }
   ]
 }

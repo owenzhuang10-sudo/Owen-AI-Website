@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T02:11:54.115Z",
+  "updatedAt": "2026-07-24T02:08:32.073Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -154,7 +154,7 @@
           "org": "Motif Technologies",
           "country": "kr",
           "score": 44.1,
-          "released": null
+          "released": "2026-07-14"
         },
         {
           "rank": 19,
@@ -341,7 +341,7 @@
           "org": "Motif Technologies",
           "country": "kr",
           "score": 62,
-          "released": null
+          "released": "2026-07-14"
         },
         {
           "rank": 16,
@@ -552,7 +552,7 @@
           "org": "Motif Technologies",
           "country": "kr",
           "score": 34.9,
-          "released": null
+          "released": "2026-07-14"
         },
         {
           "rank": 16,
