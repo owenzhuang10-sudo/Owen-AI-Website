@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-07-25T02:07:44.148Z",
+  "updatedAt": "2026-07-26T02:12:42.317Z",
   "count": 50,
   "items": [
+    {
+      "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
+      "titleEn": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-26T01:30:00.000Z"
+    },
+    {
+      "title": "图书馆员正在为那些厌倦了大型科技的人们举办病毒式的“避免人工智能”研讨会",
+      "titleEn": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-25T16:00:00.000Z"
+    },
+    {
+      "title": "一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。",
+      "titleEn": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-25T13:05:00.000Z"
+    },
     {
       "title": "我尝试了 OpenAI 的新 AI 键盘——这对一些编码员来说会很有趣，但对其他人来说有点神秘",
       "titleEn": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -210,24 +237,6 @@
       "publishedAt": "2026-07-23T15:00:00.000Z"
     },
     {
-      "title": "AI芯片初创公司Etched无视质疑，大牌投资者估值达到10.3B美元",
-      "titleEn": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T15:00:00.000Z"
-    },
-    {
-      "title": "Google 的 Gemini 接近十亿用户里程碑",
-      "titleEn": "Google’s Gemini nears billion-user milestone",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T14:52:44.000Z"
-    },
-    {
       "title": "OpenAI黑客事件后，人工智能军备竞赛将面临清算",
       "titleEn": "AI arms race in line for a reckoning after OpenAI hacking incident",
       "summary": "",
@@ -244,15 +253,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions-1.jpg",
       "publishedAt": "2026-07-23T12:00:00.000Z"
-    },
-    {
-      "title": "专家表示，Kimi K3 的出色表现并非源于 Anthropic 的寓言",
-      "titleEn": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T11:00:00.000Z"
     },
     {
       "title": "现代汽车声称人形机器人计划不属于与罢工工人谈判的一部分",
