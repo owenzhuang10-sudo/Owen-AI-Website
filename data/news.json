@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-07-26T02:12:42.317Z",
+  "updatedAt": "2026-07-27T02:25:54.977Z",
   "count": 50,
   "items": [
+    {
+      "title": "脑电波是物理人工智能的下一个解锁点吗？",
+      "titleEn": "Are brain waves the next unlock for physical AI?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T00:19:14.000Z"
+    },
+    {
+      "title": "理解对中国人工智能的恐慌",
+      "titleEn": "Making sense of the panic over Chinese AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-26T19:40:57.000Z"
+    },
+    {
+      "title": "Hugging Face 首席执行官在“史无前例”的 OpenAI 黑客攻击后呼吁“彻底透明”",
+      "titleEn": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-26T16:33:13.000Z"
+    },
     {
       "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
       "titleEn": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
@@ -120,7 +147,7 @@
       "publishedAt": "2026-07-24T15:09:55.000Z"
     },
     {
-      "title": "“人工智能共产主义”、流氓模型以及 Kimi K3 为何令华尔街感到恐慌",
+      "title": "“人工智能共产主义”、流氓模型以及 Kimi K3 为何令华尔街惊恐",
       "titleEn": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
       "summary": "",
       "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
@@ -201,24 +228,6 @@
       "publishedAt": "2026-07-23T17:07:35.000Z"
     },
     {
-      "title": "OpenAI 使所有美国用户都可以使用 ChatGPT Health",
-      "titleEn": "OpenAI makes ChatGPT Health available to all US users",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T17:00:00.000Z"
-    },
-    {
-      "title": "Meta 推出了新的人工智能乐观广告，背景是一首关于人类灭绝的歌曲",
-      "titleEn": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T16:28:50.000Z"
-    },
-    {
       "title": "由于大量人工智能支出，Google 刚刚经历了第一个负现金流季度",
       "titleEn": "Google just had its first negative cash flow quarter due to massive AI spending",
       "summary": "",
@@ -226,15 +235,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
       "publishedAt": "2026-07-23T16:04:19.000Z"
-    },
-    {
-      "title": "Nvidia 正在向月球发送 GPU",
-      "titleEn": "Nvidia is sending GPUs to the moon",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T15:00:00.000Z"
     },
     {
       "title": "OpenAI黑客事件后，人工智能军备竞赛将面临清算",
