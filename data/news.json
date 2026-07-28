@@ -1,7 +1,187 @@
 {
-  "updatedAt": "2026-07-27T02:25:54.977Z",
+  "updatedAt": "2026-07-28T02:01:31.752Z",
   "count": 50,
   "items": [
+    {
+      "title": "Anthropic的Dario Amodei回应：不反对开放权重模型，但担心中国AI",
+      "titleEn": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-28T00:13:33.000Z"
+    },
+    {
+      "title": "Microsoft 推出人工智能安全工具，称其性能优于竞争平台",
+      "titleEn": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "publishedAt": "2026-07-27T21:56:14.000Z"
+    },
+    {
+      "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，那些相信一种人工智能能解决所有问题的公司可能无法生存",
+      "titleEn": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T21:17:11.000Z"
+    },
+    {
+      "title": "PSA：您的 Claude 共享聊天记录和工件可能最终出现在 Google 上",
+      "titleEn": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T20:19:42.000Z"
+    },
+    {
+      "title": "网络爬虫在法庭获胜后表示：“Google 和 Reddit 并不拥有互联网”",
+      "titleEn": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg",
+      "publishedAt": "2026-07-27T20:12:42.000Z"
+    },
+    {
+      "title": "Verizon 推出价值 10 亿美元的 Google 数据中心暗光纤交易，这是众多交易中的第一个",
+      "titleEn": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Verizon-Times-Square-Store-1152x648.jpg",
+      "publishedAt": "2026-07-27T18:48:41.000Z"
+    },
+    {
+      "title": "Microsoft 推出首个网络安全模型以及新的代理网络安全系统",
+      "titleEn": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T18:32:11.000Z"
+    },
+    {
+      "title": "OpenAI称Hugging Face的攻击史无前例。但我们以前来过这里。",
+      "titleEn": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-07-27T18:00:00.000Z"
+    },
+    {
+      "title": "OpenAI 的 Hugging Face 漏洞重新引发了关于对齐和控制的争论",
+      "titleEn": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T17:28:42.000Z"
+    },
+    {
+      "title": "ChatGPT 开始阻止复制作者风格的直接请求",
+      "titleEn": "ChatGPT starts blocking direct requests to copy an author's style",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
+      "publishedAt": "2026-07-27T16:58:46.000Z"
+    },
+    {
+      "title": "Threads 用户现在可以在 DM 中与 Meta AI 聊天",
+      "titleEn": "Threads users can now chat with Meta AI in their DMs",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T16:45:24.000Z"
+    },
+    {
+      "title": "新数据显示，Google 的人工智能搜索正在迅速成为默认搜索",
+      "titleEn": "Google’s AI search is rapidly becoming the default, new data shows",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T15:57:12.000Z"
+    },
+    {
+      "title": "增强您的人工智能基础设施！ TechCrunch Disrupt 2026 智能系统阶段议程初探",
+      "titleEn": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T15:30:00.000Z"
+    },
+    {
+      "title": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
+      "titleEn": "This $9 key physically locks your most addictive apps",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T15:25:37.000Z"
+    },
+    {
+      "title": "Ilya Sutskever 的 Safe Superintelligence 与 Nvidia 合作扩大其人工智能研究",
+      "titleEn": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T15:01:50.000Z"
+    },
+    {
+      "title": "Enigma 筹集了 7100 万美元，让控制机器人就像调节音量一样简单",
+      "titleEn": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-27T13:00:00.000Z"
+    },
+    {
+      "title": "通往超级人工智能之路",
+      "titleEn": "The path to artificial superintelligence",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png",
+      "publishedAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "title": "关闭人工智能驱动药物发现的数据循环",
+      "titleEn": "Closing the data loop in AI-driven drug discovery",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
+      "publishedAt": "2026-07-27T11:40:16.000Z"
+    },
+    {
+      "title": "构建代理人工智能的企业环境",
+      "titleEn": "Building the enterprise environment for agentic AI",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-image-contributed-article.png",
+      "publishedAt": "2026-07-27T11:32:58.000Z"
+    },
+    {
+      "title": "艺术家起诉人工智能表情包生成器，指控其将深度个人漫画作为广告模板出售",
+      "titleEn": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1152x648-1784918491.jpg",
+      "publishedAt": "2026-07-27T10:50:37.000Z"
+    },
     {
       "title": "脑电波是物理人工智能的下一个解锁点吗？",
       "titleEn": "Are brain waves the next unlock for physical AI?",
@@ -48,8 +228,8 @@
       "publishedAt": "2026-07-25T16:00:00.000Z"
     },
     {
-      "title": "一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。",
-      "titleEn": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "title": "一根倒下的电源线暴露了人工智能数据中心日益严重的问题——修复方法如下",
+      "titleEn": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
       "summary": "",
       "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "source": "TechCrunch AI",
@@ -111,51 +291,6 @@
       "publishedAt": "2026-07-24T17:31:26.000Z"
     },
     {
-      "title": "Anthropic 推出 Opus 5",
-      "titleEn": "Anthropic launches Opus 5",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-24T17:00:00.000Z"
-    },
-    {
-      "title": "随着美国权衡对中国人工智能的反应，业界敦促不要广泛的开放权重限制",
-      "titleEn": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-24T15:51:49.000Z"
-    },
-    {
-      "title": "Bluesky 的 AI 助手 Attie 扩展为开放的社会研究工具",
-      "titleEn": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-24T15:13:57.000Z"
-    },
-    {
-      "title": "Midjourney 收购占星应用 Co-Star",
-      "titleEn": "Midjourney acquired the astrology app Co-Star",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-24T15:09:55.000Z"
-    },
-    {
-      "title": "“人工智能共产主义”、流氓模型以及 Kimi K3 为何令华尔街惊恐",
-      "titleEn": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "summary": "",
-      "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-24T14:00:00.000Z"
-    },
-    {
       "title": "人工智能公司需要更多的数据中心；特朗普的环保局可能会减少邻居的发言权",
       "titleEn": "AI firms want more data centers; Trump's EPA may give neighbors less say",
       "summary": "",
@@ -165,33 +300,6 @@
       "publishedAt": "2026-07-24T13:49:38.000Z"
     },
     {
-      "title": "OpenAI 的新语音模式已登陆 ChatGPT 桌面应用程序",
-      "titleEn": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-24T13:36:42.000Z"
-    },
-    {
-      "title": "人工智能护栏如何阻碍进攻性网络安全研究人员的工作",
-      "titleEn": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-24T01:00:00.000Z"
-    },
-    {
-      "title": "AMD 凭借 Helios AI 机架规模系统挑战 Nvidia",
-      "titleEn": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T20:33:02.000Z"
-    },
-    {
       "title": "《人工智能杀戮开关法案》将让特朗普政府下令关闭流氓人工智能系统",
       "titleEn": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
       "summary": "",
@@ -199,33 +307,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
       "publishedAt": "2026-07-23T19:08:01.000Z"
-    },
-    {
-      "title": "Anthropic更新Claude语音模式，拥有更多功能型号",
-      "titleEn": "Anthropic updates Claude voice mode with more capable models",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T19:00:00.000Z"
-    },
-    {
-      "title": "由前 Google 安全高管创立的 AegisAI 获得 3600 万美元资金，用于阻止人工智能驱动的鱼叉式网络钓鱼",
-      "titleEn": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T18:38:34.000Z"
-    },
-    {
-      "title": "随着生成媒体变得拥挤，Runway 推出 AI 模型路由器",
-      "titleEn": "Runway launches AI model router as generative media gets crowded",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-23T17:07:35.000Z"
     },
     {
       "title": "由于大量人工智能支出，Google 刚刚经历了第一个负现金流季度",
@@ -363,24 +444,6 @@
       "publishedAt": "2026-07-18T11:18:25.000Z"
     },
     {
-      "title": "美国和加拿大烟雾弥漫，Google支持的卫星用于野火探测",
-      "titleEn": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "summary": "",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png",
-      "publishedAt": "2026-07-17T19:50:18.000Z"
-    },
-    {
-      "title": "旧金山命令 Apple、Google 从应用商店中删除裸体应用",
-      "titleEn": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg",
-      "publishedAt": "2026-07-17T16:10:05.000Z"
-    },
-    {
       "title": "天气数据遭到破坏的风险正在上升",
       "titleEn": "The risk of weather data sabotage is rising",
       "summary": "",
@@ -388,69 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-17T08:57:32.000Z"
-    },
-    {
-      "title": "官方消息：欧盟将强制 Google 共享搜索数据并在 Android 上开放人工智能",
-      "titleEn": "It's official: EU will force Google to share search data and open up AI on Android",
-      "summary": "",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-1152x648-1742412347.jpg",
-      "publishedAt": "2026-07-16T20:41:45.000Z"
-    },
-    {
-      "title": "xAI不能再否认Grok制造了CSAM。所以它正在起诉用户。",
-      "titleEn": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-1024x648.jpg",
-      "publishedAt": "2026-07-16T20:26:23.000Z"
-    },
-    {
-      "title": "对人形机器人的恐惧促使人类工人在现代汽车工厂罢工",
-      "titleEn": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-1152x648.png",
-      "publishedAt": "2026-07-16T20:09:48.000Z"
-    },
-    {
-      "title": "将更多应用程序连接到搜索",
-      "titleEn": "Connect more of your apps to Search",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp\">您将能够在 AI 模式下直接安全地链接您的常用服务并与之交互。",
-      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
-      "publishedAt": "2026-07-16T16:00:00.000Z"
-    },
-    {
-      "title": "通过两个 Google 视频更新创建、编辑和主演视频",
-      "titleEn": "Create, edit and star in videos with two Google Vids updates",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp\">Google 视频中的 Gemini Omni 和个人头像让视频创作变得比以往更加轻松。",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
-      "publishedAt": "2026-07-16T16:00:00.000Z"
-    },
-    {
-      "title": "认识 GPT-Red：LLM 超级黑客 OpenAI 旨在使其模型更安全",
-      "titleEn": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-07-15T17:09:37.000Z"
-    },
-    {
-      "title": "庆祝视觉搜索创新 25 周年",
-      "titleEn": "Celebrating 25 years of visual search innovation",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp\">Google Images 即将迎来 25 岁生日。以下是一些重要里程碑的回顾以及实现这一目标的新方法",
-      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
-      "publishedAt": "2026-07-14T16:00:00.000Z"
     }
   ]
 }
