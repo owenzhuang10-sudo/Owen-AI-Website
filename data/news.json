@@ -1,7 +1,133 @@
 {
-  "updatedAt": "2026-07-28T02:01:31.752Z",
+  "updatedAt": "2026-07-29T02:03:48.698Z",
   "count": 50,
   "items": [
+    {
+      "title": "Cyera 同意以 10 亿美元收购 Oasis Security，以保护不断扩散的人工智能代理",
+      "titleEn": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-29T00:09:05.000Z"
+    },
+    {
+      "title": "我们现在更好地了解了 OpenAI 是如何侵入 Hugging Face 的",
+      "titleEn": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "publishedAt": "2026-07-28T21:36:39.000Z"
+    },
+    {
+      "title": "机器人检测初创公司 Spur 从 Insight 获得 2 亿美元投资",
+      "titleEn": "Bot-detection startup Spur nabs $200M from Insight",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-28T21:29:34.000Z"
+    },
+    {
+      "title": "MCP 初创公司 Runlayer 指责 Rippleing 窃取其产品创意",
+      "titleEn": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-28T20:45:12.000Z"
+    },
+    {
+      "title": "尽管人工智能大肆宣传，但 Google 的数据显示，工人并没有实现自动化",
+      "titleEn": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1711353151-1152x648.jpg",
+      "publishedAt": "2026-07-28T20:20:20.000Z"
+    },
+    {
+      "title": "萨姆·奥尔特曼已准备好减速",
+      "titleEn": "Sam Altman is ready to decelerate",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-28T20:17:08.000Z"
+    },
+    {
+      "title": "Gemini API 托管代理：3.6 Flash、挂钩等",
+      "titleEn": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\">我们在 Gemini API 的托管代理中推出了更多新功能，以便开发者可以构建",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
+      "publishedAt": "2026-07-28T16:00:00.000Z"
+    },
+    {
+      "title": "数据中心可能面临临时断电，以防止美国最大电网停电",
+      "titleEn": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-28T15:42:26.000Z"
+    },
+    {
+      "title": "Fish Audio 筹集了 5200 万美元种子资金，为创作者和企业构建 AI 语音模型",
+      "titleEn": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-28T14:00:00.000Z"
+    },
+    {
+      "title": "Recursive Superintelligence 与亚马逊签署 4.1 亿美元计算协议",
+      "titleEn": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-28T13:19:17.000Z"
+    },
+    {
+      "title": "搜索中的 AI 模式可帮助您享受现实世界的 5 种方式",
+      "titleEn": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp\">这听起来可能有悖常理，但搜索的 AI 工具实际上可以帮助您充分利用自己的优势",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+      "publishedAt": "2026-07-28T13:00:00.000Z"
+    },
+    {
+      "title": "通过 Google 举办终极晚宴的 5 种方式",
+      "titleEn": "5 ways to host the ultimate dinner party with Google Search",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp\">这些 AI 功能可以帮助您制作菜单、设计桌面以及处理其他派对策划任务",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
+      "publishedAt": "2026-07-28T13:00:00.000Z"
+    },
+    {
+      "title": "三星的芯片工人正在跳槽到竞争对手 SK 海力士",
+      "titleEn": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-07-28T09:18:57.000Z"
+    },
+    {
+      "title": "Cursor 在 SpaceX 收购之前以本地化定价进行了迄今为止最大的印度推广",
+      "titleEn": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-28T04:30:00.000Z"
+    },
     {
       "title": "Anthropic的Dario Amodei回应：不反对开放权重模型，但担心中国AI",
       "titleEn": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -138,7 +264,7 @@
       "publishedAt": "2026-07-27T15:01:50.000Z"
     },
     {
-      "title": "Enigma 筹集了 7100 万美元，让控制机器人就像调节音量一样简单",
+      "title": "Enigma 融资 7100 万美元，让控制机器人像调节音量一样简单",
       "titleEn": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "summary": "",
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
@@ -192,69 +318,6 @@
       "publishedAt": "2026-07-27T00:19:14.000Z"
     },
     {
-      "title": "理解对中国人工智能的恐慌",
-      "titleEn": "Making sense of the panic over Chinese AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-26T19:40:57.000Z"
-    },
-    {
-      "title": "Hugging Face 首席执行官在“史无前例”的 OpenAI 黑客攻击后呼吁“彻底透明”",
-      "titleEn": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-26T16:33:13.000Z"
-    },
-    {
-      "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
-      "titleEn": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-26T01:30:00.000Z"
-    },
-    {
-      "title": "图书馆员正在为那些厌倦了大型科技的人们举办病毒式的“避免人工智能”研讨会",
-      "titleEn": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-25T16:00:00.000Z"
-    },
-    {
-      "title": "一根倒下的电源线暴露了人工智能数据中心日益严重的问题——修复方法如下",
-      "titleEn": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-25T13:05:00.000Z"
-    },
-    {
-      "title": "我尝试了 OpenAI 的新 AI 键盘——这对一些编码员来说会很有趣，但对其他人来说有点神秘",
-      "titleEn": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-25T00:23:11.000Z"
-    },
-    {
-      "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
-      "titleEn": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-24T22:25:58.000Z"
-    },
-    {
       "title": "加拿大立法者在发言中宣读了法学硕士的明显回应",
       "titleEn": "Canadian legislator reads out apparent LLM response in floor speech",
       "summary": "",
@@ -271,15 +334,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg",
       "publishedAt": "2026-07-24T21:05:51.000Z"
-    },
-    {
-      "title": "Cognition为何收购Poke：AI个性正在成为竞争优势",
-      "titleEn": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-24T18:07:32.000Z"
     },
     {
       "title": "团队使用 AlphaFold AI 重新设计基因编辑蛋白质，使其更安全",
@@ -397,60 +451,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Syensqo-shutterstock_2491787317.jpg?w=1200",
       "publishedAt": "2026-07-21T10:37:34.000Z"
-    },
-    {
-      "title": "野火几乎全年困扰美国，消防无人机投入使用",
-      "titleEn": "Firefighting drones in the works as wildfires plague US nearly year-round",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-5.24.12-PM-1152x648.png",
-      "publishedAt": "2026-07-20T21:55:52.000Z"
-    },
-    {
-      "title": "中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾",
-      "titleEn": "China’s AI models have Trump’s AI world at war with itself",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-07-20T18:00:00.000Z"
-    },
-    {
-      "title": "超越 grep：上下文丰富的 AI 编码工具的案例",
-      "titleEn": "Beyond grep: The case for a context-rich AI coding harness",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg",
-      "publishedAt": "2026-07-20T11:20:10.000Z"
-    },
-    {
-      "title": "人工智能在招聘时比人类更有可能形成偏见",
-      "titleEn": "AI is more likely than humans to form biases when hiring",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-07-20T08:39:01.000Z"
-    },
-    {
-      "title": "人工智能会修复事先授权问题，还是让情况变得更糟？",
-      "titleEn": "Will AI fix prior authorization—or make it worse?",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-1152x648.jpg",
-      "publishedAt": "2026-07-18T11:18:25.000Z"
-    },
-    {
-      "title": "天气数据遭到破坏的风险正在上升",
-      "titleEn": "The risk of weather data sabotage is rising",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-07-17T08:57:32.000Z"
     }
   ]
 }
