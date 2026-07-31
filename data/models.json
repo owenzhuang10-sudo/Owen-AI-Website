@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T01:53:43.193Z",
+  "updatedAt": "2026-07-31T02:12:54.226Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -588,6 +588,14 @@
         },
         {
           "rank": 20,
+          "name": "Inkling Small",
+          "org": "Thinking Machines",
+          "country": "us",
+          "score": 30.8,
+          "released": "2026-07-30"
+        },
+        {
+          "rank": 21,
           "name": "Hy3",
           "org": "Tencent",
           "country": "cn",
@@ -595,7 +603,7 @@
           "released": "2026-07-06"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Qwen3.7 Max",
           "org": "Alibaba",
           "country": "cn",
@@ -603,7 +611,7 @@
           "released": "2026-05-19"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Kimi K2.7 Code",
           "org": "Kimi",
           "country": "cn",
@@ -611,7 +619,7 @@
           "released": "2026-06-12"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "MiMo-V2.5-Pro",
           "org": "Xiaomi",
           "country": "cn",
@@ -619,20 +627,12 @@
           "released": "2026-04-22"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Muse Spark",
           "org": "Meta",
           "country": "us",
           "score": 28.7,
           "released": "2026-04-08"
-        },
-        {
-          "rank": 25,
-          "name": "Qwen3.6 Plus",
-          "org": "Alibaba",
-          "country": "cn",
-          "score": 27.6,
-          "released": "2026-04-02"
         }
       ]
     },
@@ -799,6 +799,14 @@
         },
         {
           "rank": 20,
+          "name": "Inkling Small",
+          "org": "Thinking Machines",
+          "country": "us",
+          "score": 89.5,
+          "released": "2026-07-30"
+        },
+        {
+          "rank": 21,
           "name": "GLM-5.2",
           "org": "Z AI",
           "country": "cn",
@@ -806,7 +814,7 @@
           "released": "2026-06-16"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "DeepSeek V4 Flash",
           "org": "DeepSeek",
           "country": "cn",
@@ -814,7 +822,7 @@
           "released": "2026-04-24"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Qwen3.5 397B A17B",
           "org": "Alibaba",
           "country": "cn",
@@ -822,7 +830,7 @@
           "released": "2026-02-16"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Nex-N2-Pro",
           "org": "Nex AGI",
           "country": "cn",
@@ -830,20 +838,12 @@
           "released": "2026-06-02"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Grok 4.3",
           "org": "SpaceXAI",
           "country": "us",
           "score": 89,
           "released": "2026-04-30"
-        },
-        {
-          "rank": 25,
-          "name": "Muse Spark",
-          "org": "Meta",
-          "country": "us",
-          "score": 88.4,
-          "released": "2026-04-08"
         }
       ]
     },
