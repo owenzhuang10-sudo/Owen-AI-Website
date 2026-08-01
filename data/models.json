@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T02:12:54.226Z",
+  "updatedAt": "2026-08-01T02:13:57.231Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -110,6 +110,14 @@
         },
         {
           "rank": 13,
+          "name": "DeepSeek V4 Flash 0731",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 49.9,
+          "released": "2026-07-31"
+        },
+        {
+          "rank": 14,
           "name": "Gemini 3.1 Pro Preview",
           "org": "Google",
           "country": "us",
@@ -117,7 +125,7 @@
           "released": "2026-02-19"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Qwen3.7 Max",
           "org": "Alibaba",
           "country": "cn",
@@ -125,7 +133,7 @@
           "released": "2026-05-19"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "MiniMax-M3",
           "org": "MiniMax",
           "country": "cn",
@@ -133,7 +141,7 @@
           "released": "2026-06-01"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "DeepSeek V4 Pro",
           "org": "DeepSeek",
           "country": "cn",
@@ -141,7 +149,7 @@
           "released": "2026-04-24"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "GPT-5.3 Codex",
           "org": "OpenAI",
           "country": "us",
@@ -149,7 +157,7 @@
           "released": "2026-02-05"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Motif 3",
           "org": "Motif Technologies",
           "country": "kr",
@@ -157,7 +165,7 @@
           "released": "2026-07-14"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Muse Spark",
           "org": "Meta",
           "country": "us",
@@ -165,7 +173,7 @@
           "released": "2026-04-08"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "MiMo-V2.5-Pro",
           "org": "Xiaomi",
           "country": "cn",
@@ -173,7 +181,7 @@
           "released": "2026-04-22"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Kimi K2.7 Code",
           "org": "Kimi",
           "country": "cn",
@@ -181,7 +189,7 @@
           "released": "2026-06-12"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Hy3",
           "org": "Tencent",
           "country": "cn",
@@ -189,7 +197,7 @@
           "released": "2026-07-06"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Nex-N2-Pro",
           "org": "Nex AGI",
           "country": "cn",
@@ -197,20 +205,12 @@
           "released": "2026-06-02"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Inkling",
           "org": "Thinking Machines",
           "country": "us",
           "score": 40.7,
           "released": "2026-07-15"
-        },
-        {
-          "rank": 25,
-          "name": "DeepSeek V4 Flash",
-          "org": "DeepSeek",
-          "country": "cn",
-          "score": 40.3,
-          "released": "2026-04-24"
         }
       ]
     },
@@ -313,6 +313,14 @@
         },
         {
           "rank": 12,
+          "name": "DeepSeek V4 Flash 0731",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 69.1,
+          "released": "2026-07-31"
+        },
+        {
+          "rank": 13,
           "name": "Gemini 3.1 Pro Preview",
           "org": "Google",
           "country": "us",
@@ -320,7 +328,7 @@
           "released": "2026-02-19"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "GLM-5.2",
           "org": "Z AI",
           "country": "cn",
@@ -328,7 +336,7 @@
           "released": "2026-06-16"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Qwen3.7 Max",
           "org": "Alibaba",
           "country": "cn",
@@ -336,7 +344,7 @@
           "released": "2026-05-19"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Motif 3",
           "org": "Motif Technologies",
           "country": "kr",
@@ -344,7 +352,7 @@
           "released": "2026-07-14"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Kimi K2.7 Code",
           "org": "Kimi",
           "country": "cn",
@@ -352,7 +360,7 @@
           "released": "2026-06-12"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "MiMo-V2.5-Pro",
           "org": "Xiaomi",
           "country": "cn",
@@ -360,7 +368,7 @@
           "released": "2026-04-22"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "KAT Coder Pro V2",
           "org": "KwaiKAT",
           "country": "cn",
@@ -368,7 +376,7 @@
           "released": "2026-03-27"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "DeepSeek V4 Pro",
           "org": "DeepSeek",
           "country": "cn",
@@ -376,7 +384,7 @@
           "released": "2026-04-24"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Nex-N2-Pro",
           "org": "Nex AGI",
           "country": "cn",
@@ -384,7 +392,7 @@
           "released": "2026-06-02"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Hy3",
           "org": "Tencent",
           "country": "cn",
@@ -392,7 +400,7 @@
           "released": "2026-07-06"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Agnes 2.5 Pro Alpha",
           "org": "Sapiens AI",
           "country": "sg",
@@ -400,7 +408,7 @@
           "released": "2026-07-24"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Muse Spark",
           "org": "Meta",
           "country": "us",
@@ -408,20 +416,12 @@
           "released": "2026-04-08"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "MiniMax-M3",
           "org": "MiniMax",
           "country": "cn",
           "score": 58.6,
           "released": "2026-06-01"
-        },
-        {
-          "rank": 25,
-          "name": "MiMo-V2.5",
-          "org": "Xiaomi",
-          "country": "cn",
-          "score": 56.8,
-          "released": "2026-04-22"
         }
       ]
     },
@@ -492,6 +492,14 @@
         },
         {
           "rank": 8,
+          "name": "DeepSeek V4 Flash 0731",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 45.7,
+          "released": "2026-07-31"
+        },
+        {
+          "rank": 9,
           "name": "GPT-5.6 Luna",
           "org": "OpenAI",
           "country": "us",
@@ -499,7 +507,7 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "GLM-5.2",
           "org": "Z AI",
           "country": "cn",
@@ -507,7 +515,7 @@
           "released": "2026-06-16"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Gemini 3.6 Flash",
           "org": "Google",
           "country": "us",
@@ -515,7 +523,7 @@
           "released": "2026-07-21"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Muse Spark 1.1",
           "org": "Meta",
           "country": "us",
@@ -523,7 +531,7 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Gemini 3.5 Flash",
           "org": "Google",
           "country": "us",
@@ -531,7 +539,7 @@
           "released": "2026-05-19"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "DeepSeek V4 Pro",
           "org": "DeepSeek",
           "country": "cn",
@@ -539,7 +547,7 @@
           "released": "2026-04-24"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "MiniMax-M3",
           "org": "MiniMax",
           "country": "cn",
@@ -547,7 +555,7 @@
           "released": "2026-06-01"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Motif 3",
           "org": "Motif Technologies",
           "country": "kr",
@@ -555,7 +563,7 @@
           "released": "2026-07-14"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "JT-4.1 Flash 236B A21B",
           "org": "China Mobile",
           "country": "cn",
@@ -563,20 +571,12 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Inkling",
           "org": "Thinking Machines",
           "country": "us",
           "score": 32.3,
           "released": "2026-07-15"
-        },
-        {
-          "rank": 18,
-          "name": "DeepSeek V4 Flash",
-          "org": "DeepSeek",
-          "country": "cn",
-          "score": 31.1,
-          "released": "2026-04-24"
         },
         {
           "rank": 19,
@@ -759,6 +759,14 @@
         },
         {
           "rank": 15,
+          "name": "DeepSeek V4 Flash 0731",
+          "org": "DeepSeek",
+          "country": "cn",
+          "score": 90.8,
+          "released": "2026-07-31"
+        },
+        {
+          "rank": 16,
           "name": "DeepSeek V4 Pro",
           "org": "DeepSeek",
           "country": "cn",
@@ -766,7 +774,7 @@
           "released": "2026-04-24"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Qwen3.7 Plus",
           "org": "Alibaba",
           "country": "cn",
@@ -774,7 +782,7 @@
           "released": "2026-06-01"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Muse Spark 1.1",
           "org": "Meta",
           "country": "us",
@@ -782,7 +790,7 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Hy3",
           "org": "Tencent",
           "country": "cn",
@@ -790,7 +798,7 @@
           "released": "2026-07-06"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Kimi K2.7 Code",
           "org": "Kimi",
           "country": "cn",
@@ -798,7 +806,7 @@
           "released": "2026-06-12"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Inkling Small",
           "org": "Thinking Machines",
           "country": "us",
@@ -806,20 +814,12 @@
           "released": "2026-07-30"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "GLM-5.2",
           "org": "Z AI",
           "country": "cn",
           "score": 89.5,
           "released": "2026-06-16"
-        },
-        {
-          "rank": 22,
-          "name": "DeepSeek V4 Flash",
-          "org": "DeepSeek",
-          "country": "cn",
-          "score": 89.4,
-          "released": "2026-04-24"
         },
         {
           "rank": 23,
@@ -1125,14 +1125,6 @@
         },
         {
           "rank": 8,
-          "name": "DeepSeek V4 Flash",
-          "org": "DeepSeek",
-          "country": "cn",
-          "score": 79.2,
-          "released": "2026-04-24"
-        },
-        {
-          "rank": 9,
           "name": "Qwen3.5 397B A17B",
           "org": "Alibaba",
           "country": "cn",
@@ -1140,7 +1132,7 @@
           "released": "2026-02-16"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Qwen3.7 Plus",
           "org": "Alibaba",
           "country": "cn",
@@ -1148,7 +1140,7 @@
           "released": "2026-06-01"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Gemini 3.1 Flash-Lite",
           "org": "Google",
           "country": "us",
@@ -1156,7 +1148,7 @@
           "released": "2026-03-03"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Gemini 3.1 Pro Preview",
           "org": "Google",
           "country": "us",
@@ -1164,7 +1156,7 @@
           "released": "2026-02-19"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "DeepSeek V4 Pro",
           "org": "DeepSeek",
           "country": "cn",
@@ -1172,7 +1164,7 @@
           "released": "2026-04-24"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Gemini 3.5 Flash",
           "org": "Google",
           "country": "us",
@@ -1180,7 +1172,7 @@
           "released": "2026-05-19"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Muse Spark",
           "org": "Meta",
           "country": "us",
@@ -1188,7 +1180,7 @@
           "released": "2026-04-08"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Qwen3.5 122B A10B",
           "org": "Alibaba",
           "country": "cn",
@@ -1196,7 +1188,7 @@
           "released": "2026-02-24"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Gemma 4 31B",
           "org": "Google",
           "country": "us",
@@ -1204,7 +1196,7 @@
           "released": "2026-04-02"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "GPT-5.3 Codex",
           "org": "OpenAI",
           "country": "us",
@@ -1212,7 +1204,7 @@
           "released": "2026-02-05"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Qwen3.6 Plus",
           "org": "Alibaba",
           "country": "cn",
@@ -1220,7 +1212,7 @@
           "released": "2026-04-02"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Command A+",
           "org": "Cohere",
           "country": "ca",
@@ -1228,7 +1220,7 @@
           "released": "2026-05-20"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Gemma 4 12B",
           "org": "Google",
           "country": "us",
@@ -1236,7 +1228,7 @@
           "released": "2026-06-03"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "GLM-5.2",
           "org": "Z AI",
           "country": "cn",
@@ -1244,7 +1236,7 @@
           "released": "2026-06-16"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "GPT-5.6 Sol",
           "org": "OpenAI",
           "country": "us",
@@ -1252,7 +1244,7 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Gemma 4 26B A4B",
           "org": "Google",
           "country": "us",
@@ -1260,12 +1252,20 @@
           "released": "2026-04-02"
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "MiMo-V2-Flash",
           "org": "Xiaomi",
           "country": "cn",
           "score": 71.8,
           "released": "2025-12-16"
+        },
+        {
+          "rank": 25,
+          "name": "NVIDIA Nemotron 3 Super 120B A12B",
+          "org": "NVIDIA",
+          "country": "us",
+          "score": 71.5,
+          "released": "2026-03-11"
         }
       ]
     },
@@ -1539,19 +1539,19 @@
         },
         {
           "rank": 7,
-          "name": "Muse Spark",
-          "org": "Meta",
-          "country": "us",
-          "score": 80.5,
-          "released": "2026-04-08"
-        },
-        {
-          "rank": 8,
           "name": "Kimi K3",
           "org": "Kimi",
           "country": "cn",
           "score": 80.5,
           "released": "2026-07-16"
+        },
+        {
+          "rank": 8,
+          "name": "Muse Spark",
+          "org": "Meta",
+          "country": "us",
+          "score": 80.5,
+          "released": "2026-04-08"
         },
         {
           "rank": 9,

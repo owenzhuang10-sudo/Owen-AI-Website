@@ -1,7 +1,151 @@
 {
-  "updatedAt": "2026-07-31T02:12:53.753Z",
+  "updatedAt": "2026-08-01T02:13:56.725Z",
   "count": 50,
   "items": [
+    {
+      "title": "据报道，OpenAI 发现了更多特工胡作非为的证据",
+      "titleEn": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-31T22:47:26.000Z"
+    },
+    {
+      "title": "Reddit 就 Google 搜索结果展开奇怪的 DMCA 之争",
+      "titleEn": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-1024x648.jpg",
+      "publishedAt": "2026-07-31T21:19:39.000Z"
+    },
+    {
+      "title": "印度开始为应用程序付费，而不仅仅是下载它们",
+      "titleEn": "India is starting to pay for apps, not just download them",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-31T21:07:45.000Z"
+    },
+    {
+      "title": "Claude向互联网发布恶意代码，攻击3家真实公司",
+      "titleEn": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg",
+      "publishedAt": "2026-07-31T20:39:14.000Z"
+    },
+    {
+      "title": "Google 人工智能工具制作假卫星图片，地球面临毁灭风险",
+      "titleEn": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Google-Earth-AI-generated-image-of-Googleplex-on-fire-1152x648.png",
+      "publishedAt": "2026-07-31T20:21:05.000Z"
+    },
+    {
+      "title": "Google 在发布一天后取消了其地球人工智能功能，因批评它会传播错误信息",
+      "titleEn": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-31T19:47:28.000Z"
+    },
+    {
+      "title": "你会纹身只是为了去一家每周 7 天的人工智能初创公司面试吗？",
+      "titleEn": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "summary": "",
+      "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-1152x648.jpg",
+      "publishedAt": "2026-07-31T19:04:56.000Z"
+    },
+    {
+      "title": "高中为男孩们制作 59 名同学的 AI 裸照时保持沉默",
+      "titleEn": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2150797132-1152x648.jpg",
+      "publishedAt": "2026-07-31T18:11:55.000Z"
+    },
+    {
+      "title": "山姆·奥尔特曼并不是唯一一个想要给人工智能踩刹车的人",
+      "titleEn": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "summary": "",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-31T17:26:32.000Z"
+    },
+    {
+      "title": "Snapchat 不再奖励完全由人工智能生成的 Spotlight 内容",
+      "titleEn": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-31T16:49:08.000Z"
+    },
+    {
+      "title": "Siri AI 可能会为高级用户提供付费专区",
+      "titleEn": "Siri AI could come with a paywall for power users",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-31T16:08:18.000Z"
+    },
+    {
+      "title": "SpaceX 在一年内不会拆除所有 xAI 未经许可的涡轮机",
+      "titleEn": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-31T15:16:17.000Z"
+    },
+    {
+      "title": "Smallest.ai 融资 1300 万美元，用于构建听起来像人类的超快语音 AI",
+      "titleEn": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-31T14:47:11.000Z"
+    },
+    {
+      "title": "在建立信任方面，人工智能诈骗者的表现优于人类",
+      "titleEn": "AI scammers outperform humans when it comes to building trust",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/scammer-1-1152x648.jpg",
+      "publishedAt": "2026-07-31T14:01:40.000Z"
+    },
+    {
+      "title": "人工智能实验室想要踩刹车，但亚马逊和 SpaceX 仍在起飞",
+      "titleEn": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "summary": "",
+      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-07-31T14:00:00.000Z"
+    },
+    {
+      "title": "耶鲁人工智能作弊纠纷如何演变为涉及 13 项指控的联邦诉讼",
+      "titleEn": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-1152x648.jpg",
+      "publishedAt": "2026-07-31T11:00:52.000Z"
+    },
     {
       "title": "Anthropic称其自己的AI模型在安全测试中攻破了三家公司",
       "titleEn": "Anthropic says its own AI models breached three companies during security tests",
@@ -120,15 +264,6 @@
       "publishedAt": "2026-07-30T15:19:15.000Z"
     },
     {
-      "title": "前沿部署的工程师是人工智能行业最新的人才热潮",
-      "titleEn": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T15:00:00.000Z"
-    },
-    {
       "title": "新的 MCP 规范解决了企业采用的主要障碍",
       "titleEn": "New MCP specification addresses the main barrier to enterprise adoption",
       "summary": "",
@@ -136,33 +271,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-1152x648.jpg",
       "publishedAt": "2026-07-30T14:53:07.000Z"
-    },
-    {
-      "title": "在 Hugging Face 泄露事件中，OpenAI 的黑客声音大且速度快，但并非不可阻挡",
-      "titleEn": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T14:48:32.000Z"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 最大的舞台云集了来自 Amazon、Replit、Tether 的领导者，还有更多精彩即将到来",
-      "titleEn": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T14:00:00.000Z"
-    },
-    {
-      "title": "Dili 融资 2170 万美元，推动基础设施热潮中的人工智能合规性",
-      "titleEn": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T13:00:00.000Z"
     },
     {
       "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
@@ -174,42 +282,6 @@
       "publishedAt": "2026-07-30T10:15:19.000Z"
     },
     {
-      "title": "Microsoft比以往任何时候都更公开地与OpenAI、Anthropic竞争",
-      "titleEn": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T00:21:06.000Z"
-    },
-    {
-      "title": "马克·扎克伯格预测五年内数十亿人将拥有个人人工智能代理",
-      "titleEn": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-29T23:00:11.000Z"
-    },
-    {
-      "title": "Microsoft 从 Anthropic 投资中获得了 $3.2B，但 OpenAI 是一个混合体",
-      "titleEn": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-29T22:46:03.000Z"
-    },
-    {
-      "title": "扎克伯格表示，Meta 的企业人工智能机会不仅限于代理",
-      "titleEn": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-29T22:23:12.000Z"
-    },
-    {
       "title": "对第三轮 PQC 候选算法的神话攻击使其无法使用",
       "titleEn": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
       "summary": "",
@@ -217,15 +289,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
       "publishedAt": "2026-07-29T22:07:06.000Z"
-    },
-    {
-      "title": "在 TechCrunch Disrupt 2026 上了解人工智能的下一步发展，从 SaaS 计算到代理安全漏洞",
-      "titleEn": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-29T21:16:39.000Z"
     },
     {
       "title": "美国禁止外国机器人后谁赢谁输？",
@@ -354,15 +417,6 @@
       "publishedAt": "2026-07-27T20:12:42.000Z"
     },
     {
-      "title": "Verizon 推出价值 10 亿美元的 Google 数据中心暗光纤交易，这是众多交易中的第一个",
-      "titleEn": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Verizon-Times-Square-Store-1152x648.jpg",
-      "publishedAt": "2026-07-27T18:48:41.000Z"
-    },
-    {
       "title": "OpenAI称Hugging Face的攻击史无前例。但我们以前来过这里。",
       "titleEn": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
       "summary": "",
@@ -370,15 +424,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-27T18:00:00.000Z"
-    },
-    {
-      "title": "ChatGPT 开始阻止复制作者风格的直接请求",
-      "titleEn": "ChatGPT starts blocking direct requests to copy an author's style",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
-      "publishedAt": "2026-07-27T16:58:46.000Z"
     },
     {
       "title": "通往超级人工智能之路",
@@ -406,51 +451,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-image-contributed-article.png",
       "publishedAt": "2026-07-27T11:32:58.000Z"
-    },
-    {
-      "title": "艺术家起诉人工智能表情包生成器，指控其将深度个人漫画作为广告模板出售",
-      "titleEn": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1152x648-1784918491.jpg",
-      "publishedAt": "2026-07-27T10:50:37.000Z"
-    },
-    {
-      "title": "加拿大立法者在发言中宣读了法学硕士的明显回应",
-      "titleEn": "Canadian legislator reads out apparent LLM response in floor speech",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
-      "publishedAt": "2026-07-24T21:25:15.000Z"
-    },
-    {
-      "title": "Anthropic 的 Opus 5 关注的是代币效率，而不是能力飞跃",
-      "titleEn": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg",
-      "publishedAt": "2026-07-24T21:05:51.000Z"
-    },
-    {
-      "title": "团队使用 AlphaFold AI 重新设计基因编辑蛋白质，使其更安全",
-      "titleEn": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "summary": "",
-      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239702658-1152x648.jpg",
-      "publishedAt": "2026-07-24T17:31:26.000Z"
-    },
-    {
-      "title": "人工智能公司需要更多的数据中心；特朗普的环保局可能会减少邻居的发言权",
-      "titleEn": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-1152x648.jpg",
-      "publishedAt": "2026-07-24T13:49:38.000Z"
     }
   ]
 }
