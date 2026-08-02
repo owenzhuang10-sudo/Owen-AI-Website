@@ -1,9 +1,54 @@
 {
-  "updatedAt": "2026-08-01T02:13:56.725Z",
+  "updatedAt": "2026-08-02T02:11:18.116Z",
   "count": 50,
   "items": [
     {
-      "title": "据报道，OpenAI 发现了更多特工胡作非为的证据",
+      "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+      "titleEn": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-01T20:26:04.000Z"
+    },
+    {
+      "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
+      "titleEn": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-01T19:45:45.000Z"
+    },
+    {
+      "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
+      "titleEn": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-01T17:07:34.000Z"
+    },
+    {
+      "title": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
+      "titleEn": "This $9 key physically locks your most addictive apps",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-01T15:58:17.000Z"
+    },
+    {
+      "title": "随着 Reddit 股价下跌，首席执行官质疑 Google 人工智能概述的价值",
+      "titleEn": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
+      "publishedAt": "2026-08-01T12:30:36.000Z"
+    },
+    {
+      "title": "据报道，OpenAI 发现了更多其特工胡作非为的证据",
       "titleEn": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "summary": "",
       "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
@@ -57,7 +102,7 @@
       "publishedAt": "2026-07-31T19:47:28.000Z"
     },
     {
-      "title": "你会纹身只是为了去一家每周 7 天的人工智能初创公司面试吗？",
+      "title": "你会为了去一家每周 7 天的人工智能初创公司面试而纹身吗？",
       "titleEn": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
       "summary": "",
       "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
@@ -219,15 +264,6 @@
       "publishedAt": "2026-07-30T18:57:58.000Z"
     },
     {
-      "title": "LinkedIn 添加了一个按钮来报告人工智能生成的“溢出”",
-      "titleEn": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T18:05:21.000Z"
-    },
-    {
       "title": "Google 推出 Gemini 机器人 2.0，承诺提高灵活性和安全性",
       "titleEn": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
       "summary": "",
@@ -235,33 +271,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gemini-robotics-2-1152x648.png",
       "publishedAt": "2026-07-30T17:58:02.000Z"
-    },
-    {
-      "title": "Okta 收购人工智能安全初创公司 Permiso——消息称斥资约 2 亿美元",
-      "titleEn": "Okta buys AI security startup Permiso — source says for about $200M",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T16:09:42.000Z"
-    },
-    {
-      "title": "Meta 表示人工智能正在使构建新应用程序变得更加容易——而且更多应用程序即将推出",
-      "titleEn": "Meta says AI is making it easier to build new apps — and more are coming",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T15:41:16.000Z"
-    },
-    {
-      "title": "Nscale 收购 Anyscale，因为它寻求拥有更多的人工智能计算堆栈",
-      "titleEn": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T15:19:15.000Z"
     },
     {
       "title": "新的 MCP 规范解决了企业采用的主要障碍",
@@ -345,7 +354,7 @@
       "publishedAt": "2026-07-29T08:42:57.000Z"
     },
     {
-      "title": "我们现在更好地了解了 OpenAI 是如何侵入 Hugging Face 的",
+      "title": "我们现在更好地了解了 OpenAI 是如何入侵 Hugging Face 的",
       "titleEn": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
@@ -406,15 +415,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
       "publishedAt": "2026-07-27T21:56:14.000Z"
-    },
-    {
-      "title": "网络爬虫在法庭获胜后表示：“Google 和 Reddit 并不拥有互联网”",
-      "titleEn": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg",
-      "publishedAt": "2026-07-27T20:12:42.000Z"
     },
     {
       "title": "OpenAI称Hugging Face的攻击史无前例。但我们以前来过这里。",
