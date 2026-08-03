@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-08-02T02:11:18.116Z",
+  "updatedAt": "2026-08-03T02:13:28.563Z",
   "count": 50,
   "items": [
+    {
+      "title": "Sam Altman 和 AI 的减速争论",
+      "titleEn": "Sam Altman and AI’s decel debate",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-02T20:54:22.000Z"
+    },
     {
       "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
       "titleEn": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -48,7 +57,7 @@
       "publishedAt": "2026-08-01T12:30:36.000Z"
     },
     {
-      "title": "据报道，OpenAI 发现了更多其特工胡作非为的证据",
+      "title": "据报道，OpenAI 发现了更多特工胡作非为的证据",
       "titleEn": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "summary": "",
       "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
@@ -255,15 +264,6 @@
       "publishedAt": "2026-07-30T19:26:56.000Z"
     },
     {
-      "title": "Google 表示，得益于人工智能，6 月份修复的 Chrome 错误比过去两年还要多",
-      "titleEn": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T18:57:58.000Z"
-    },
-    {
       "title": "Google 推出 Gemini 机器人 2.0，承诺提高灵活性和安全性",
       "titleEn": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
       "summary": "",
@@ -354,7 +354,7 @@
       "publishedAt": "2026-07-29T08:42:57.000Z"
     },
     {
-      "title": "我们现在更好地了解了 OpenAI 是如何入侵 Hugging Face 的",
+      "title": "我们现在更好地了解了 OpenAI 是如何侵入 Hugging Face 的",
       "titleEn": "We now have a better understanding how OpenAI hacked into Hugging Face",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
