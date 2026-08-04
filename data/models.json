@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T02:13:29.076Z",
+  "updatedAt": "2026-08-04T01:59:27.718Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -628,11 +628,11 @@
         },
         {
           "rank": 25,
-          "name": "Muse Spark",
-          "org": "Meta",
-          "country": "us",
+          "name": "G9v3-39A5B",
+          "org": "AI9Stars",
+          "country": "cn",
           "score": 28.7,
-          "released": "2026-04-08"
+          "released": "2026-08-03"
         }
       ]
     },
@@ -970,6 +970,14 @@
         },
         {
           "rank": 15,
+          "name": "G9v3-39A5B",
+          "org": "AI9Stars",
+          "country": "cn",
+          "score": 4.3,
+          "released": "2026-08-03"
+        },
+        {
+          "rank": 16,
           "name": "Muse Spark",
           "org": "Meta",
           "country": "us",
@@ -977,7 +985,7 @@
           "released": "2026-04-08"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "GLM-5.2",
           "org": "Z AI",
           "country": "cn",
@@ -985,7 +993,7 @@
           "released": "2026-06-16"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "MiMo-V2.5-Pro",
           "org": "Xiaomi",
           "country": "cn",
@@ -993,7 +1001,7 @@
           "released": "2026-04-22"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "GPT-5.5 Instant",
           "org": "OpenAI",
           "country": "us",
@@ -1001,7 +1009,7 @@
           "released": "2026-06-25"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Qwen3.6 Plus",
           "org": "Alibaba",
           "country": "cn",
@@ -1009,7 +1017,7 @@
           "released": "2026-04-02"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Qwen3.7 Plus",
           "org": "Alibaba",
           "country": "cn",
@@ -1017,7 +1025,7 @@
           "released": "2026-06-01"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Inkling",
           "org": "Thinking Machines",
           "country": "us",
@@ -1025,7 +1033,7 @@
           "released": "2026-07-15"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "MiniMax-M3",
           "org": "MiniMax",
           "country": "cn",
@@ -1033,7 +1041,7 @@
           "released": "2026-06-01"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "GPT-5.6 Terra",
           "org": "OpenAI",
           "country": "us",
@@ -1041,20 +1049,12 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "MiniCPM5-1B",
           "org": "OpenBMB",
           "country": "cn",
           "score": -0.8,
           "released": "2026-05-25"
-        },
-        {
-          "rank": 25,
-          "name": "Nemotron 3 Ultra 550B A55B",
-          "org": "NVIDIA",
-          "country": "us",
-          "score": -0.8,
-          "released": "2026-06-04"
         }
       ]
     },

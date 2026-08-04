@@ -1,7 +1,106 @@
 {
-  "updatedAt": "2026-08-03T02:13:28.563Z",
+  "updatedAt": "2026-08-04T01:59:27.392Z",
   "count": 50,
   "items": [
+    {
+      "title": "在经历了杀手季度后，Palantir 首席执行官 Alex Karp 称人工智能行业为“马克思主义”",
+      "titleEn": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-03T23:19:50.000Z"
+    },
+    {
+      "title": "美国公司的人工智能让乌克兰廉价的神风特攻队无人机自行跟踪目标",
+      "titleEn": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-5.14.23-PM-1152x648.png",
+      "publishedAt": "2026-08-03T22:11:39.000Z"
+    },
+    {
+      "title": "AWS 正在帮助振动编码初创公司 Superblocks，其影响是巨大的",
+      "titleEn": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-03T20:00:00.000Z"
+    },
+    {
+      "title": "Design Arena 创作者筹集了 790 万美元，为 AI 模型带来品味",
+      "titleEn": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-03T19:28:57.000Z"
+    },
+    {
+      "title": "有影响力的人因参加 OpenAI 的首次豪华旅行而遭到强烈反对",
+      "titleEn": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-03T19:09:56.000Z"
+    },
+    {
+      "title": "人工智能监督的远程考试成绩如此糟糕，以至于 58,000 名学生必须重新参加考试",
+      "titleEn": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "summary": "",
+      "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-1152x648.jpg",
+      "publishedAt": "2026-08-03T19:00:50.000Z"
+    },
+    {
+      "title": "苹果终于修复了 Siri。那么为什么会感觉虎头蛇尾呢？",
+      "titleEn": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-03T18:43:43.000Z"
+    },
+    {
+      "title": "特朗普的人工智能保护主义针对机器人",
+      "titleEn": "Trump’s AI protectionism has come for robotics",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-03T18:43:30.000Z"
+    },
+    {
+      "title": "国会最喜欢的人工智能工具？ ChatGPT",
+      "titleEn": "Congress’ favorite AI tool? ChatGPT",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-03T16:40:55.000Z"
+    },
+    {
+      "title": "Marc Benioff 支持的初创公司认为人工智能可以解决人工智能部署问题",
+      "titleEn": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-03T10:00:00.000Z"
+    },
+    {
+      "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
+      "titleEn": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-03T08:30:05.000Z"
+    },
     {
       "title": "Sam Altman 和 AI 的减速争论",
       "titleEn": "Sam Altman and AI’s decel debate",
@@ -111,7 +210,7 @@
       "publishedAt": "2026-07-31T19:47:28.000Z"
     },
     {
-      "title": "你会为了去一家每周 7 天的人工智能初创公司面试而纹身吗？",
+      "title": "你会纹身只是为了去一家每周 7 天的人工智能初创公司面试吗？",
       "titleEn": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
       "summary": "",
       "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
@@ -183,15 +282,6 @@
       "publishedAt": "2026-07-31T14:01:40.000Z"
     },
     {
-      "title": "人工智能实验室想要踩刹车，但亚马逊和 SpaceX 仍在起飞",
-      "titleEn": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "summary": "",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-31T14:00:00.000Z"
-    },
-    {
       "title": "耶鲁人工智能作弊纠纷如何演变为涉及 13 项指控的联邦诉讼",
       "titleEn": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
       "summary": "",
@@ -199,60 +289,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-1152x648.jpg",
       "publishedAt": "2026-07-31T11:00:52.000Z"
-    },
-    {
-      "title": "Anthropic称其自己的AI模型在安全测试中攻破了三家公司",
-      "titleEn": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-31T01:06:54.000Z"
-    },
-    {
-      "title": "AI 对冲基金 Situation Awareness 可能已出售其公开投资组合，但仍持有 Anthropic 股票",
-      "titleEn": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T23:25:58.000Z"
-    },
-    {
-      "title": "Reddit 报告季度表现稳健，但显示出人工智能影响的迹象",
-      "titleEn": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T23:08:58.000Z"
-    },
-    {
-      "title": "投资者喜欢人工智能，只要你是云主机",
-      "titleEn": "Investors love AI, as long as you’re a cloud host",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T22:41:41.000Z"
-    },
-    {
-      "title": "法官称特朗普政府仍缺乏 Anthropic“供应链风险”标签的证据",
-      "titleEn": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T20:26:38.000Z"
-    },
-    {
-      "title": "Friend，孤独的人工智能可穿戴设备，带着新的声音和更高的价格回归",
-      "titleEn": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-07-30T19:44:16.000Z"
     },
     {
       "title": "Chrome 无需重启即可获得更快的更新",
@@ -363,15 +399,6 @@
       "publishedAt": "2026-07-28T21:36:39.000Z"
     },
     {
-      "title": "尽管人工智能大肆宣传，但 Google 的数据显示，工人并没有实现自动化",
-      "titleEn": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1711353151-1152x648.jpg",
-      "publishedAt": "2026-07-28T20:20:20.000Z"
-    },
-    {
       "title": "Gemini API 托管代理：3.6 Flash、挂钩等",
       "titleEn": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\">我们在 Gemini API 的托管代理中推出了更多新功能，以便开发者可以构建",
@@ -408,15 +435,6 @@
       "publishedAt": "2026-07-28T09:18:57.000Z"
     },
     {
-      "title": "Microsoft 推出人工智能安全工具，称其性能优于竞争平台",
-      "titleEn": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "summary": "",
-      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
-      "publishedAt": "2026-07-27T21:56:14.000Z"
-    },
-    {
       "title": "OpenAI称Hugging Face的攻击史无前例。但我们以前来过这里。",
       "titleEn": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
       "summary": "",
@@ -433,24 +451,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png",
       "publishedAt": "2026-07-27T12:00:00.000Z"
-    },
-    {
-      "title": "关闭人工智能驱动药物发现的数据循环",
-      "titleEn": "Closing the data loop in AI-driven drug discovery",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
-      "publishedAt": "2026-07-27T11:40:16.000Z"
-    },
-    {
-      "title": "构建代理人工智能的企业环境",
-      "titleEn": "Building the enterprise environment for agentic AI",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-image-contributed-article.png",
-      "publishedAt": "2026-07-27T11:32:58.000Z"
     }
   ]
 }
