@@ -1,7 +1,133 @@
 {
-  "updatedAt": "2026-08-05T01:58:31.821Z",
+  "updatedAt": "2026-08-06T02:02:37.267Z",
   "count": 50,
   "items": [
+    {
+      "title": "Meta 推出 Muse Code，一款适用于大型代码库的 AI 代理",
+      "titleEn": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-05T21:21:28.000Z"
+    },
+    {
+      "title": "Anthropic 的 AI 使用虚假身份和恶意软件对 GitHub 项目进行流氓攻击",
+      "titleEn": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
+      "publishedAt": "2026-08-05T20:47:11.000Z"
+    },
+    {
+      "title": "Klaviyo 收购 Elias Torres’ Agency，科技创始人全面重聚",
+      "titleEn": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-05T20:05:00.000Z"
+    },
+    {
+      "title": "Reddit 预示着 old.reddit.com 即将发生的不祥“变化”",
+      "titleEn": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "summary": "",
+      "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg",
+      "publishedAt": "2026-08-05T20:01:32.000Z"
+    },
+    {
+      "title": "Hank Green 发现了 YouTube 标签无法捕捉到的 AI 问题",
+      "titleEn": "Hank Green found the AI problem that YouTube labels can’t catch",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-1152x648.jpeg",
+      "publishedAt": "2026-08-05T19:51:40.000Z"
+    },
+    {
+      "title": "Jeff Dean 和其他顶尖人工智能研究人员将离开 Google 创办自己的初创公司",
+      "titleEn": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-05T19:30:19.000Z"
+    },
+    {
+      "title": "Shopify 表示人工智能搜索正在推动更多流量和销售，而不是取代 Google",
+      "titleEn": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-05T15:56:14.000Z"
+    },
+    {
+      "title": "Hark 预览其浏览器使用代理来完成任务",
+      "titleEn": "Hark previews its browser use agent for completing tasks",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-05T15:46:27.000Z"
+    },
+    {
+      "title": "Google 计划于 9 月 4 日关闭手机上的 Assistant",
+      "titleEn": "Google plans to kill Assistant on your phone on September 4",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "publishedAt": "2026-08-05T15:30:02.000Z"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 的真实世界人工智能舞台以机器人、自动化工厂和灭绝动物为特色",
+      "titleEn": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-05T15:05:00.000Z"
+    },
+    {
+      "title": "Anthropic正在招聘AI芯片设计团队",
+      "titleEn": "Anthropic is hiring an AI chip design team",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-05T14:13:18.000Z"
+    },
+    {
+      "title": "SpaceX首次发布盈利报告令投资者感到震惊",
+      "titleEn": "SpaceX spooks investors with debut earnings report",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-1024x648.jpg",
+      "publishedAt": "2026-08-05T13:59:17.000Z"
+    },
+    {
+      "title": "MacPaw 利用 Liquid AI 为其应用商店构建的开发人员提供设备上推理",
+      "titleEn": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-05T12:28:38.000Z"
+    },
+    {
+      "title": "人工智能让天气预报变得更好。 WindBorne 能否盈利？",
+      "titleEn": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-05T11:00:00.000Z"
+    },
     {
       "title": "今年到目前为止，SpaceX 已购买了价值 3.29 亿美元的 Tesla Megapacks",
       "titleEn": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -120,15 +246,6 @@
       "publishedAt": "2026-08-04T12:00:00.000Z"
     },
     {
-      "title": "在经历了杀手季度后，Palantir 首席执行官 Alex Karp 称人工智能行业为“马克思主义”",
-      "titleEn": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-03T23:19:50.000Z"
-    },
-    {
       "title": "美国公司的人工智能让乌克兰廉价的神风特攻队无人机自行跟踪目标",
       "titleEn": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
       "summary": "",
@@ -136,33 +253,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-5.14.23-PM-1152x648.png",
       "publishedAt": "2026-08-03T22:11:39.000Z"
-    },
-    {
-      "title": "AWS 正在帮助振动编码初创公司 Superblocks，其影响是巨大的",
-      "titleEn": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-03T20:00:00.000Z"
-    },
-    {
-      "title": "Design Arena 创作者筹集了 790 万美元，为 AI 模型带来品味",
-      "titleEn": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-03T19:28:57.000Z"
-    },
-    {
-      "title": "有影响力的人因参加 OpenAI 的首次豪华旅行而遭到强烈反对",
-      "titleEn": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-03T19:09:56.000Z"
     },
     {
       "title": "人工智能监督的远程考试成绩如此糟糕，以至于 58,000 名学生必须重新参加考试",
@@ -174,15 +264,6 @@
       "publishedAt": "2026-08-03T19:00:50.000Z"
     },
     {
-      "title": "苹果终于修复了 Siri。那么为什么会感觉虎头蛇尾呢？",
-      "titleEn": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-03T18:43:43.000Z"
-    },
-    {
       "title": "特朗普的人工智能保护主义针对机器人",
       "titleEn": "Trump’s AI protectionism has come for robotics",
       "summary": "",
@@ -190,15 +271,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-08-03T18:43:30.000Z"
-    },
-    {
-      "title": "国会最喜欢的人工智能工具？ ChatGPT",
-      "titleEn": "Congress’ favorite AI tool? ChatGPT",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-03T16:40:55.000Z"
     },
     {
       "title": "深入了解我们 353,000 人的氛围编码课程",
@@ -210,15 +282,6 @@
       "publishedAt": "2026-08-03T15:00:00.000Z"
     },
     {
-      "title": "Marc Benioff 支持的初创公司认为人工智能可以解决人工智能部署问题",
-      "titleEn": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-03T10:00:00.000Z"
-    },
-    {
       "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
       "titleEn": "Here’s why AI agents lie and cheat to reach their goals",
       "summary": "",
@@ -226,24 +289,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-08-03T08:30:05.000Z"
-    },
-    {
-      "title": "Sam Altman 和 AI 的减速争论",
-      "titleEn": "Sam Altman and AI’s decel debate",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-02T20:54:22.000Z"
-    },
-    {
-      "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
-      "titleEn": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-01T20:26:04.000Z"
     },
     {
       "title": "随着 Reddit 股价下跌，首席执行官质疑 Google 人工智能概述的价值",
@@ -361,51 +406,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
       "publishedAt": "2026-07-29T22:07:06.000Z"
-    },
-    {
-      "title": "美国禁止外国机器人后谁赢谁输？",
-      "titleEn": "Who wins and who loses after US bans foreign robots?",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing-1152x648.jpg",
-      "publishedAt": "2026-07-29T20:03:42.000Z"
-    },
-    {
-      "title": "埃隆·马斯克 (Elon Musk) 的 xAI 正试图通过诉讼摆脱 Grok 的清算",
-      "titleEn": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255893185-2-1152x648-1785343633.jpg",
-      "publishedAt": "2026-07-29T17:58:24.000Z"
-    },
-    {
-      "title": "Anthropic 发现错误的速度比 Microsoft 修复错误的速度还要快",
-      "titleEn": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "summary": "",
-      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
-      "publishedAt": "2026-07-29T15:52:48.000Z"
-    },
-    {
-      "title": "当你让人工智能来破译失落的语言时会发生什么？",
-      "titleEn": "What happens when you put AI to work deciphering lost languages?",
-      "summary": "",
-      "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/etruscan-1024x648.jpg",
-      "publishedAt": "2026-07-29T13:23:31.000Z"
-    },
-    {
-      "title": "Google的SynthID水印很难破解，但它并不能解决AI虚假信息",
-      "titleEn": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
-      "publishedAt": "2026-07-29T11:00:39.000Z"
     },
     {
       "title": "人工智能炒作指数：不性感的人工智能",
