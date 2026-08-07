@@ -1,7 +1,142 @@
 {
-  "updatedAt": "2026-08-06T02:02:37.267Z",
+  "updatedAt": "2026-08-07T02:23:20.296Z",
   "count": 50,
   "items": [
+    {
+      "title": "据报道，OpenAI 的新款 AI 智能音箱售价在 300 至 400 美元之间",
+      "titleEn": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T22:43:53.000Z"
+    },
+    {
+      "title": "Suno 希望人工智能生成的音乐带有水印合法化",
+      "titleEn": "Suno hopes to go legit with watermarks for AI-generated music",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-1152x648.jpg",
+      "publishedAt": "2026-08-06T20:17:36.000Z"
+    },
+    {
+      "title": "Anthropic将设计自己的硬件来为Claude提供动力",
+      "titleEn": "Anthropic will design its own hardware to power Claude",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg",
+      "publishedAt": "2026-08-06T20:03:44.000Z"
+    },
+    {
+      "title": "用于设计新病毒的大型基因组模型",
+      "titleEn": "Large genome models used to design new viruses",
+      "summary": "",
+      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg",
+      "publishedAt": "2026-08-06T19:04:57.000Z"
+    },
+    {
+      "title": "ChatGPT为免费用户带来无限的文字聊天",
+      "titleEn": "ChatGPT brings unlimited text chats to free users",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T17:34:42.000Z"
+    },
+    {
+      "title": "Naïve 筹集了 2850 万美元，用于自动化设立和运营公司的繁重工作",
+      "titleEn": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T17:00:37.000Z"
+    },
+    {
+      "title": "Cloudflare 为非编码人员提供开源 vivi 编码平台",
+      "titleEn": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Cloudflare-logo-1152x648.jpg",
+      "publishedAt": "2026-08-06T16:15:30.000Z"
+    },
+    {
+      "title": "Ditto 等 Z 世代约会应用放弃刷卡，转而采用人工智能配对",
+      "titleEn": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T15:53:03.000Z"
+    },
+    {
+      "title": "OpenAI 称苹果自身的安全做法破坏了其商业机密案件",
+      "titleEn": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T15:10:32.000Z"
+    },
+    {
+      "title": "在法律斗争中，Suno 表示将开始为歌曲添加水印",
+      "titleEn": "Amid legal battles, Suno says it will start watermarking songs",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T13:31:57.000Z"
+    },
+    {
+      "title": "Spotify 前员工筹集 1000 万美元，将人工智能引入电子商务建议",
+      "titleEn": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "title": "独家：Mirendil 签署价值超过 1 亿美元的 Google 云交易，以扩展自我改进的人工智能",
+      "titleEn": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T13:00:00.000Z"
+    },
+    {
+      "title": "Google 地图添加代理功能，包括食品订购和酒店预订",
+      "titleEn": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T12:30:00.000Z"
+    },
+    {
+      "title": "Omilia 融资 6700 万美元以扩展其客户支持平台",
+      "titleEn": "Omilia raises $67M to scale its customer support platform",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-06T12:00:00.000Z"
+    },
+    {
+      "title": "人工智能不足以保护社交媒体社区免受人工智能的影响",
+      "titleEn": "AI isn’t enough to protect social media communities from AI",
+      "summary": "",
+      "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-1152x648.jpg",
+      "publishedAt": "2026-08-06T11:00:44.000Z"
+    },
     {
       "title": "Meta 推出 Muse Code，一款适用于大型代码库的 AI 代理",
       "titleEn": "Meta launches Muse Code, an AI agent for large code bases",
@@ -147,87 +282,6 @@
       "publishedAt": "2026-08-04T20:34:28.000Z"
     },
     {
-      "title": "开放权重人工智能模型正在赶上前沿。安全差距依然存在。",
-      "titleEn": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T20:05:26.000Z"
-    },
-    {
-      "title": "Anthropic 与人工智能云初创公司 Volta 签署 100 亿美元协议",
-      "titleEn": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T19:48:40.000Z"
-    },
-    {
-      "title": "来认识一下 Wrinkles，一款可以揭开您周围隐藏故事的应用程序",
-      "titleEn": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T19:34:34.000Z"
-    },
-    {
-      "title": "Nvidia不乱来：开放AI产业团体成立一周后已初显进展",
-      "titleEn": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T19:28:49.000Z"
-    },
-    {
-      "title": "Spotify 扩大 AI 混音并涵盖与 Merlin 合作的项目",
-      "titleEn": "Spotify expands AI remix and covers project with Merlin partnership",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T15:50:06.000Z"
-    },
-    {
-      "title": "德克萨斯州暂停新数据中心，州长呼吁进行审计",
-      "titleEn": "Texas halts new data centers as governor calls for audits",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T15:42:35.000Z"
-    },
-    {
-      "title": "埃隆·马斯克 (Elon Musk) 在特斯拉财报电话会议上花了一半时间谈论机器人和人工智能",
-      "titleEn": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T15:20:06.000Z"
-    },
-    {
-      "title": "苹果称更多前员工可能已将机密数据带到 OpenAI",
-      "titleEn": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T14:03:01.000Z"
-    },
-    {
-      "title": "数据中心的未来是便携式的吗？ Runware 构建了一个 pod 来找出答案",
-      "titleEn": "Is the future of data centers portable? Runware builds a pod to find out",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T13:00:00.000Z"
-    },
-    {
       "title": "我们于 2026 年 7 月公布的最新 AI 新闻",
       "titleEn": "The latest AI news we announced in July 2026",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp\">以下是 Google 2026 年 7 月以来的最新 AI 更新",
@@ -235,15 +289,6 @@
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-04T13:00:00.000Z"
-    },
-    {
-      "title": "EON 希望将数据高速公路从海洋光纤转移到太空激光器",
-      "titleEn": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T12:00:00.000Z"
     },
     {
       "title": "美国公司的人工智能让乌克兰廉价的神风特攻队无人机自行跟踪目标",
@@ -354,42 +399,6 @@
       "publishedAt": "2026-07-31T14:01:40.000Z"
     },
     {
-      "title": "耶鲁人工智能作弊纠纷如何演变为涉及 13 项指控的联邦诉讼",
-      "titleEn": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-1152x648.jpg",
-      "publishedAt": "2026-07-31T11:00:52.000Z"
-    },
-    {
-      "title": "Chrome 无需重启即可获得更快的更新",
-      "titleEn": "Chrome may get faster updates with no restart required",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-1152x648.png",
-      "publishedAt": "2026-07-30T19:26:56.000Z"
-    },
-    {
-      "title": "Google 推出 Gemini 机器人 2.0，承诺提高灵活性和安全性",
-      "titleEn": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gemini-robotics-2-1152x648.png",
-      "publishedAt": "2026-07-30T17:58:02.000Z"
-    },
-    {
-      "title": "新的 MCP 规范解决了企业采用的主要障碍",
-      "titleEn": "New MCP specification addresses the main barrier to enterprise adoption",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-1152x648.jpg",
-      "publishedAt": "2026-07-30T14:53:07.000Z"
-    },
-    {
       "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
       "titleEn": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "summary": "",
@@ -397,15 +406,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-30T10:15:19.000Z"
-    },
-    {
-      "title": "对第三轮 PQC 候选算法的神话攻击使其无法使用",
-      "titleEn": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "summary": "",
-      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
-      "publishedAt": "2026-07-29T22:07:06.000Z"
     },
     {
       "title": "人工智能炒作指数：不性感的人工智能",
