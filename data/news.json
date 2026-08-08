@@ -1,7 +1,88 @@
 {
-  "updatedAt": "2026-08-07T02:23:20.296Z",
+  "updatedAt": "2026-08-08T01:09:49.947Z",
   "count": 50,
   "items": [
+    {
+      "title": "OpenAI 表示，出于安全考虑，其放慢了 Astra 模型的开发速度",
+      "titleEn": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-07T22:48:24.000Z"
+    },
+    {
+      "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+      "titleEn": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-07T21:30:11.000Z"
+    },
+    {
+      "title": "OpenAI昂贵的智能音箱将使用活动部件来显得“更有活力”",
+      "titleEn": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "summary": "",
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+      "publishedAt": "2026-08-07T17:36:22.000Z"
+    },
+    {
+      "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
+      "titleEn": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-07T16:16:09.000Z"
+    },
+    {
+      "title": "Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能",
+      "titleEn": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-07T14:22:49.000Z"
+    },
+    {
+      "title": "吉尔·莱波雷 (Jill Lepore) 谈“人造国家”以及为何硅谷领导人不擅长科幻小说",
+      "titleEn": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "summary": "",
+      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-07T14:00:00.000Z"
+    },
+    {
+      "title": "人工智能聊天机器人让处于危机中的人们失望了。这可以解决吗？",
+      "titleEn": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg",
+      "publishedAt": "2026-08-07T13:49:37.000Z"
+    },
+    {
+      "title": "字节跳动训练大规模人工智能模型以对抗 Anthropic",
+      "titleEn": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg",
+      "publishedAt": "2026-08-07T13:29:22.000Z"
+    },
+    {
+      "title": "新墨西哥州法院命令 Meta 在儿童安全案件中额外支付 5.67 亿美元",
+      "titleEn": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-07T11:40:37.000Z"
+    },
     {
       "title": "据报道，OpenAI 的新款 AI 智能音箱售价在 300 至 400 美元之间",
       "titleEn": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -201,15 +282,6 @@
       "publishedAt": "2026-08-05T15:56:14.000Z"
     },
     {
-      "title": "Hark 预览其浏览器使用代理来完成任务",
-      "titleEn": "Hark previews its browser use agent for completing tasks",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-05T15:46:27.000Z"
-    },
-    {
       "title": "Google 计划于 9 月 4 日关闭手机上的 Assistant",
       "titleEn": "Google plans to kill Assistant on your phone on September 4",
       "summary": "",
@@ -219,24 +291,6 @@
       "publishedAt": "2026-08-05T15:30:02.000Z"
     },
     {
-      "title": "TechCrunch Disrupt 2026 的真实世界人工智能舞台以机器人、自动化工厂和灭绝动物为特色",
-      "titleEn": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-05T15:05:00.000Z"
-    },
-    {
-      "title": "Anthropic正在招聘AI芯片设计团队",
-      "titleEn": "Anthropic is hiring an AI chip design team",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-05T14:13:18.000Z"
-    },
-    {
       "title": "SpaceX首次发布盈利报告令投资者感到震惊",
       "titleEn": "SpaceX spooks investors with debut earnings report",
       "summary": "",
@@ -244,33 +298,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-1024x648.jpg",
       "publishedAt": "2026-08-05T13:59:17.000Z"
-    },
-    {
-      "title": "MacPaw 利用 Liquid AI 为其应用商店构建的开发人员提供设备上推理",
-      "titleEn": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-05T12:28:38.000Z"
-    },
-    {
-      "title": "人工智能让天气预报变得更好。 WindBorne 能否盈利？",
-      "titleEn": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-05T11:00:00.000Z"
-    },
-    {
-      "title": "今年到目前为止，SpaceX 已购买了价值 3.29 亿美元的 Tesla Megapacks",
-      "titleEn": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-04T21:07:26.000Z"
     },
     {
       "title": "由于需求巨大，德克萨斯州暂停数据中心与电网的连接",
@@ -370,33 +397,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Google-Earth-AI-generated-image-of-Googleplex-on-fire-1152x648.png",
       "publishedAt": "2026-07-31T20:21:05.000Z"
-    },
-    {
-      "title": "你会纹身只是为了去一家每周 7 天的人工智能初创公司面试吗？",
-      "titleEn": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-      "summary": "",
-      "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-1152x648.jpg",
-      "publishedAt": "2026-07-31T19:04:56.000Z"
-    },
-    {
-      "title": "高中为男孩们制作 59 名同学的 AI 裸照时保持沉默",
-      "titleEn": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2150797132-1152x648.jpg",
-      "publishedAt": "2026-07-31T18:11:55.000Z"
-    },
-    {
-      "title": "在建立信任方面，人工智能诈骗者的表现优于人类",
-      "titleEn": "AI scammers outperform humans when it comes to building trust",
-      "summary": "",
-      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/scammer-1-1152x648.jpg",
-      "publishedAt": "2026-07-31T14:01:40.000Z"
     },
     {
       "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
