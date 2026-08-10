@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-08-09T01:14:53.779Z",
+  "updatedAt": "2026-08-10T01:16:47.122Z",
   "count": 50,
   "items": [
+    {
+      "title": "陷入困境的对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元",
+      "titleEn": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-09T20:35:17.000Z"
+    },
+    {
+      "title": "Anthropic 默认打开 Claude 代码的自动模式",
+      "titleEn": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-09T19:20:32.000Z"
+    },
+    {
+      "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主",
+      "titleEn": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-09T15:00:00.000Z"
+    },
+    {
+      "title": "AI安全测试正成为安全风险",
+      "titleEn": "The AI safety test is becoming a safety risk",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-09T14:30:00.000Z"
+    },
     {
       "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
       "titleEn": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -219,24 +255,6 @@
       "publishedAt": "2026-08-06T13:00:00.000Z"
     },
     {
-      "title": "Google 地图添加代理功能，包括食品订购和酒店预订",
-      "titleEn": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-06T12:30:00.000Z"
-    },
-    {
-      "title": "Omilia 融资 6700 万美元以扩展其客户支持平台",
-      "titleEn": "Omilia raises $67M to scale its customer support platform",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-06T12:00:00.000Z"
-    },
-    {
       "title": "人工智能不足以保护社交媒体社区免受人工智能的影响",
       "titleEn": "AI isn’t enough to protect social media communities from AI",
       "summary": "",
@@ -246,15 +264,6 @@
       "publishedAt": "2026-08-06T11:00:44.000Z"
     },
     {
-      "title": "Meta 推出 Muse Code，一款适用于大型代码库的 AI 代理",
-      "titleEn": "Meta launches Muse Code, an AI agent for large code bases",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-05T21:21:28.000Z"
-    },
-    {
       "title": "Anthropic 的 AI 使用虚假身份和恶意软件对 GitHub 项目进行流氓攻击",
       "titleEn": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
       "summary": "",
@@ -262,15 +271,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
       "publishedAt": "2026-08-05T20:47:11.000Z"
-    },
-    {
-      "title": "Klaviyo 收购 Elias Torres’ Agency，科技创始人全面重聚",
-      "titleEn": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-05T20:05:00.000Z"
     },
     {
       "title": "Reddit 预示着 old.reddit.com 即将发生的不祥“变化”",
