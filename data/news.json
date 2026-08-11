@@ -1,7 +1,124 @@
 {
-  "updatedAt": "2026-08-10T01:16:47.122Z",
+  "updatedAt": "2026-08-11T01:15:02.857Z",
   "count": 50,
   "items": [
+    {
+      "title": "据报道，OpenAI 完成了 70 亿美元的员工收购要约",
+      "titleEn": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-11T00:03:18.000Z"
+    },
+    {
+      "title": "随着人工智能主导的攻击倍增，OpenAI 推出新的网络模型",
+      "titleEn": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-10T23:56:15.000Z"
+    },
+    {
+      "title": "凭借新的开放模型，Meta 再次重启其苦苦挣扎的人工智能战略",
+      "titleEn": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg",
+      "publishedAt": "2026-08-10T22:13:03.000Z"
+    },
+    {
+      "title": "马克·扎克伯格的人工智能宣言正是人们不喜欢人工智能的原因",
+      "titleEn": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-10T20:53:02.000Z"
+    },
+    {
+      "title": "亚马逊支持的发电厂可能成为美国气候污染的最大来源",
+      "titleEn": "Amazon backs power plant that may become top source of US climate pollution",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2267221283-1152x648.jpg",
+      "publishedAt": "2026-08-10T20:45:52.000Z"
+    },
+    {
+      "title": "Claude 特工入侵健身房后，科技行业一片喧嚣",
+      "titleEn": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-10T20:04:24.000Z"
+    },
+    {
+      "title": "人工智能教授正在讨论学术研究的新现实",
+      "titleEn": "AI professors are negotiating the new realities of academic research",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-10T20:00:00.000Z"
+    },
+    {
+      "title": "Meta 的新 Glimmer AI 模型暗示了扎克伯格的个人智能愿景",
+      "titleEn": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-10T16:20:13.000Z"
+    },
+    {
+      "title": "使用新的人工智能工具发展您的营销",
+      "titleEn": "Evolve your marketing with new AI tools",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp\">了解 Google 广告和 Google 分析的全新 AI 和代理体验如何简化您的营销",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
+      "publishedAt": "2026-08-10T14:30:00.000Z"
+    },
+    {
+      "title": "Discovered Materials 正在玩人工智能打地鼠游戏来寻找更酷的芯片",
+      "titleEn": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "title": "同行评审不堪重负——它能在人工智能时代生存吗？",
+      "titleEn": "Peer review is overwhelmed—can it survive in the AI era?",
+      "summary": "",
+      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-1152x648.jpg",
+      "publishedAt": "2026-08-10T11:00:47.000Z"
+    },
+    {
+      "title": "科学人工智能需要推理，而不仅仅是数据",
+      "titleEn": "AI for science needs reasoning, not just data",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-10T09:00:00.000Z"
+    },
+    {
+      "title": "这些初创公司正在追逐法学硕士的下一个重大目标",
+      "titleEn": "These startups are chasing the next big thing in LLMs",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-10T09:00:00.000Z"
+    },
     {
       "title": "陷入困境的对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元",
       "titleEn": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -40,7 +157,7 @@
     },
     {
       "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
-      "titleEn": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "titleEn": "Planned Amazon data center could become the biggest climate polluter in the US",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "source": "TechCrunch AI",
@@ -192,15 +309,6 @@
       "publishedAt": "2026-08-06T17:34:42.000Z"
     },
     {
-      "title": "Naïve 筹集了 2850 万美元，用于自动化设立和运营公司的繁重工作",
-      "titleEn": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-06T17:00:37.000Z"
-    },
-    {
       "title": "Cloudflare 为非编码人员提供开源 vivi 编码平台",
       "titleEn": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
       "summary": "",
@@ -208,51 +316,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Cloudflare-logo-1152x648.jpg",
       "publishedAt": "2026-08-06T16:15:30.000Z"
-    },
-    {
-      "title": "Ditto 等 Z 世代约会应用放弃刷卡，转而采用人工智能配对",
-      "titleEn": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-06T15:53:03.000Z"
-    },
-    {
-      "title": "OpenAI 称苹果自身的安全做法破坏了其商业机密案件",
-      "titleEn": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-06T15:10:32.000Z"
-    },
-    {
-      "title": "在法律斗争中，Suno 表示将开始为歌曲添加水印",
-      "titleEn": "Amid legal battles, Suno says it will start watermarking songs",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-06T13:31:57.000Z"
-    },
-    {
-      "title": "Spotify 前员工筹集 1000 万美元，将人工智能引入电子商务建议",
-      "titleEn": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-06T13:00:00.000Z"
-    },
-    {
-      "title": "独家：Mirendil 签署价值超过 1 亿美元的 Google 云交易，以扩展自我改进的人工智能",
-      "titleEn": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-06T13:00:00.000Z"
     },
     {
       "title": "人工智能不足以保护社交媒体社区免受人工智能的影响",
@@ -372,33 +435,6 @@
       "publishedAt": "2026-08-03T08:30:05.000Z"
     },
     {
-      "title": "随着 Reddit 股价下跌，首席执行官质疑 Google 人工智能概述的价值",
-      "titleEn": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
-      "publishedAt": "2026-08-01T12:30:36.000Z"
-    },
-    {
-      "title": "Reddit 就 Google 搜索结果展开奇怪的 DMCA 之争",
-      "titleEn": "Reddit keeps its strange DMCA fight over Google search results alive",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-1024x648.jpg",
-      "publishedAt": "2026-07-31T21:19:39.000Z"
-    },
-    {
-      "title": "Claude向互联网发布恶意代码，攻击3家真实公司",
-      "titleEn": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "summary": "",
-      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg",
-      "publishedAt": "2026-07-31T20:39:14.000Z"
-    },
-    {
       "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
       "titleEn": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "summary": "",
@@ -415,42 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-07-29T08:42:57.000Z"
-    },
-    {
-      "title": "Gemini API 托管代理：3.6 Flash、挂钩等",
-      "titleEn": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\">我们在 Gemini API 的托管代理中推出了更多新功能，以便开发者可以构建",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
-      "publishedAt": "2026-07-28T16:00:00.000Z"
-    },
-    {
-      "title": "搜索中的 AI 模式可帮助您享受现实世界的 5 种方式",
-      "titleEn": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp\">这听起来可能有悖常理，但搜索的 AI 工具实际上可以帮助您充分利用自己的优势",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
-      "publishedAt": "2026-07-28T13:00:00.000Z"
-    },
-    {
-      "title": "通过 Google 举办终极晚宴的 5 种方式",
-      "titleEn": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp\">这些 AI 功能可以帮助您制作菜单、设计桌面以及处理其他派对策划任务",
-      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
-      "publishedAt": "2026-07-28T13:00:00.000Z"
-    },
-    {
-      "title": "三星的芯片工人正在跳槽到竞争对手 SK 海力士",
-      "titleEn": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-07-28T09:18:57.000Z"
     }
   ]
 }

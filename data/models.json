@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T01:16:47.539Z",
+  "updatedAt": "2026-08-11T01:15:03.146Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -1304,6 +1304,14 @@
         },
         {
           "rank": 4,
+          "name": "Muse Glimmer",
+          "org": "Meta",
+          "country": "us",
+          "score": 80,
+          "released": "2026-08-10"
+        },
+        {
+          "rank": 5,
           "name": "Gemini 3.5 Flash",
           "org": "Google",
           "country": "us",
@@ -1311,7 +1319,7 @@
           "released": "2026-05-19"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "GPT-5.6 Terra",
           "org": "OpenAI",
           "country": "us",
@@ -1319,7 +1327,7 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Gemini 3.6 Flash",
           "org": "Google",
           "country": "us",
@@ -1327,7 +1335,7 @@
           "released": "2026-07-21"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Gemini 3.1 Pro Preview",
           "org": "Google",
           "country": "us",
@@ -1335,7 +1343,7 @@
           "released": "2026-02-19"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Claude Opus 5",
           "org": "Anthropic",
           "country": "us",
@@ -1343,7 +1351,7 @@
           "released": "2026-07-24"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "GPT-5.6 Luna",
           "org": "OpenAI",
           "country": "us",
@@ -1351,7 +1359,7 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "GPT-5.3 Codex",
           "org": "OpenAI",
           "country": "us",
@@ -1359,7 +1367,7 @@
           "released": "2026-02-05"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "MiMo-V2.5-Pro",
           "org": "Xiaomi",
           "country": "cn",
@@ -1367,7 +1375,7 @@
           "released": "2026-04-22"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "GPT-5.6 Sol",
           "org": "OpenAI",
           "country": "us",
@@ -1375,7 +1383,7 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Claude Sonnet 5",
           "org": "Anthropic",
           "country": "us",
@@ -1383,7 +1391,7 @@
           "released": "2026-06-30"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Claude Fable 5",
           "org": "Anthropic",
           "country": "us",
@@ -1391,7 +1399,7 @@
           "released": "2026-06-09"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "GLM-5.2",
           "org": "Z AI",
           "country": "cn",
@@ -1399,7 +1407,7 @@
           "released": "2026-06-16"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Nex-N2-Pro",
           "org": "Nex AGI",
           "country": "cn",
@@ -1407,7 +1415,7 @@
           "released": "2026-06-02"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Kimi K2.7 Code",
           "org": "Kimi",
           "country": "cn",
@@ -1415,7 +1423,7 @@
           "released": "2026-06-12"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Gemini 3.5 Flash-Lite",
           "org": "Google",
           "country": "us",
@@ -1423,7 +1431,7 @@
           "released": "2026-07-21"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Hy3",
           "org": "Tencent",
           "country": "cn",
@@ -1431,7 +1439,7 @@
           "released": "2026-07-06"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Qwen3.8 Max",
           "org": "Alibaba",
           "country": "cn",
@@ -1439,7 +1447,7 @@
           "released": "2026-08-03"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "DeepSeek V4 Flash 0731",
           "org": "DeepSeek",
           "country": "cn",
@@ -1447,7 +1455,7 @@
           "released": "2026-07-31"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Grok 4.5",
           "org": "SpaceXAI",
           "country": "us",
@@ -1455,7 +1463,7 @@
           "released": "2026-07-08"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Claude 4.5 Haiku",
           "org": "Anthropic",
           "country": "us",
@@ -1463,20 +1471,12 @@
           "released": "2025-10-15"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Inkling",
           "org": "Thinking Machines",
           "country": "us",
           "score": 73.3,
           "released": "2026-07-15"
-        },
-        {
-          "rank": 25,
-          "name": "o3",
-          "org": "OpenAI",
-          "country": "us",
-          "score": 73.3,
-          "released": "2025-04-16"
         }
       ]
     },
@@ -1667,6 +1667,14 @@
         },
         {
           "rank": 23,
+          "name": "Muse Glimmer",
+          "org": "Meta",
+          "country": "us",
+          "score": 74.3,
+          "released": "2026-08-10"
+        },
+        {
+          "rank": 24,
           "name": "Inkling Small",
           "org": "Thinking Machines",
           "country": "us",
@@ -1674,20 +1682,12 @@
           "released": "2026-07-30"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "MiMo-V2-Omni-0327",
           "org": "Xiaomi",
           "country": "cn",
           "score": 73.9,
           "released": "2026-03-27"
-        },
-        {
-          "rank": 25,
-          "name": "Inkling",
-          "org": "Thinking Machines",
-          "country": "us",
-          "score": 73.5,
-          "released": "2026-07-15"
         }
       ]
     }
