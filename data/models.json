@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T01:15:03.146Z",
+  "updatedAt": "2026-08-12T01:23:01.074Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -150,19 +150,19 @@
         },
         {
           "rank": 18,
+          "name": "Motif 3",
+          "org": "Motif Technologies",
+          "country": "kr",
+          "score": 45.3,
+          "released": "2026-07-14"
+        },
+        {
+          "rank": 19,
           "name": "DeepSeek V4 Pro",
           "org": "DeepSeek",
           "country": "cn",
           "score": 45.3,
           "released": "2026-04-24"
-        },
-        {
-          "rank": 19,
-          "name": "Motif 3",
-          "org": "Motif Technologies",
-          "country": "kr",
-          "score": 44.9,
-          "released": "2026-07-14"
         },
         {
           "rank": 20,
@@ -201,7 +201,7 @@
           "name": "Nex-N2-Pro",
           "org": "Nex AGI",
           "country": "cn",
-          "score": 41.7,
+          "score": 42.1,
           "released": "2026-06-02"
         },
         {
@@ -556,22 +556,6 @@
         },
         {
           "rank": 16,
-          "name": "Motif 3",
-          "org": "Motif Technologies",
-          "country": "kr",
-          "score": 34.9,
-          "released": "2026-07-14"
-        },
-        {
-          "rank": 17,
-          "name": "JT-4.1 Flash 236B A21B",
-          "org": "China Mobile",
-          "country": "cn",
-          "score": 34.9,
-          "released": "2026-07-09"
-        },
-        {
-          "rank": 18,
           "name": "Inkling",
           "org": "Thinking Machines",
           "country": "us",
@@ -579,7 +563,7 @@
           "released": "2026-07-15"
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "Inkling Small",
           "org": "Thinking Machines",
           "country": "us",
@@ -587,7 +571,7 @@
           "released": "2026-07-30"
         },
         {
-          "rank": 20,
+          "rank": 18,
           "name": "Hy3",
           "org": "Tencent",
           "country": "cn",
@@ -595,15 +579,7 @@
           "released": "2026-07-06"
         },
         {
-          "rank": 21,
-          "name": "Nex-N2-Pro",
-          "org": "Nex AGI",
-          "country": "cn",
-          "score": 31,
-          "released": "2026-06-02"
-        },
-        {
-          "rank": 22,
+          "rank": 19,
           "name": "Kimi K2.7 Code",
           "org": "Kimi",
           "country": "cn",
@@ -611,7 +587,7 @@
           "released": "2026-06-12"
         },
         {
-          "rank": 23,
+          "rank": 20,
           "name": "MiMo-V2.5-Pro",
           "org": "Xiaomi",
           "country": "cn",
@@ -619,7 +595,7 @@
           "released": "2026-04-22"
         },
         {
-          "rank": 24,
+          "rank": 21,
           "name": "Ling 3.0 Flash",
           "org": "InclusionAI",
           "country": "cn",
@@ -627,12 +603,36 @@
           "released": "2026-08-04"
         },
         {
-          "rank": 25,
-          "name": "G9v3-39A5B",
-          "org": "AI9Stars",
+          "rank": 22,
+          "name": "Qwen3.6 27B",
+          "org": "Alibaba",
           "country": "cn",
-          "score": 28.7,
-          "released": "2026-08-03"
+          "score": 27.5,
+          "released": "2026-04-22"
+        },
+        {
+          "rank": 23,
+          "name": "Nemotron 3 Ultra 550B A55B",
+          "org": "NVIDIA",
+          "country": "us",
+          "score": 27.5,
+          "released": "2026-06-04"
+        },
+        {
+          "rank": 24,
+          "name": "Gemini 3.5 Flash-Lite",
+          "org": "Google",
+          "country": "us",
+          "score": 27.2,
+          "released": "2026-07-21"
+        },
+        {
+          "rank": 25,
+          "name": "Agnes 2.5 Pro Alpha",
+          "org": "Sapiens AI",
+          "country": "sg",
+          "score": 25.4,
+          "released": "2026-07-24"
         }
       ]
     },
