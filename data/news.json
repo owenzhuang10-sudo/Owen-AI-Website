@@ -1,7 +1,151 @@
 {
-  "updatedAt": "2026-08-13T01:24:50.950Z",
+  "updatedAt": "2026-08-14T01:24:23.501Z",
   "count": 50,
   "items": [
+    {
+      "title": "作者引入了新的人工智能模型和升级的工具来控制代币成本",
+      "titleEn": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-13T21:13:24.000Z"
+    },
+    {
+      "title": "Databricks 想要筹集 1B 美元，投资者想要 15B 美元。其最终估值为 5B 美元，估值为 190B 美元。",
+      "titleEn": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-13T20:14:39.000Z"
+    },
+    {
+      "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
+      "titleEn": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-13T19:22:40.000Z"
+    },
+    {
+      "title": "IBM 与 OpenAI 合作推动企业人工智能的发展",
+      "titleEn": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-13T19:19:49.000Z"
+    },
+    {
+      "title": "Anthropic 让 AI 代理轻松执行相同的任务。他们开始了地盘争夺战。",
+      "titleEn": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-13T18:28:14.000Z"
+    },
+    {
+      "title": "Instagram新标志是AI slop的完美体现",
+      "titleEn": "The new Instagram logo is the perfect embodiment of AI slop",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png",
+      "publishedAt": "2026-08-13T17:32:10.000Z"
+    },
+    {
+      "title": "OpenAI 聘任新 CRO，高管变动仍在继续",
+      "titleEn": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-13T17:07:13.000Z"
+    },
+    {
+      "title": "Google 在上一次发布仅三周后就发布了 Gemini 3.7 Flash",
+      "titleEn": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
+      "publishedAt": "2026-08-13T17:00:13.000Z"
+    },
+    {
+      "title": "使用表格画布让您的电子表格数据栩栩如生",
+      "titleEn": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp\">表格画布将数据转化为交互式仪表板、自定义学习跟踪器、座位",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+      "publishedAt": "2026-08-13T16:45:00.000Z"
+    },
+    {
+      "title": "Microsoft 取消了不成功的人工智能功能，同时合并了单独的 Copilot 应用程序",
+      "titleEn": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-13T15:30:52.000Z"
+    },
+    {
+      "title": "Nvidia 的新 $500B 计划虽然有风险，但很出色，尤其是对于老化的 GPU",
+      "titleEn": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-13T15:08:00.000Z"
+    },
+    {
+      "title": "苹果正在洽谈向出版商付费，让其向 Siri 提供时事新闻：报道",
+      "titleEn": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-13T14:34:43.000Z"
+    },
+    {
+      "title": "Anthropic上市后市值可能达2万亿美元",
+      "titleEn": "Anthropic could be worth $2 trillion when it goes public",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "publishedAt": "2026-08-13T13:58:56.000Z"
+    },
+    {
+      "title": "Flock 正在收紧规则，以应对日益增长的监控强烈反对",
+      "titleEn": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-13T13:41:10.000Z"
+    },
+    {
+      "title": "Claude 的新红字水印暂时不可见",
+      "titleEn": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
+      "publishedAt": "2026-08-13T11:10:18.000Z"
+    },
+    {
+      "title": "孩子们如何看待人工智能，用他们自己的话说",
+      "titleEn": "How kids feel about AI, in their own words",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI_teens_coder_stasik.jpg",
+      "publishedAt": "2026-08-13T09:00:00.000Z"
+    },
     {
       "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它",
       "titleEn": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
@@ -111,7 +255,7 @@
       "publishedAt": "2026-08-12T16:04:27.000Z"
     },
     {
-      "title": "一笔 2.5 亿美元的收购如何因欺诈和伪造签名指控而崩溃",
+      "title": "一笔 2.5 亿美元的收购如何陷入欺诈和伪造签名指控",
       "titleEn": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
@@ -138,31 +282,13 @@
       "publishedAt": "2026-08-12T14:22:00.000Z"
     },
     {
-      "title": "Made by Google ’26 上宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能",
+      "title": "Made by Google '26 上宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能",
       "titleEn": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
       "source": "TechCrunch AI",
       "image": null,
       "publishedAt": "2026-08-12T14:20:33.000Z"
-    },
-    {
-      "title": "AI 代码测试初创公司 Blacksmith 的估值在不到一年的时间里上涨了近 10 倍",
-      "titleEn": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-12T11:00:00.000Z"
-    },
-    {
-      "title": "Accel 在数周内关闭了超额认购的 5.5 亿美元印度基金，距上次发行已过去 19 个月",
-      "titleEn": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-11T21:39:11.000Z"
     },
     {
       "title": "Gemini 成为 Google 有史以来增长最快的产品，用户数量达到 1B",
@@ -174,42 +300,6 @@
       "publishedAt": "2026-08-11T19:48:12.000Z"
     },
     {
-      "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序",
-      "titleEn": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-11T19:15:35.000Z"
-    },
-    {
-      "title": "Google 的 Gemini 应用用户数量激增至 10 亿",
-      "titleEn": "Google’s Gemini app surges to 1 billion users",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-11T18:49:12.000Z"
-    },
-    {
-      "title": "OpenAI 的长期首席运营官 Brad Lightcap 将离职去“开始新的事情”",
-      "titleEn": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-11T17:41:34.000Z"
-    },
-    {
-      "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
-      "titleEn": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-11T17:41:22.000Z"
-    },
-    {
       "title": "我们的研究型医疗人工智能系统 AMIE 在首次研究中展示了实时临床视频咨询功能。",
       "titleEn": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp\">Google 引入了 AMIE，可在模拟环境中进行实时临床视频咨询。",
@@ -217,33 +307,6 @@
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-11T17:00:00.000Z"
-    },
-    {
-      "title": "未发布的 Anthropic 模型在数学中最大的未解决问题之一上取得了进展",
-      "titleEn": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-11T16:25:20.000Z"
-    },
-    {
-      "title": "Spotify 将标记“AI Persona”个人资料并将其音乐从推荐中排除",
-      "titleEn": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-11T13:00:00.000Z"
-    },
-    {
-      "title": "Anthropic 表示将为人工智能模型生成的文本添加水印",
-      "titleEn": "Anthropic says it will watermark text generated by its AI models",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-11T12:13:47.000Z"
     },
     {
       "title": "凭借新的开放模型，Meta 再次重启其苦苦挣扎的人工智能战略",
@@ -381,42 +444,6 @@
       "publishedAt": "2026-08-06T16:15:30.000Z"
     },
     {
-      "title": "人工智能不足以保护社交媒体社区免受人工智能的影响",
-      "titleEn": "AI isn’t enough to protect social media communities from AI",
-      "summary": "",
-      "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-1152x648.jpg",
-      "publishedAt": "2026-08-06T11:00:44.000Z"
-    },
-    {
-      "title": "Anthropic 的 AI 使用虚假身份和恶意软件对 GitHub 项目进行流氓攻击",
-      "titleEn": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "summary": "",
-      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
-      "publishedAt": "2026-08-05T20:47:11.000Z"
-    },
-    {
-      "title": "Reddit 预示着 old.reddit.com 即将发生不祥的“变化”",
-      "titleEn": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-      "summary": "",
-      "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg",
-      "publishedAt": "2026-08-05T20:01:32.000Z"
-    },
-    {
-      "title": "Hank Green 发现了 YouTube 标签无法捕捉到的 AI 问题",
-      "titleEn": "Hank Green found the AI problem that YouTube labels can’t catch",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-1152x648.jpeg",
-      "publishedAt": "2026-08-05T19:51:40.000Z"
-    },
-    {
       "title": "我们于 2026 年 7 月公布的最新 AI 新闻",
       "titleEn": "The latest AI news we announced in July 2026",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp\">以下是 Google 2026 年 7 月以来的最新 AI 更新",
@@ -424,33 +451,6 @@
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-04T13:00:00.000Z"
-    },
-    {
-      "title": "特朗普的人工智能保护主义针对机器人",
-      "titleEn": "Trump’s AI protectionism has come for robotics",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-08-03T18:43:30.000Z"
-    },
-    {
-      "title": "深入了解我们 353,000 人的氛围编码课程",
-      "titleEn": "Inside our 353,000-person vibe coding course",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp\">Kaggle 的 AI 代理强化课程 Google 将学习者聚集在一起，通过免费课程学习",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
-      "publishedAt": "2026-08-03T15:00:00.000Z"
-    },
-    {
-      "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
-      "titleEn": "Here’s why AI agents lie and cheat to reach their goals",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-08-03T08:30:05.000Z"
     }
   ]
 }
