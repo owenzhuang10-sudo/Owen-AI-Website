@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:24:23.811Z",
+  "updatedAt": "2026-08-15T00:54:32.656Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -628,11 +628,11 @@
         },
         {
           "rank": 25,
-          "name": "Kimi K2.7 Code",
-          "org": "Kimi",
+          "name": "Nex-N2-Pro",
+          "org": "Nex AGI",
           "country": "cn",
-          "score": 30.3,
-          "released": "2026-06-12"
+          "score": 31.2,
+          "released": "2026-06-02"
         }
       ]
     },
