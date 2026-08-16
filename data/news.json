@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-08-15T00:54:32.354Z",
+  "updatedAt": "2026-08-16T00:57:24.100Z",
   "count": 50,
   "items": [
+    {
+      "title": "女子声称她的继父使用 Grok 将童年照片变成露骨图像",
+      "titleEn": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-15T21:29:19.000Z"
+    },
+    {
+      "title": "Anthropic 分享了有关 Claude 新水印如何工作的更多细节",
+      "titleEn": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-15T18:58:39.000Z"
+    },
+    {
+      "title": "SpaceX 正式完成 Cursor 收购",
+      "titleEn": "SpaceX officially closes its Cursor acquisition",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-15T16:30:00.000Z"
+    },
     {
       "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
       "titleEn": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -93,7 +120,7 @@
       "publishedAt": "2026-08-13T19:22:40.000Z"
     },
     {
-      "title": "IBM 与 OpenAI 合作推动企业人工智能的发展",
+      "title": "IBM 与 OpenAI 合作推动企业人工智能发展",
       "titleEn": "IBM partners with OpenAI to bolster enterprise AI push",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
@@ -147,7 +174,7 @@
       "publishedAt": "2026-08-13T16:45:00.000Z"
     },
     {
-      "title": "Microsoft 取消了不成功的人工智能功能，同时合并了单独的 Copilot 应用程序",
+      "title": "Microsoft 取消了不成功的 AI 功能，同时合并了单独的 Copilot 应用程序",
       "titleEn": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
@@ -165,7 +192,7 @@
       "publishedAt": "2026-08-13T15:08:00.000Z"
     },
     {
-      "title": "苹果正在洽谈向出版商付费，让其向 Siri 提供时事新闻：报道",
+      "title": "苹果正在洽谈向出版商付费以向 Siri 提供时事新闻：报道",
       "titleEn": "Apple in talks to pay publishers to provide Siri with current news: report",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
@@ -228,7 +255,7 @@
       "publishedAt": "2026-08-12T22:02:25.000Z"
     },
     {
-      "title": "大规模供应链攻击中泄露了数 TB 的凭证",
+      "title": "大规模供应链攻击中泄露了数 TB 的凭据",
       "titleEn": "Terabytes of credentials leaked in massive supply-chain attack",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
@@ -262,33 +289,6 @@
       "source": "TechCrunch AI",
       "image": null,
       "publishedAt": "2026-08-12T18:19:12.000Z"
-    },
-    {
-      "title": "随着人工智能安全问题的加剧，三位先驱者提出了保持开放的理由",
-      "titleEn": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-12T17:51:00.000Z"
-    },
-    {
-      "title": "OpenAI 支持的 Thrive Holdings 筹集了 20 亿美元，将人工智能引入企业",
-      "titleEn": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-12T17:41:29.000Z"
-    },
-    {
-      "title": "Automattic 面向所有人的 CRM Mesh 现已登陆 Android",
-      "titleEn": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-12T16:57:58.000Z"
     },
     {
       "title": "使用可信数据扩展人工智能代理",
