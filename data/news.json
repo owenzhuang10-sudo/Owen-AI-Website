@@ -1,7 +1,106 @@
 {
-  "updatedAt": "2026-08-17T00:55:31.464Z",
+  "updatedAt": "2026-08-18T00:54:00.401Z",
   "count": 50,
   "items": [
+    {
+      "title": "Anthropic的年化收入飙升至$65B",
+      "titleEn": "Anthropic’s annualized revenue surges to $65B",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-17T23:56:26.000Z"
+    },
+    {
+      "title": "AI自动化初创公司Relay关闭，员工加入Google的Chrome团队",
+      "titleEn": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-17T21:27:05.000Z"
+    },
+    {
+      "title": "前 SpaceX 工程师正在建造一家机器人工厂，用于制造钢铁零件",
+      "titleEn": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg",
+      "publishedAt": "2026-08-17T21:18:49.000Z"
+    },
+    {
+      "title": "Flock 的防守者缺少什么",
+      "titleEn": "What Flock’s defenders are missing",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-17T19:16:09.000Z"
+    },
+    {
+      "title": "隐藏的 Airtag 揭示亚马逊正在扔掉善本来训练人工智能",
+      "titleEn": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "summary": "霸王龙准备吞噬一本书作为其标志。]]>",
+      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg",
+      "publishedAt": "2026-08-17T18:13:47.000Z"
+    },
+    {
+      "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
+      "titleEn": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-17T16:38:44.000Z"
+    },
+    {
+      "title": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
+      "titleEn": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-17T16:15:12.000Z"
+    },
+    {
+      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+      "titleEn": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-17T15:16:24.000Z"
+    },
+    {
+      "title": "Wispr 以 20 亿美元估值筹集 2.8 亿美元，因为它看起来超越了指令",
+      "titleEn": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-17T13:10:05.000Z"
+    },
+    {
+      "title": "当孩子的机器人最好的朋友去世时会发生什么？",
+      "titleEn": "What happens when a kid’s robot best friend dies?",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
+      "publishedAt": "2026-08-17T09:00:00.000Z"
+    },
+    {
+      "title": "使用 Gemini 和 Pixel 更接近游戏",
+      "titleEn": "Get closer to the game with Gemini and Pixel",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\">Google Gemini 和 Pixel 与五家全球足球俱乐部合作，提升球迷关注度",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
+      "publishedAt": "2026-08-17T08:00:00.000Z"
+    },
     {
       "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
       "titleEn": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -55,6 +154,15 @@
       "source": "TechCrunch AI",
       "image": null,
       "publishedAt": "2026-08-15T16:30:00.000Z"
+    },
+    {
+      "title": "如何判断您的人工智能平台的帐户是否被黑客入侵",
+      "titleEn": "How to tell if your AI platforms’ accounts have been hacked",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-15T16:10:00.000Z"
     },
     {
       "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
@@ -138,49 +246,13 @@
       "publishedAt": "2026-08-13T20:14:39.000Z"
     },
     {
-      "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
-      "titleEn": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-13T19:22:40.000Z"
-    },
-    {
-      "title": "IBM 与 OpenAI 合作推动企业人工智能的发展",
-      "titleEn": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-13T19:19:49.000Z"
-    },
-    {
-      "title": "Anthropic 让 AI 代理轻松执行相同的任务。他们开始了地盘争夺战。",
-      "titleEn": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-13T18:28:14.000Z"
-    },
-    {
-      "title": "Instagram新标志是AI slop的完美体现",
+      "title": "Instagram新标志是AI Slop的完美体现",
       "titleEn": "The new Instagram logo is the perfect embodiment of AI slop",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png",
       "publishedAt": "2026-08-13T17:32:10.000Z"
-    },
-    {
-      "title": "OpenAI 聘任新 CRO，高管变动仍在继续",
-      "titleEn": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-13T17:07:13.000Z"
     },
     {
       "title": "Google 在上一次发布仅三周后就发布了 Gemini 3.7 Flash",
@@ -199,33 +271,6 @@
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-13T16:45:00.000Z"
-    },
-    {
-      "title": "Microsoft 取消了不成功的 AI 功能，同时合并了单独的 Copilot 应用程序",
-      "titleEn": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-13T15:30:52.000Z"
-    },
-    {
-      "title": "Nvidia 的新 $500B 计划虽然有风险，但很出色，尤其是对于老化的 GPU",
-      "titleEn": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-13T15:08:00.000Z"
-    },
-    {
-      "title": "苹果正在洽谈向出版商付费，让其向 Siri 提供时事新闻：报道",
-      "titleEn": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-13T14:34:43.000Z"
     },
     {
       "title": "Anthropic上市后市值可能达2万亿美元",
@@ -406,51 +451,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
       "publishedAt": "2026-08-07T17:36:22.000Z"
-    },
-    {
-      "title": "人工智能聊天机器人让处于危机中的人们失望了。这可以解决吗？",
-      "titleEn": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg",
-      "publishedAt": "2026-08-07T13:49:37.000Z"
-    },
-    {
-      "title": "字节跳动训练大规模人工智能模型以对抗 Anthropic",
-      "titleEn": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg",
-      "publishedAt": "2026-08-07T13:29:22.000Z"
-    },
-    {
-      "title": "Suno 希望人工智能生成的音乐带有水印合法化",
-      "titleEn": "Suno hopes to go legit with watermarks for AI-generated music",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-1152x648.jpg",
-      "publishedAt": "2026-08-06T20:17:36.000Z"
-    },
-    {
-      "title": "Anthropic将设计自己的硬件来为Claude提供动力",
-      "titleEn": "Anthropic will design its own hardware to power Claude",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg",
-      "publishedAt": "2026-08-06T20:03:44.000Z"
-    },
-    {
-      "title": "我们于 2026 年 7 月公布的最新 AI 新闻",
-      "titleEn": "The latest AI news we announced in July 2026",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp\">以下是 Google 2026 年 7 月以来的最新 AI 更新",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
-      "publishedAt": "2026-08-04T13:00:00.000Z"
     }
   ]
 }
