@@ -1,7 +1,97 @@
 {
-  "updatedAt": "2026-08-18T00:54:00.401Z",
+  "updatedAt": "2026-08-19T00:54:35.388Z",
   "count": 50,
   "items": [
+    {
+      "title": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台",
+      "titleEn": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-18T22:14:25.000Z"
+    },
+    {
+      "title": "Hugging Face 违规后，OpenAI 制定新的保障措施",
+      "titleEn": "OpenAI institutes new safeguards after Hugging Face breach",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-18T18:00:00.000Z"
+    },
+    {
+      "title": "Etched 估值一个月内翻倍至 $21B",
+      "titleEn": "Etched’s valuation doubles to $21B in a month",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-18T17:21:58.000Z"
+    },
+    {
+      "title": "为什么苹果配备摄像头的 AirPods 可能不是消费者担心的“变态 Pod”",
+      "titleEn": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-18T16:19:10.000Z"
+    },
+    {
+      "title": "Warp 的新系统是一个用于人工智能开发的开箱即用的软件工厂",
+      "titleEn": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-18T14:00:00.000Z"
+    },
+    {
+      "title": "OpenAI 为青少年推出了更安全的 ChatGPT——在青少年开始使用它多年后",
+      "titleEn": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-18T13:50:30.000Z"
+    },
+    {
+      "title": "Perplexity 的免费人工智能服务使其在印度拥有了数百万用户",
+      "titleEn": "Perplexity’s free AI offer left it with millions more users in India",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-18T13:45:40.000Z"
+    },
+    {
+      "title": "Microsoft Copilot 揭示了允许其被黑客攻击的秘密输入",
+      "titleEn": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+      "publishedAt": "2026-08-18T13:00:04.000Z"
+    },
+    {
+      "title": "我们仍然不知道人们如何真正使用人工智能",
+      "titleEn": "We still don’t know how people are really using AI",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-18T10:06:43.000Z"
+    },
+    {
+      "title": "人工智能的递归自我完善可能不会来得那么快",
+      "titleEn": "AI’s recursive self-improvement might not come so quickly after all",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-18T09:00:00.000Z"
+    },
     {
       "title": "Anthropic的年化收入飙升至$65B",
       "titleEn": "Anthropic’s annualized revenue surges to $65B",
@@ -174,33 +264,6 @@
       "publishedAt": "2026-08-14T17:26:53.000Z"
     },
     {
-      "title": "Google 现在将允许用户从其 AI 世代中删除可见水印",
-      "titleEn": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-14T16:13:40.000Z"
-    },
-    {
-      "title": "马克·扎克伯格真的相信人工智能“适合所有人”吗？",
-      "titleEn": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "summary": "",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-14T15:43:28.000Z"
-    },
-    {
-      "title": "Kog 正在更深入地利用 GPU 进行更多推理",
-      "titleEn": "Kog is going deeper to squeeze more inference out of GPUs",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-14T14:50:11.000Z"
-    },
-    {
       "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
       "titleEn": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "summary": "",
@@ -210,43 +273,7 @@
       "publishedAt": "2026-08-14T14:27:14.000Z"
     },
     {
-      "title": "如果新的预测被证明是正确的，超大规模企业可能会后悔拥抱天然气",
-      "titleEn": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-14T14:05:00.000Z"
-    },
-    {
-      "title": "Meta 的“开放”人工智能，以及 2.5 亿美元的交易出了大问题",
-      "titleEn": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "summary": "",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-14T14:00:00.000Z"
-    },
-    {
-      "title": "作者引入了新的人工智能模型和升级的工具来控制代币成本",
-      "titleEn": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-13T21:13:24.000Z"
-    },
-    {
-      "title": "Databricks 想要筹集 1B 美元，投资者想要 15B 美元。其最终估值为 5B 美元，估值为 190B 美元。",
-      "titleEn": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-13T20:14:39.000Z"
-    },
-    {
-      "title": "Instagram新标志是AI Slop的完美体现",
+      "title": "Instagram新标志是AI slop的完美体现",
       "titleEn": "The new Instagram logo is the perfect embodiment of AI slop",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
@@ -318,7 +345,7 @@
       "publishedAt": "2026-08-12T22:02:25.000Z"
     },
     {
-      "title": "大规模供应链攻击中泄露了数 TB 的凭据",
+      "title": "大规模供应链攻击中泄露了数 TB 的凭证",
       "titleEn": "Terabytes of credentials leaked in massive supply-chain attack",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
@@ -424,33 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-08-10T09:00:00.000Z"
-    },
-    {
-      "title": "这些初创公司正在追逐法学硕士的下一个重大目标",
-      "titleEn": "These startups are chasing the next big thing in LLMs",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-08-10T09:00:00.000Z"
-    },
-    {
-      "title": "DeepMind飓风的突破让气象科学家感到惊讶",
-      "titleEn": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "summary": "",
-      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-1152x648.jpg",
-      "publishedAt": "2026-08-08T11:05:50.000Z"
-    },
-    {
-      "title": "OpenAI昂贵的智能音箱将使用活动部件来显得“更有活力”",
-      "titleEn": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "summary": "",
-      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-      "publishedAt": "2026-08-07T17:36:22.000Z"
     }
   ]
 }
