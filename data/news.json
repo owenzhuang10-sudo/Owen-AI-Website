@@ -1,7 +1,142 @@
 {
-  "updatedAt": "2026-08-19T00:54:35.388Z",
+  "updatedAt": "2026-08-20T00:54:07.612Z",
   "count": 50,
   "items": [
+    {
+      "title": "Stripe 收购 OpenRouter 并不是因为它的“奇点”",
+      "titleEn": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T23:32:00.000Z"
+    },
+    {
+      "title": "OpenAI 寻求通过新的客户隐私保护来超越 Anthropic",
+      "titleEn": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T22:10:46.000Z"
+    },
+    {
+      "title": "Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道",
+      "titleEn": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T21:51:23.000Z"
+    },
+    {
+      "title": "空乘人员对 Google 购买大量 Spirit 员工数据感到震惊",
+      "titleEn": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-1024x648.jpg",
+      "publishedAt": "2026-08-19T20:04:41.000Z"
+    },
+    {
+      "title": "人工智能现在应该赢得人们的支持——但事实并非如此",
+      "titleEn": "AI was supposed to win people over by now — it hasn’t",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T19:11:40.000Z"
+    },
+    {
+      "title": "Google 为 Search 和 Gemini 提供了新的人工智能学习工具",
+      "titleEn": "Google packs Search and Gemini with new AI study tools",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T19:00:00.000Z"
+    },
+    {
+      "title": "通过搜索提升学习水平的 5 种新方法",
+      "titleEn": "5 new ways to level up your learning with Search",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp\">以下介绍了如何使用 Google 搜索工具来学习课程和标准化考试。",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
+      "publishedAt": "2026-08-19T19:00:00.000Z"
+    },
+    {
+      "title": "研究人员称 OpenAI 撤销了他们对有限网络程序的访问权限",
+      "titleEn": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T18:46:14.000Z"
+    },
+    {
+      "title": "认识一下帮助华尔街为人工智能计算定价的初创公司",
+      "titleEn": "Meet the startup helping Wall Street put a price on AI compute",
+      "summary": "",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T17:26:48.000Z"
+    },
+    {
+      "title": "Meta 为一款承诺裸露女性政客的应用程序投放广告",
+      "titleEn": "Meta ran ads for an app promising to nudify female politicians",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2250404047-1152x648.jpg",
+      "publishedAt": "2026-08-19T15:45:29.000Z"
+    },
+    {
+      "title": "TerraPower 的核反应堆拥有为人工智能数据中心供电的秘密武器",
+      "titleEn": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T15:44:53.000Z"
+    },
+    {
+      "title": "亚马逊在 Fire TV 上免费提供人工智能驱动的 Alexa+，无需 Prime 会员",
+      "titleEn": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T15:00:00.000Z"
+    },
+    {
+      "title": "Calendly 投入到会议记录马戏团中",
+      "titleEn": "Calendly throws its hat into meeting note-taker circus",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T14:09:39.000Z"
+    },
+    {
+      "title": "人工智能距离治愈癌症还很遥远。这家初创公司表示，它知道需要做什么。",
+      "titleEn": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "title": "Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤",
+      "titleEn": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-19T10:00:00.000Z"
+    },
     {
       "title": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台",
       "titleEn": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -102,15 +237,6 @@
       "publishedAt": "2026-08-17T23:56:26.000Z"
     },
     {
-      "title": "AI自动化初创公司Relay关闭，员工加入Google的Chrome团队",
-      "titleEn": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-17T21:27:05.000Z"
-    },
-    {
       "title": "前 SpaceX 工程师正在建造一家机器人工厂，用于制造钢铁零件",
       "titleEn": "Former SpaceX engineers are building a robotic factory for making steel parts",
       "summary": "",
@@ -129,49 +255,13 @@
       "publishedAt": "2026-08-17T19:16:09.000Z"
     },
     {
-      "title": "隐藏的 Airtag 揭示亚马逊正在扔掉善本来训练人工智能",
+      "title": "隐藏的 Airtag 揭示亚马逊正在扔掉善本书籍来训练人工智能",
       "titleEn": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
       "summary": "霸王龙准备吞噬一本书作为其标志。]]>",
       "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg",
       "publishedAt": "2026-08-17T18:13:47.000Z"
-    },
-    {
-      "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
-      "titleEn": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-17T16:38:44.000Z"
-    },
-    {
-      "title": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
-      "titleEn": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-17T16:15:12.000Z"
-    },
-    {
-      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
-      "titleEn": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-17T15:16:24.000Z"
-    },
-    {
-      "title": "Wispr 以 20 亿美元估值筹集 2.8 亿美元，因为它看起来超越了指令",
-      "titleEn": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-17T13:10:05.000Z"
     },
     {
       "title": "当孩子的机器人最好的朋友去世时会发生什么？",
@@ -190,69 +280,6 @@
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-17T08:00:00.000Z"
-    },
-    {
-      "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
-      "titleEn": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-16T20:57:04.000Z"
-    },
-    {
-      "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
-      "titleEn": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-16T20:32:01.000Z"
-    },
-    {
-      "title": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
-      "titleEn": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-16T16:53:51.000Z"
-    },
-    {
-      "title": "女子声称她的继父使用 Grok 将童年照片变成露骨图像",
-      "titleEn": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-15T21:29:19.000Z"
-    },
-    {
-      "title": "Anthropic 分享了有关 Claude 新水印如何工作的更多细节",
-      "titleEn": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-15T18:58:39.000Z"
-    },
-    {
-      "title": "SpaceX 正式完成 Cursor 收购",
-      "titleEn": "SpaceX officially closes its Cursor acquisition",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-15T16:30:00.000Z"
-    },
-    {
-      "title": "如何判断您的人工智能平台的帐户是否被黑客入侵",
-      "titleEn": "How to tell if your AI platforms’ accounts have been hacked",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-15T16:10:00.000Z"
     },
     {
       "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
@@ -424,33 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-08-10T20:00:00.000Z"
-    },
-    {
-      "title": "使用新的人工智能工具发展您的营销",
-      "titleEn": "Evolve your marketing with new AI tools",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp\">了解 Google 广告和 Google 分析的全新 AI 和代理体验如何简化您的营销",
-      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
-      "publishedAt": "2026-08-10T14:30:00.000Z"
-    },
-    {
-      "title": "同行评审不堪重负——它能在人工智能时代生存吗？",
-      "titleEn": "Peer review is overwhelmed—can it survive in the AI era?",
-      "summary": "",
-      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-1152x648.jpg",
-      "publishedAt": "2026-08-10T11:00:47.000Z"
-    },
-    {
-      "title": "科学人工智能需要推理，而不仅仅是数据",
-      "titleEn": "AI for science needs reasoning, not just data",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-08-10T09:00:00.000Z"
     }
   ]
 }
