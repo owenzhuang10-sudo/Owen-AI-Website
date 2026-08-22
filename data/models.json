@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T00:58:08.013Z",
+  "updatedAt": "2026-08-22T00:54:34.568Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -1360,6 +1360,14 @@
         },
         {
           "rank": 11,
+          "name": "Grok 4.6",
+          "org": "SpaceXAI",
+          "country": "us",
+          "score": 78.7,
+          "released": "2026-08-12"
+        },
+        {
+          "rank": 12,
           "name": "GPT-5.6 Luna",
           "org": "OpenAI",
           "country": "us",
@@ -1367,7 +1375,7 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "GPT-5.3 Codex",
           "org": "OpenAI",
           "country": "us",
@@ -1375,7 +1383,7 @@
           "released": "2026-02-05"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "MiMo-V2.5-Pro",
           "org": "Xiaomi",
           "country": "cn",
@@ -1383,7 +1391,7 @@
           "released": "2026-04-22"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "GPT-5.6 Sol",
           "org": "OpenAI",
           "country": "us",
@@ -1391,7 +1399,7 @@
           "released": "2026-07-09"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Qwen3.8 27B",
           "org": "Alibaba",
           "country": "cn",
@@ -1399,7 +1407,7 @@
           "released": "2026-08-14"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Claude Sonnet 5",
           "org": "Anthropic",
           "country": "us",
@@ -1407,7 +1415,7 @@
           "released": "2026-06-30"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Claude Fable 5",
           "org": "Anthropic",
           "country": "us",
@@ -1415,7 +1423,7 @@
           "released": "2026-06-09"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "GLM-5.2",
           "org": "Z AI",
           "country": "cn",
@@ -1423,7 +1431,7 @@
           "released": "2026-06-16"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Nex-N2-Pro",
           "org": "Nex AGI",
           "country": "cn",
@@ -1431,7 +1439,7 @@
           "released": "2026-06-02"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "GLM-5.3",
           "org": "Z AI",
           "country": "cn",
@@ -1439,7 +1447,7 @@
           "released": "2026-08-18"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "DeepSeek V4 Pro 0813",
           "org": "DeepSeek",
           "country": "cn",
@@ -1447,7 +1455,7 @@
           "released": "2026-08-13"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Qwen3.8 2.4T A95B",
           "org": "Alibaba",
           "country": "cn",
@@ -1455,20 +1463,12 @@
           "released": "2026-08-12"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Kimi K2.7 Code",
           "org": "Kimi",
           "country": "cn",
           "score": 75,
           "released": "2026-06-12"
-        },
-        {
-          "rank": 24,
-          "name": "Grok 4.6",
-          "org": "SpaceXAI",
-          "country": "us",
-          "score": 75,
-          "released": "2026-08-12"
         },
         {
           "rank": 25,
