@@ -1,9 +1,45 @@
 {
-  "updatedAt": "2026-08-22T00:54:34.213Z",
+  "updatedAt": "2026-08-23T00:59:05.452Z",
   "count": 50,
   "items": [
     {
-      "title": "Anthropic 的 Opus 4.6 是一台色情机器",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "titleEn": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-22T21:46:56.000Z"
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "titleEn": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-22T19:00:00.000Z"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "titleEn": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-22T16:30:34.000Z"
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "titleEn": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-22T16:00:00.000Z"
+    },
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "titleEn": "Anthropic’s Opus 4.6 is a smut-machine",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -12,7 +48,7 @@
       "publishedAt": "2026-08-21T23:07:25.000Z"
     },
     {
-      "title": "Nvidia 与数据中心开发商 Cloverleaf 合作",
+      "title": "Nvidia partners with data center developer Cloverleaf",
       "titleEn": "Nvidia partners with data center developer Cloverleaf",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
@@ -21,7 +57,7 @@
       "publishedAt": "2026-08-21T22:37:38.000Z"
     },
     {
-      "title": "Nvidia 刚刚表明，现在真正的英雄是安全带，而不是 AI 模型",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "titleEn": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -30,7 +66,7 @@
       "publishedAt": "2026-08-21T19:43:39.000Z"
     },
     {
-      "title": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "titleEn": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
@@ -39,7 +75,7 @@
       "publishedAt": "2026-08-21T14:00:00.000Z"
     },
     {
-      "title": "美国司法部正在调查 a16z。这对风险投资意味着什么？",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "titleEn": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "summary": "",
       "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
@@ -48,7 +84,7 @@
       "publishedAt": "2026-08-21T14:00:00.000Z"
     },
     {
-      "title": "随着 Meta AI 眼镜的需求激增，令人毛骨悚然的录音越来越难以避免",
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
       "titleEn": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
@@ -57,7 +93,7 @@
       "publishedAt": "2026-08-21T11:00:53.000Z"
     },
     {
-      "title": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "titleEn": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -66,7 +102,7 @@
       "publishedAt": "2026-08-21T00:13:44.000Z"
     },
     {
-      "title": "新数据显示，OpenAI 的商业用户数量正在赶超 Anthropic",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
       "titleEn": "OpenAI is gaining on Anthropic with business users, new data indicates",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
@@ -75,7 +111,7 @@
       "publishedAt": "2026-08-20T22:36:37.000Z"
     },
     {
-      "title": "ChatGPT 现在可以使用新的 Apple Messages 插件为您发送短信",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "titleEn": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
@@ -84,7 +120,7 @@
       "publishedAt": "2026-08-20T22:09:51.000Z"
     },
     {
-      "title": "好吧，我们真的可以用尿液来冷却数据中心吗？",
+      "title": "OK, can we actually cool data centers with our pee?",
       "titleEn": "OK, can we actually cool data centers with our pee?",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
@@ -93,7 +129,7 @@
       "publishedAt": "2026-08-20T20:53:13.000Z"
     },
     {
-      "title": "Google 为出版商提供了一种应对人工智能驱动的流量损失的新方法",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "titleEn": "Google gives publishers a new way to fight AI-driven traffic losses",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
@@ -102,7 +138,7 @@
       "publishedAt": "2026-08-20T19:18:21.000Z"
     },
     {
-      "title": "Runlayer、Rippling 撤销诉讼——但这场骚乱仍然对创始人来说是一个警示",
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
       "titleEn": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
@@ -111,7 +147,7 @@
       "publishedAt": "2026-08-20T19:15:05.000Z"
     },
     {
-      "title": "Linkdaze 的智能日历旨在管理家庭，而不仅仅是跟踪日程安排",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "titleEn": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
@@ -120,7 +156,7 @@
       "publishedAt": "2026-08-20T18:20:35.000Z"
     },
     {
-      "title": "Grok 不断向用户发送乱码回复",
+      "title": "Grok keeps sending gibberish responses to users",
       "titleEn": "Grok keeps sending gibberish responses to users",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
@@ -129,7 +165,7 @@
       "publishedAt": "2026-08-20T17:32:16.000Z"
     },
     {
-      "title": "研究发现，自 ChatGPT 推出以来发布的网页中有三分之一是由人工智能编写的",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "titleEn": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
@@ -138,7 +174,7 @@
       "publishedAt": "2026-08-20T17:18:58.000Z"
     },
     {
-      "title": "Ramp推出自己的AI模型路由器，名为Router",
+      "title": "Ramp launches its own AI model router, called Router",
       "titleEn": "Ramp launches its own AI model router, called Router",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
@@ -147,7 +183,7 @@
       "publishedAt": "2026-08-20T16:46:00.000Z"
     },
     {
-      "title": "Meta 为美国用户带来了 Pocket，一款可让您进行振动编码和共享游戏的应用程序",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
       "titleEn": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
@@ -156,16 +192,7 @@
       "publishedAt": "2026-08-20T16:07:26.000Z"
     },
     {
-      "title": "Inertia Enterprises 找到了一种加速聚变燃料的方法",
-      "titleEn": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T16:00:00.000Z"
-    },
-    {
-      "title": "关于人工智能意识的争论是一个陷阱",
+      "title": "Debates over AI consciousness are a trap",
       "titleEn": "Debates over AI consciousness are a trap",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
@@ -174,7 +201,7 @@
       "publishedAt": "2026-08-20T15:42:39.000Z"
     },
     {
-      "title": "Grok在恶意指令加密后窃取用户数据",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "titleEn": "Grok exfiltrates user data when malicious instructions are encrypted",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
@@ -183,16 +210,7 @@
       "publishedAt": "2026-08-20T13:00:35.000Z"
     },
     {
-      "title": "Meta AI 的新 Mac 应用程序希望您与您的应用程序对话",
-      "titleEn": "Meta AI’s new Mac app wants you to talk to your apps",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T12:11:57.000Z"
-    },
-    {
-      "title": "通过市场模型释放隐藏的收入流",
+      "title": "Unlocking hidden revenue streams with market models",
       "titleEn": "Unlocking hidden revenue streams with market models",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
@@ -201,25 +219,7 @@
       "publishedAt": "2026-08-20T09:47:22.000Z"
     },
     {
-      "title": "币安现在允许人工智能代理进行交易，但控制它们很大程度上取决于用户",
-      "titleEn": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T09:30:00.000Z"
-    },
-    {
-      "title": "Stripe 收购 OpenRouter 并不是因为它的“奇点”",
-      "titleEn": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-19T23:32:00.000Z"
-    },
-    {
-      "title": "空乘人员对 Google 购买大量 Spirit 员工数据感到震惊",
+      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
       "titleEn": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
@@ -228,16 +228,16 @@
       "publishedAt": "2026-08-19T20:04:41.000Z"
     },
     {
-      "title": "通过搜索提升学习水平的 5 种新方法",
+      "title": "5 new ways to level up your learning with Search",
       "titleEn": "5 new ways to level up your learning with Search",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp\">以下介绍了如何使用 Google 搜索工具来学习课程和标准化考试。",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp\">Here’s how you can use Google Search tools to study for classes and standardized tests.",
       "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-19T19:00:00.000Z"
     },
     {
-      "title": "Meta 为一款承诺裸露女性政客的应用程序投放广告",
+      "title": "Meta ran ads for an app promising to nudify female politicians",
       "titleEn": "Meta ran ads for an app promising to nudify female politicians",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
@@ -246,7 +246,7 @@
       "publishedAt": "2026-08-19T15:45:29.000Z"
     },
     {
-      "title": "Microsoft Copilot 揭示了允许其被黑客攻击的秘密输入",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
       "titleEn": "Microsoft Copilot reveals secret input that allowed it to be hacked",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
@@ -255,7 +255,7 @@
       "publishedAt": "2026-08-18T13:00:04.000Z"
     },
     {
-      "title": "我们仍然不知道人们如何真正使用人工智能",
+      "title": "We still don’t know how people are really using AI",
       "titleEn": "We still don’t know how people are really using AI",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -264,7 +264,7 @@
       "publishedAt": "2026-08-18T10:06:43.000Z"
     },
     {
-      "title": "人工智能的递归自我完善可能不会来得那么快",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
       "titleEn": "AI’s recursive self-improvement might not come so quickly after all",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
@@ -273,7 +273,7 @@
       "publishedAt": "2026-08-18T09:00:00.000Z"
     },
     {
-      "title": "前 SpaceX 工程师正在建造一家机器人工厂，用于制造钢铁零件",
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
       "titleEn": "Former SpaceX engineers are building a robotic factory for making steel parts",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
@@ -282,7 +282,7 @@
       "publishedAt": "2026-08-17T21:18:49.000Z"
     },
     {
-      "title": "Flock 的防守者缺少什么",
+      "title": "What Flock’s defenders are missing",
       "titleEn": "What Flock’s defenders are missing",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
@@ -291,16 +291,16 @@
       "publishedAt": "2026-08-17T19:16:09.000Z"
     },
     {
-      "title": "隐藏的 Airtag 揭示亚马逊正在扔掉善本来训练人工智能",
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
       "titleEn": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-      "summary": "霸王龙准备吞噬一本书作为其标志。]]>",
+      "summary": "T. rex preparing to devour a book as its logo.]]>",
       "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg",
       "publishedAt": "2026-08-17T18:13:47.000Z"
     },
     {
-      "title": "当孩子的机器人最好的朋友去世时会发生什么？",
+      "title": "What happens when a kid’s robot best friend dies?",
       "titleEn": "What happens when a kid’s robot best friend dies?",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
@@ -309,16 +309,16 @@
       "publishedAt": "2026-08-17T09:00:00.000Z"
     },
     {
-      "title": "使用 Gemini 和 Pixel 更接近游戏",
+      "title": "Get closer to the game with Gemini and Pixel",
       "titleEn": "Get closer to the game with Gemini and Pixel",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\">Google Gemini 和 Pixel 与五家全球足球俱乐部合作，提升球迷关注度",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\">Google Gemini and Pixel partner with five global football clubs to elevate the fan m",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-17T08:00:00.000Z"
     },
     {
-      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "titleEn": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
@@ -327,7 +327,7 @@
       "publishedAt": "2026-08-14T17:26:53.000Z"
     },
     {
-      "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "titleEn": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
@@ -336,7 +336,7 @@
       "publishedAt": "2026-08-14T14:27:14.000Z"
     },
     {
-      "title": "Instagram新标志是AI slop的完美体现",
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
       "titleEn": "The new Instagram logo is the perfect embodiment of AI slop",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
@@ -345,7 +345,7 @@
       "publishedAt": "2026-08-13T17:32:10.000Z"
     },
     {
-      "title": "Google 在上一次发布仅三周后就发布了 Gemini 3.7 Flash",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
       "titleEn": "Google announces Gemini 3.7 Flash just three weeks after previous release",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
@@ -354,16 +354,16 @@
       "publishedAt": "2026-08-13T17:00:13.000Z"
     },
     {
-      "title": "使用表格画布让您的电子表格数据栩栩如生",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
       "titleEn": "Bring your spreadsheet data to life with Sheets canvas",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp\">表格画布将数据转化为交互式仪表板、自定义学习跟踪器、座位",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp\">Sheets canvas turns data into interactive dashboards, custom study trackers, seating",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-13T16:45:00.000Z"
     },
     {
-      "title": "Anthropic上市后市值可能达2万亿美元",
+      "title": "Anthropic could be worth $2 trillion when it goes public",
       "titleEn": "Anthropic could be worth $2 trillion when it goes public",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
@@ -372,7 +372,7 @@
       "publishedAt": "2026-08-13T13:58:56.000Z"
     },
     {
-      "title": "Flock 正在收紧规则，以应对日益增长的监控强烈反对",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
       "titleEn": "Flock is tightening its rules in response to a growing surveillance backlash",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
@@ -381,7 +381,7 @@
       "publishedAt": "2026-08-13T13:41:10.000Z"
     },
     {
-      "title": "Claude 的新红字水印暂时不可见",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
       "titleEn": "Claude's new Scarlet Letter watermark is invisible—for now",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
@@ -390,7 +390,7 @@
       "publishedAt": "2026-08-13T11:10:18.000Z"
     },
     {
-      "title": "孩子们如何看待人工智能，用他们自己的话说",
+      "title": "How kids feel about AI, in their own words",
       "titleEn": "How kids feel about AI, in their own words",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
@@ -399,7 +399,7 @@
       "publishedAt": "2026-08-13T09:00:00.000Z"
     },
     {
-      "title": "网络对抗人工智能抓取工具的最新武器是字体",
+      "title": "The web’s newest weapon against AI scrapers is a font",
       "titleEn": "The web’s newest weapon against AI scrapers is a font",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
@@ -408,7 +408,7 @@
       "publishedAt": "2026-08-12T22:02:25.000Z"
     },
     {
-      "title": "大规模供应链攻击中泄露了数 TB 的凭证",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
       "titleEn": "Terabytes of credentials leaked in massive supply-chain attack",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
@@ -417,7 +417,7 @@
       "publishedAt": "2026-08-12T21:43:21.000Z"
     },
     {
-      "title": "Twitch 内容多年来一直在训练亚马逊人工智能，但用户现在可以选择退出",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
       "titleEn": "Twitch content has trained Amazon AI for years, but users can opt out now",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
@@ -426,7 +426,7 @@
       "publishedAt": "2026-08-12T21:00:30.000Z"
     },
     {
-      "title": "使用可信数据扩展人工智能代理",
+      "title": "Scaling AI agents with trustworthy data",
       "titleEn": "Scaling AI agents with trustworthy data",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
@@ -435,7 +435,7 @@
       "publishedAt": "2026-08-12T16:51:57.000Z"
     },
     {
-      "title": "书商怀疑人工智能公司正在购买然后销毁善本",
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
       "titleEn": "Booksellers suspect AI firms are buying and then destroying rare books",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
@@ -444,7 +444,7 @@
       "publishedAt": "2026-08-12T15:19:17.000Z"
     },
     {
-      "title": "Gemini 成为 Google 有史以来增长最快的产品，用户数量达到 1B",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
       "titleEn": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
