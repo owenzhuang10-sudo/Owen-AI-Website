@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-08-23T00:59:05.452Z",
+  "updatedAt": "2026-08-24T00:56:33.569Z",
   "count": 50,
   "items": [
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "titleEn": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-23T20:01:36.000Z"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "titleEn": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-23T19:14:08.000Z"
+    },
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "titleEn": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-23T15:30:00.000Z"
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "titleEn": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-23T15:00:00.000Z"
+    },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "titleEn": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -147,15 +183,6 @@
       "publishedAt": "2026-08-20T19:15:05.000Z"
     },
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "titleEn": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T18:20:35.000Z"
-    },
-    {
       "title": "Grok keeps sending gibberish responses to users",
       "titleEn": "Grok keeps sending gibberish responses to users",
       "summary": "",
@@ -163,33 +190,6 @@
       "source": "TechCrunch AI",
       "image": null,
       "publishedAt": "2026-08-20T17:32:16.000Z"
-    },
-    {
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "titleEn": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T17:18:58.000Z"
-    },
-    {
-      "title": "Ramp launches its own AI model router, called Router",
-      "titleEn": "Ramp launches its own AI model router, called Router",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T16:46:00.000Z"
-    },
-    {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "titleEn": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T16:07:26.000Z"
     },
     {
       "title": "Debates over AI consciousness are a trap",
