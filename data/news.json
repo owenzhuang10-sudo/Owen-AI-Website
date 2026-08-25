@@ -1,7 +1,106 @@
 {
-  "updatedAt": "2026-08-24T00:56:33.569Z",
+  "updatedAt": "2026-08-25T00:56:35.810Z",
   "count": 50,
   "items": [
+    {
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "titleEn": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-25T00:23:12.000Z"
+    },
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "titleEn": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
+      "publishedAt": "2026-08-24T21:45:53.000Z"
+    },
+    {
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "titleEn": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-24T21:24:17.000Z"
+    },
+    {
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "titleEn": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-24T19:54:19.000Z"
+    },
+    {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "titleEn": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-24T18:03:55.000Z"
+    },
+    {
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "titleEn": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+      "publishedAt": "2026-08-24T16:41:45.000Z"
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "titleEn": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-24T15:24:18.000Z"
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "titleEn": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-24T15:00:00.000Z"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "titleEn": "How to encourage smarter AI use in the classroom",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-24T14:20:19.000Z"
+    },
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "titleEn": "Hugging Face reportedly in talks to be acquired for $13B",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-24T13:47:26.000Z"
+    },
+    {
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "titleEn": "Kids outlearn AI—and we still don’t know why",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/2_Mobile.jpg?w=840",
+      "publishedAt": "2026-08-24T09:00:00.000Z"
+    },
     {
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "titleEn": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -75,6 +174,15 @@
       "publishedAt": "2026-08-22T16:00:00.000Z"
     },
     {
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "titleEn": "Michael Polansky is training an AI model on skin that’s still alive",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-22T01:31:04.000Z"
+    },
+    {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "titleEn": "Anthropic’s Opus 4.6 is a smut-machine",
       "summary": "",
@@ -102,15 +210,6 @@
       "publishedAt": "2026-08-21T19:43:39.000Z"
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "titleEn": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-21T14:00:00.000Z"
-    },
-    {
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "titleEn": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "summary": "",
@@ -127,69 +226,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
       "publishedAt": "2026-08-21T11:00:53.000Z"
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "titleEn": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-21T00:13:44.000Z"
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "titleEn": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T22:36:37.000Z"
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "titleEn": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T22:09:51.000Z"
-    },
-    {
-      "title": "OK, can we actually cool data centers with our pee?",
-      "titleEn": "OK, can we actually cool data centers with our pee?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T20:53:13.000Z"
-    },
-    {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "titleEn": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T19:18:21.000Z"
-    },
-    {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "titleEn": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T19:15:05.000Z"
-    },
-    {
-      "title": "Grok keeps sending gibberish responses to users",
-      "titleEn": "Grok keeps sending gibberish responses to users",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-20T17:32:16.000Z"
     },
     {
       "title": "Debates over AI consciousness are a trap",
@@ -415,42 +451,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
       "publishedAt": "2026-08-12T21:43:21.000Z"
-    },
-    {
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "titleEn": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
-      "publishedAt": "2026-08-12T21:00:30.000Z"
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "titleEn": "Scaling AI agents with trustworthy data",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Report-2026-cover-v2.png",
-      "publishedAt": "2026-08-12T16:51:57.000Z"
-    },
-    {
-      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "titleEn": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg",
-      "publishedAt": "2026-08-12T15:19:17.000Z"
-    },
-    {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "titleEn": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
-      "publishedAt": "2026-08-11T19:48:12.000Z"
     }
   ]
 }
