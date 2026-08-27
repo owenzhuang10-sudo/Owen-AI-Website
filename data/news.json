@@ -1,9 +1,225 @@
 {
-  "updatedAt": "2026-08-26T00:57:23.035Z",
+  "updatedAt": "2026-08-27T06:46:49.341Z",
   "count": 50,
   "items": [
     {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "title": "Nvidia 完成对 Hugging Face 的收购",
+      "titleEn": "Nvidia closes in on Hugging Face acquisition",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-27T06:32:51.000Z"
+    },
+    {
+      "title": "病毒式 AI 初创公司 Instinct 已融资 3.5 亿美元，估值为 2.5B 美元",
+      "titleEn": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-27T00:24:57.000Z"
+    },
+    {
+      "title": "由于“需求激增”，亚马逊刚刚将 Nvidia 芯片订单增加了两倍",
+      "titleEn": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T23:47:18.000Z"
+    },
+    {
+      "title": "Anthropic 与 Nscale 达成 45B 美元交易，继续吞噬计算资源",
+      "titleEn": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T21:37:39.000Z"
+    },
+    {
+      "title": "旨在取代 Meta 工人的人工智能代理做出了“大规模、破坏性的行动”",
+      "titleEn": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
+      "publishedAt": "2026-08-26T21:25:27.000Z"
+    },
+    {
+      "title": "Google 的 Gemini 存在品牌问题，其他 AI 也存在品牌问题",
+      "titleEn": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T19:37:34.000Z"
+    },
+    {
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "titleEn": "How do we explain OpenAI’s executive exodus?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T19:34:04.000Z"
+    },
+    {
+      "title": "Google 宣布 Gemini 3.5 Transcribe 用于人工智能驱动的语音转文本",
+      "titleEn": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
+      "publishedAt": "2026-08-26T19:19:22.000Z"
+    },
+    {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "titleEn": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T19:05:22.000Z"
+    },
+    {
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "titleEn": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-26T19:00:00.000Z"
+    },
+    {
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "titleEn": "Radar makes podcasts searchable — and usable by AI agents",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T15:47:28.000Z"
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "titleEn": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T15:00:00.000Z"
+    },
+    {
+      "title": "比尔·盖茨希望看到机器人税和“人类保留”工作，以减轻人工智能的危害",
+      "titleEn": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T14:37:01.000Z"
+    },
+    {
+      "title": "惊喜：Z.ai 是神秘 Ox Alpha 模型背后的人工智能实验室",
+      "titleEn": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T14:19:29.000Z"
+    },
+    {
+      "title": "机器人大脑制造商正在走出 GPT-2 时代",
+      "titleEn": "Robot brain builders are pushing out of their GPT-2 era",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T13:30:00.000Z"
+    },
+    {
+      "title": "QueryStory 希望您相信 AI 告诉您的内容",
+      "titleEn": "QueryStory wants you to believe what AI is telling you",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T13:00:00.000Z"
+    },
+    {
+      "title": "Arga Labs 正在构建一种更好的方法来培训企业人工智能代理",
+      "titleEn": "Arga Labs is building a better way to train enterprise AI agents",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T12:55:28.000Z"
+    },
+    {
+      "title": "听力科技初创公司 Legato 以 1200 万美元的价格脱颖而出，并展示了其人工智能助听眼镜",
+      "titleEn": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T12:00:00.000Z"
+    },
+    {
+      "title": "IBM 的新 Granite 4.2 模型顺应了当地法学硕士的兴趣浪潮",
+      "titleEn": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
+      "publishedAt": "2026-08-26T11:10:49.000Z"
+    },
+    {
+      "title": "Runable 筹集了 2100 万美元，押注人工智能代理可以从建立业务到发展业务",
+      "titleEn": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T11:00:00.000Z"
+    },
+    {
+      "title": "人工智能引发",
+      "titleEn": "Raised on AI",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=840",
+      "publishedAt": "2026-08-26T09:00:00.000Z"
+    },
+    {
+      "title": "人工智能模型搞砸了这些智力测试。你还能过得更好吗？",
+      "titleEn": "AI models flub these intelligence tests. Can you fare any better?",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-26T09:00:00.000Z"
+    },
+    {
+      "title": "比尔盖茨说我们已经超过了人工智能的危险阈值。现在怎么办？",
+      "titleEn": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-26T07:01:00.000Z"
+    },
+    {
+      "title": "印度的 Ringg 获得 Peak XV 的支持，将语音 AI 推向电话之外",
+      "titleEn": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-26T03:30:00.000Z"
+    },
+    {
+      "title": "消息人士称，机器人初创公司 Generalist 估值达到 30 亿美元",
       "titleEn": "Robotics startup Generalist reaches $3B valuation, sources say",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
@@ -12,8 +228,8 @@
       "publishedAt": "2026-08-26T00:40:59.000Z"
     },
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "titleEn": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "title": "随着高调离职潮的不断发生，OpenAI 失去了一位顶级数据中心高管",
+      "titleEn": "OpenAI loses a top data center exec as stream of high-profile departures continues",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
       "source": "TechCrunch AI",
@@ -21,7 +237,7 @@
       "publishedAt": "2026-08-26T00:06:20.000Z"
     },
     {
-      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "title": "世界人形机器人比赛展示跑步者打破记录、爆发火焰",
       "titleEn": "World humanoid robot games show runners breaking records, bursting into flames",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
@@ -39,16 +255,7 @@
       "publishedAt": "2026-08-25T19:03:47.000Z"
     },
     {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "titleEn": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-25T17:50:33.000Z"
-    },
-    {
-      "title": "5 ways to upgrade your home decor with Google Search",
+      "title": "使用 Google 升级家居装饰的 5 种方法",
       "titleEn": "5 ways to upgrade your home decor with Google Search",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp\">Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY p",
       "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
@@ -57,7 +264,7 @@
       "publishedAt": "2026-08-25T16:00:00.000Z"
     },
     {
-      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "title": "人工智能不会取代放射科医生，但会极大地改变他们的工作",
       "titleEn": "AI won’t replace radiologists, but it will dramatically change their jobs",
       "summary": "",
       "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
@@ -66,25 +273,7 @@
       "publishedAt": "2026-08-25T15:10:03.000Z"
     },
     {
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "titleEn": "Gamma acquires Accel-backed design startup Lica",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-25T15:00:00.000Z"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "titleEn": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-25T14:22:04.000Z"
-    },
-    {
-      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "title": "苹果新款台式电脑专为本地AI开发而设计",
       "titleEn": "Apple's new desktop computers are designed specifically for local AI development",
       "summary": "",
       "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
@@ -93,25 +282,7 @@
       "publishedAt": "2026-08-25T13:00:11.000Z"
     },
     {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "titleEn": "Accel-backed Keenable is indexing the web for AI agents",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-25T13:00:00.000Z"
-    },
-    {
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "titleEn": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "title": "我在上海的机器人“嘉年华”度过了一天。这是我所看到的。",
       "titleEn": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
@@ -120,16 +291,7 @@
       "publishedAt": "2026-08-25T09:00:00.000Z"
     },
     {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "titleEn": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-25T00:23:12.000Z"
-    },
-    {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "title": "斯坦福大学研究发现，人工智能对入门级工作的打击最大",
       "titleEn": "AI is hitting entry-level jobs hardest, Stanford study finds",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
@@ -138,34 +300,7 @@
       "publishedAt": "2026-08-24T21:45:53.000Z"
     },
     {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "titleEn": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-24T21:24:17.000Z"
-    },
-    {
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "titleEn": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-24T19:54:19.000Z"
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "titleEn": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-24T18:03:55.000Z"
-    },
-    {
-      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
+      "title": "Nvidia 高级经理与前超微员工的人工智能走私计划有关",
       "titleEn": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
@@ -174,25 +309,7 @@
       "publishedAt": "2026-08-24T16:41:45.000Z"
     },
     {
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "titleEn": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-24T15:24:18.000Z"
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "titleEn": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-24T15:00:00.000Z"
-    },
-    {
-      "title": "How to encourage smarter AI use in the classroom",
+      "title": "如何鼓励在课堂上更智能地使用人工智能",
       "titleEn": "How to encourage smarter AI use in the classroom",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -201,16 +318,7 @@
       "publishedAt": "2026-08-24T14:20:19.000Z"
     },
     {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "titleEn": "Hugging Face reportedly in talks to be acquired for $13B",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-24T13:47:26.000Z"
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
+      "title": "孩子们的学习能力超过了人工智能——但我们仍然不知道为什么",
       "titleEn": "Kids outlearn AI—and we still don’t know why",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
@@ -219,52 +327,7 @@
       "publishedAt": "2026-08-24T09:00:00.000Z"
     },
     {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "titleEn": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-23T20:01:36.000Z"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "titleEn": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-23T19:14:08.000Z"
-    },
-    {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "titleEn": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-23T15:30:00.000Z"
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "titleEn": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-23T15:00:00.000Z"
-    },
-    {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "titleEn": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-22T21:46:56.000Z"
-    },
-    {
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "title": "随着 Meta AI 眼镜的需求激增，令人毛骨悚然的录音越来越难以避免",
       "titleEn": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
@@ -273,7 +336,7 @@
       "publishedAt": "2026-08-21T11:00:53.000Z"
     },
     {
-      "title": "Debates over AI consciousness are a trap",
+      "title": "关于人工智能意识的争论是一个陷阱",
       "titleEn": "Debates over AI consciousness are a trap",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
@@ -282,7 +345,7 @@
       "publishedAt": "2026-08-20T15:42:39.000Z"
     },
     {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "title": "Grok在恶意指令加密后窃取用户数据",
       "titleEn": "Grok exfiltrates user data when malicious instructions are encrypted",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
@@ -291,7 +354,7 @@
       "publishedAt": "2026-08-20T13:00:35.000Z"
     },
     {
-      "title": "Unlocking hidden revenue streams with market models",
+      "title": "通过市场模型释放隐藏的收入流",
       "titleEn": "Unlocking hidden revenue streams with market models",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
@@ -309,7 +372,7 @@
       "publishedAt": "2026-08-19T20:04:41.000Z"
     },
     {
-      "title": "5 new ways to level up your learning with Search",
+      "title": "通过搜索提升学习水平的 5 种新方法",
       "titleEn": "5 new ways to level up your learning with Search",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp\">Here’s how you can use Google Search tools to study for classes and standardized tests.",
       "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -318,7 +381,7 @@
       "publishedAt": "2026-08-19T19:00:00.000Z"
     },
     {
-      "title": "Meta ran ads for an app promising to nudify female politicians",
+      "title": "Meta 为一款承诺裸露女性政客的应用程序投放广告",
       "titleEn": "Meta ran ads for an app promising to nudify female politicians",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
@@ -327,7 +390,7 @@
       "publishedAt": "2026-08-19T15:45:29.000Z"
     },
     {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "title": "Microsoft Copilot 揭示了允许其被黑客攻击的秘密输入",
       "titleEn": "Microsoft Copilot reveals secret input that allowed it to be hacked",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
@@ -336,7 +399,7 @@
       "publishedAt": "2026-08-18T13:00:04.000Z"
     },
     {
-      "title": "We still don’t know how people are really using AI",
+      "title": "我们仍然不知道人们如何真正使用人工智能",
       "titleEn": "We still don’t know how people are really using AI",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -345,16 +408,7 @@
       "publishedAt": "2026-08-18T10:06:43.000Z"
     },
     {
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "titleEn": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-08-18T09:00:00.000Z"
-    },
-    {
-      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "title": "前 SpaceX 工程师正在建造一家机器人工厂，用于制造钢铁零件",
       "titleEn": "Former SpaceX engineers are building a robotic factory for making steel parts",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
@@ -363,34 +417,16 @@
       "publishedAt": "2026-08-17T21:18:49.000Z"
     },
     {
-      "title": "What Flock’s defenders are missing",
-      "titleEn": "What Flock’s defenders are missing",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-08-17T19:16:09.000Z"
-    },
-    {
-      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "title": "隐藏的 Airtag 揭示亚马逊正在扔掉善本来训练人工智能",
       "titleEn": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-      "summary": "T. rex preparing to devour a book as its logo.]]>",
+      "summary": "霸王龙准备吞噬一本书作为其标志。]]>",
       "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg",
       "publishedAt": "2026-08-17T18:13:47.000Z"
     },
     {
-      "title": "What happens when a kid’s robot best friend dies?",
-      "titleEn": "What happens when a kid’s robot best friend dies?",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
-      "publishedAt": "2026-08-17T09:00:00.000Z"
-    },
-    {
-      "title": "Get closer to the game with Gemini and Pixel",
+      "title": "使用 Gemini 和 Pixel 更接近游戏",
       "titleEn": "Get closer to the game with Gemini and Pixel",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\">Google Gemini and Pixel partner with five global football clubs to elevate the fan m",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -399,7 +435,7 @@
       "publishedAt": "2026-08-17T08:00:00.000Z"
     },
     {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
       "titleEn": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
@@ -408,49 +444,13 @@
       "publishedAt": "2026-08-14T17:26:53.000Z"
     },
     {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
       "titleEn": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
       "publishedAt": "2026-08-14T14:27:14.000Z"
-    },
-    {
-      "title": "The new Instagram logo is the perfect embodiment of AI slop",
-      "titleEn": "The new Instagram logo is the perfect embodiment of AI slop",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png",
-      "publishedAt": "2026-08-13T17:32:10.000Z"
-    },
-    {
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "titleEn": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
-      "publishedAt": "2026-08-13T17:00:13.000Z"
-    },
-    {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "titleEn": "Bring your spreadsheet data to life with Sheets canvas",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp\">Sheets canvas turns data into interactive dashboards, custom study trackers, seating",
-      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
-      "publishedAt": "2026-08-13T16:45:00.000Z"
-    },
-    {
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "titleEn": "Anthropic could be worth $2 trillion when it goes public",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-      "publishedAt": "2026-08-13T13:58:56.000Z"
     }
   ]
 }
