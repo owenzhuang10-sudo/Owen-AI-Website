@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-08-30T03:07:11.152Z",
+  "updatedAt": "2026-08-31T03:00:47.246Z",
   "count": 50,
   "items": [
+    {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "titleEn": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-31T02:34:00.000Z"
+    },
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "titleEn": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-30T16:54:25.000Z"
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "titleEn": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-30T15:00:00.000Z"
+    },
+    {
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "titleEn": "Inside Meta’s push to put robots to work in data centers",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "publishedAt": "2026-08-30T11:03:47.000Z"
+    },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "titleEn": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -237,33 +273,6 @@
       "publishedAt": "2026-08-27T12:58:59.000Z"
     },
     {
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "titleEn": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T11:35:59.000Z"
-    },
-    {
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "titleEn": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T06:32:51.000Z"
-    },
-    {
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "titleEn": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T00:24:57.000Z"
-    },
-    {
       "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
       "titleEn": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
       "summary": "",
@@ -442,15 +451,6 @@
       "source": "MIT Tech Review",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840",
       "publishedAt": "2026-08-20T09:47:22.000Z"
-    },
-    {
-      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "titleEn": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-1024x648.jpg",
-      "publishedAt": "2026-08-19T20:04:41.000Z"
     }
   ]
 }
