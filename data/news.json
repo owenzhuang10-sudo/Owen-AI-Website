@@ -1,10 +1,109 @@
 {
-  "updatedAt": "2026-08-31T03:00:47.246Z",
+  "updatedAt": "2026-09-01T03:08:11.098Z",
   "count": 50,
   "items": [
     {
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "titleEn": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "title": "苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 公司数据",
+      "titleEn": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T00:13:00.000Z"
+    },
+    {
+      "title": "五角大楼现在有自己的 ChatGPT 和 Grok 版本",
+      "titleEn": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-31T20:13:45.000Z"
+    },
+    {
+      "title": "Instagram 对未公开的人工智能资料设置新限制",
+      "titleEn": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-31T19:16:59.000Z"
+    },
+    {
+      "title": "哈佛法学院辍学生为 Blue Voice 筹集 600 万美元，用于建造“警察哈维”",
+      "titleEn": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-31T18:35:11.000Z"
+    },
+    {
+      "title": "“Zlibrary 我心爱的人”：Anthropic 员工聊天赞扬索尼诉讼中提到的盗版行为",
+      "titleEn": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
+      "publishedAt": "2026-08-31T18:10:45.000Z"
+    },
+    {
+      "title": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题",
+      "titleEn": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-08-31T18:00:00.000Z"
+    },
+    {
+      "title": "Clipto 使用 AI 搜索 TB 级视频，目前估值为 2.5 亿美元",
+      "titleEn": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-31T16:00:00.000Z"
+    },
+    {
+      "title": "Nvidia 的 $3.5B 联发科押注揭示了其应对大型科技公司 AI 芯片建设的计划",
+      "titleEn": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-31T15:15:25.000Z"
+    },
+    {
+      "title": "ChatGPT 和 Reddit 现在面临欧盟最严格的在线安全规则",
+      "titleEn": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "summary": "",
+      "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg",
+      "publishedAt": "2026-08-31T13:41:40.000Z"
+    },
+    {
+      "title": "会议记录员 Circleback 增加免费套餐以吸引更多客户",
+      "titleEn": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-31T12:56:46.000Z"
+    },
+    {
+      "title": "Pocket 的人工智能让我的游戏想法成为现实。现在Meta控制着结果。",
+      "titleEn": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "summary": "",
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png",
+      "publishedAt": "2026-08-31T10:00:34.000Z"
+    },
+    {
+      "title": "美国正在围绕无人机和机器人设置障碍，但中国有能力绕过它们",
+      "titleEn": "The US is building barriers around drones and robots, but China has scale to get around them",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
       "source": "TechCrunch AI",
@@ -12,7 +111,7 @@
       "publishedAt": "2026-08-31T02:34:00.000Z"
     },
     {
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "title": "马斯克加快生产更多燃气轮机的步伐也带来了污染问题",
       "titleEn": "Musk’s faster path to more gas turbines comes with pollution problem",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
@@ -21,7 +120,7 @@
       "publishedAt": "2026-08-30T16:54:25.000Z"
     },
     {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "title": "Caterpillar 正在将其从自动化采矿中学到的知识引入人工智能部署",
       "titleEn": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
@@ -30,7 +129,7 @@
       "publishedAt": "2026-08-30T15:00:00.000Z"
     },
     {
-      "title": "Inside Meta’s push to put robots to work in data centers",
+      "title": "Meta 推动机器人在数据中心工作的内幕",
       "titleEn": "Inside Meta’s push to put robots to work in data centers",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
@@ -39,8 +138,8 @@
       "publishedAt": "2026-08-30T11:03:47.000Z"
     },
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "titleEn": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "title": "索尼音乐、华纳起诉 Anthropic，指控其进行“无耻的知识产权盗窃活动”",
+      "titleEn": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "source": "TechCrunch AI",
@@ -48,8 +147,17 @@
       "publishedAt": "2026-08-29T18:41:59.000Z"
     },
     {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "titleEn": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "title": "在 TechBBQ 上，欧洲的人工智能话题不断回到：谁才是真正的控制者？",
+      "titleEn": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-08-29T17:51:10.000Z"
+    },
+    {
+      "title": "“我们每年不会进行 30 次投注”：Vijay Pande 在 a16z 运行 4B 美元后谈小额投注",
+      "titleEn": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "source": "TechCrunch AI",
@@ -57,7 +165,7 @@
       "publishedAt": "2026-08-29T17:36:47.000Z"
     },
     {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "title": "Nvidia 的 AI 优势正在超越 GPU",
       "titleEn": "Nvidia’s AI advantage is moving beyond the GPU",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
@@ -66,7 +174,7 @@
       "publishedAt": "2026-08-29T13:00:00.000Z"
     },
     {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "title": "Neocloud Lambda 获得 10 亿美元债务以购买更多芯片",
       "titleEn": "Neocloud Lambda secures $1B in debt to buy more chips",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -75,7 +183,7 @@
       "publishedAt": "2026-08-28T20:24:11.000Z"
     },
     {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "title": "Anthropic 研究人员刚刚让我们了解了自我改进的人工智能",
       "titleEn": "An Anthropic researcher just gave us a peek at self-improving AI",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
@@ -84,7 +192,7 @@
       "publishedAt": "2026-08-28T19:30:38.000Z"
     },
     {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "title": "开放式人工智能公司是硅谷最热门的收购目标",
       "titleEn": "Open-weight AI companies are the Valley’s hottest acquisition targets",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
@@ -93,7 +201,7 @@
       "publishedAt": "2026-08-28T18:19:40.000Z"
     },
     {
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "title": "特朗普将“唤醒”Anthropic列入黑名单，联邦法官认为其非法",
       "titleEn": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
@@ -102,7 +210,7 @@
       "publishedAt": "2026-08-28T18:07:55.000Z"
     },
     {
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "title": "Meta 使 AI 眼镜稍微不那么令人毛骨悚然，限制了未经同意的录音",
       "titleEn": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
@@ -111,7 +219,7 @@
       "publishedAt": "2026-08-28T15:42:24.000Z"
     },
     {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "title": "Anthropic 首次在法庭上战胜五角大楼的供应链风险标签",
       "titleEn": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
@@ -120,7 +228,7 @@
       "publishedAt": "2026-08-28T12:46:12.000Z"
     },
     {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "title": "随着社交媒体巨头在印度面临越来越严格的审查，Meta 高管离职前往 OpenAI",
       "titleEn": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
@@ -129,16 +237,7 @@
       "publishedAt": "2026-08-28T12:21:06.000Z"
     },
     {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "titleEn": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T23:16:45.000Z"
-    },
-    {
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "title": "Anthropic的新硬件标准让AI代理控制物理世界",
       "titleEn": "Anthropic's new hardware standard lets AI agents control the physical world",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
@@ -147,7 +246,7 @@
       "publishedAt": "2026-08-27T22:15:43.000Z"
     },
     {
-      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+      "title": "诉讼称埃隆·马斯克的 xAI 使用儿童色情内容来训练 Grok 模型",
       "titleEn": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
@@ -156,7 +255,7 @@
       "publishedAt": "2026-08-27T20:52:31.000Z"
     },
     {
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+      "title": "报告：Nvidia 将以 130 亿美元收购人工智能模型库 Hugging Face",
       "titleEn": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
@@ -165,16 +264,7 @@
       "publishedAt": "2026-08-27T19:55:22.000Z"
     },
     {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "titleEn": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T19:52:52.000Z"
-    },
-    {
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+      "title": "人工智能行业称特朗普计划以“可以想象到的最愚蠢的方式”对芯片征税",
       "titleEn": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
@@ -183,61 +273,16 @@
       "publishedAt": "2026-08-27T18:57:08.000Z"
     },
     {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "titleEn": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T17:43:24.000Z"
-    },
-    {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "titleEn": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T16:00:00.000Z"
-    },
-    {
-      "title": "3 new ways to plan and book travel in Search",
+      "title": "在搜索中计划和预订旅行的 3 种新方式",
       "titleEn": "3 new ways to plan and book travel in Search",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\">Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Sear",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\">在 Google Sear 中使用 AI 模式预订酒店、跟踪机票价格以及查看里程和奖励",
       "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-27T16:00:00.000Z"
     },
     {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "titleEn": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T14:56:52.000Z"
-    },
-    {
-      "title": "AI’s memory crunch is coming for Android apps",
-      "titleEn": "AI’s memory crunch is coming for Android apps",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T14:27:04.000Z"
-    },
-    {
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "titleEn": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T14:01:42.000Z"
-    },
-    {
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "title": "Claude、Codex 和 Hermes 在公司网络内安装了无主代码",
       "titleEn": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
@@ -246,7 +291,7 @@
       "publishedAt": "2026-08-27T14:00:13.000Z"
     },
     {
-      "title": "How much of a problem is AI’s water use?",
+      "title": "人工智能的用水问题有多严重？",
       "titleEn": "How much of a problem is AI’s water use?",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
@@ -255,16 +300,7 @@
       "publishedAt": "2026-08-27T13:57:08.000Z"
     },
     {
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "titleEn": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-27T13:00:00.000Z"
-    },
-    {
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "title": "OpenAI如何让一群LLM特工进行测试并洗劫Hugging Face",
       "titleEn": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
@@ -273,7 +309,7 @@
       "publishedAt": "2026-08-27T12:58:59.000Z"
     },
     {
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "title": "旨在取代 Meta 工人的人工智能代理做出了“大规模、破坏性的行动”",
       "titleEn": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
@@ -282,7 +318,7 @@
       "publishedAt": "2026-08-26T21:25:27.000Z"
     },
     {
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "title": "Google 宣布 Gemini 3.5 Transcribe 用于人工智能驱动的语音转文本",
       "titleEn": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
@@ -291,7 +327,7 @@
       "publishedAt": "2026-08-26T19:19:22.000Z"
     },
     {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "title": "OpenAI 特工为何入侵 Hugging Face 的内幕",
       "titleEn": "The inside story on why OpenAI agents hacked Hugging Face",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -300,7 +336,7 @@
       "publishedAt": "2026-08-26T19:00:00.000Z"
     },
     {
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "title": "IBM 的新 Granite 4.2 模型顺应了当地法学硕士的兴趣浪潮",
       "titleEn": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
@@ -309,7 +345,7 @@
       "publishedAt": "2026-08-26T11:10:49.000Z"
     },
     {
-      "title": "Raised on AI",
+      "title": "人工智能引发",
       "titleEn": "Raised on AI",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
@@ -318,7 +354,7 @@
       "publishedAt": "2026-08-26T09:00:00.000Z"
     },
     {
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "title": "人工智能模型搞砸了这些智力测试。你还能过得更好吗？",
       "titleEn": "AI models flub these intelligence tests. Can you fare any better?",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
@@ -327,7 +363,7 @@
       "publishedAt": "2026-08-26T09:00:00.000Z"
     },
     {
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "title": "比尔盖茨说我们已经超过了人工智能的危险阈值。现在怎么办？",
       "titleEn": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
@@ -336,7 +372,7 @@
       "publishedAt": "2026-08-26T07:01:00.000Z"
     },
     {
-      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "title": "世界人形机器人比赛展示跑步者打破记录、爆发火焰",
       "titleEn": "World humanoid robot games show runners breaking records, bursting into flames",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
@@ -345,16 +381,16 @@
       "publishedAt": "2026-08-25T20:59:03.000Z"
     },
     {
-      "title": "5 ways to upgrade your home decor with Google Search",
+      "title": "使用 Google 升级家居装饰的 5 种方法",
       "titleEn": "5 ways to upgrade your home decor with Google Search",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp\">Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY p",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp\">了解如何使用 Google 搜索工具寻找家居装饰灵感、购买家具以及解决 DIY 问题",
       "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-25T16:00:00.000Z"
     },
     {
-      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "title": "人工智能不会取代放射科医生，但会极大地改变他们的工作",
       "titleEn": "AI won’t replace radiologists, but it will dramatically change their jobs",
       "summary": "",
       "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
@@ -363,7 +399,7 @@
       "publishedAt": "2026-08-25T15:10:03.000Z"
     },
     {
-      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "title": "苹果新款台式电脑专为本地AI开发而设计",
       "titleEn": "Apple's new desktop computers are designed specifically for local AI development",
       "summary": "",
       "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
@@ -372,7 +408,7 @@
       "publishedAt": "2026-08-25T13:00:11.000Z"
     },
     {
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "title": "我在上海的机器人“嘉年华”度过了一天。这是我所看到的。",
       "titleEn": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
@@ -381,7 +417,7 @@
       "publishedAt": "2026-08-25T09:00:00.000Z"
     },
     {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "title": "斯坦福大学研究发现，人工智能对入门级工作的打击最大",
       "titleEn": "AI is hitting entry-level jobs hardest, Stanford study finds",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
@@ -390,16 +426,7 @@
       "publishedAt": "2026-08-24T21:45:53.000Z"
     },
     {
-      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
-      "titleEn": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
-      "publishedAt": "2026-08-24T16:41:45.000Z"
-    },
-    {
-      "title": "How to encourage smarter AI use in the classroom",
+      "title": "如何鼓励在课堂上更智能地使用人工智能",
       "titleEn": "How to encourage smarter AI use in the classroom",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -408,7 +435,7 @@
       "publishedAt": "2026-08-24T14:20:19.000Z"
     },
     {
-      "title": "Kids outlearn AI—and we still don’t know why",
+      "title": "孩子们的学习能力超过了人工智能——但我们仍然不知道为什么",
       "titleEn": "Kids outlearn AI—and we still don’t know why",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
@@ -417,40 +444,13 @@
       "publishedAt": "2026-08-24T09:00:00.000Z"
     },
     {
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-      "titleEn": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-      "summary": "",
-      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
-      "publishedAt": "2026-08-21T11:00:53.000Z"
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
+      "title": "关于人工智能意识的争论是一个陷阱",
       "titleEn": "Debates over AI consciousness are a trap",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-08-20T15:42:39.000Z"
-    },
-    {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "titleEn": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "summary": "",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
-      "publishedAt": "2026-08-20T13:00:35.000Z"
-    },
-    {
-      "title": "Unlocking hidden revenue streams with market models",
-      "titleEn": "Unlocking hidden revenue streams with market models",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840",
-      "publishedAt": "2026-08-20T09:47:22.000Z"
     }
   ]
 }
