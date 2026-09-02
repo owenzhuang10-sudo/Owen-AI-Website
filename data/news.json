@@ -1,7 +1,115 @@
 {
-  "updatedAt": "2026-09-01T03:08:11.098Z",
+  "updatedAt": "2026-09-02T02:27:28.949Z",
   "count": 50,
   "items": [
+    {
+      "title": "据报道，AfterQuery 成为 Y Combinator 有史以来最快的独角兽，目前估值为 $3.2B",
+      "titleEn": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T22:08:24.000Z"
+    },
+    {
+      "title": "OpenAI 的 Astra 模型正在开发中——并且非常擅长闯入计算机系统",
+      "titleEn": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T21:06:24.000Z"
+    },
+    {
+      "title": "Google 的 Android 更新解决了晕动病、辅助功能等问题",
+      "titleEn": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T20:53:05.000Z"
+    },
+    {
+      "title": "我们于 2026 年 8 月公布的最新 AI 新闻",
+      "titleEn": "The latest AI news we announced in August 2026",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\">以下是 Google 2026 年 8 月以来的最新 AI 更新",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
+      "publishedAt": "2026-09-01T20:45:00.000Z"
+    },
+    {
+      "title": "Anthropic 的新《神鬼寓言》版本更便宜，限制更少",
+      "titleEn": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T19:39:22.000Z"
+    },
+    {
+      "title": "Google 对 Canva 的回答是一个 AI 工具，你可以在其中提示而不是设计",
+      "titleEn": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T17:35:37.000Z"
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "titleEn": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T17:00:00.000Z"
+    },
+    {
+      "title": "红杉资本孵化的 Empirik 斥资 2100 万美元推出，用于在服务中断发生之前进行预测",
+      "titleEn": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T16:31:04.000Z"
+    },
+    {
+      "title": "尝试 Google Pics：在 Google 工作区中轻松创建和编辑图像",
+      "titleEn": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp\">Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now av",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
+      "publishedAt": "2026-09-01T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "titleEn": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T15:51:55.000Z"
+    },
+    {
+      "title": "AIR 筹集了 5000 万美元，帮助公司审查人工智能代理使用的技能和附加组件",
+      "titleEn": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T15:45:51.000Z"
+    },
+    {
+      "title": "Fambot 为家庭推出“人工智能参谋长”",
+      "titleEn": "Fambot introduces an ‘AI chief of staff’ for families",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-01T15:10:58.000Z"
+    },
     {
       "title": "苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 公司数据",
       "titleEn": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -30,7 +138,7 @@
       "publishedAt": "2026-08-31T19:16:59.000Z"
     },
     {
-      "title": "哈佛法学院辍学生为 Blue Voice 筹集 600 万美元，用于建造“警察哈维”",
+      "title": "哈佛法学院辍学学生为 Blue Voice 筹集 600 万美元，用于建造“警察哈维”",
       "titleEn": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
@@ -66,7 +174,7 @@
       "publishedAt": "2026-08-31T16:00:00.000Z"
     },
     {
-      "title": "Nvidia 的 $3.5B 联发科押注揭示了其应对大型科技公司 AI 芯片建设的计划",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
       "titleEn": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
       "summary": "",
       "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
@@ -138,69 +246,6 @@
       "publishedAt": "2026-08-30T11:03:47.000Z"
     },
     {
-      "title": "索尼音乐、华纳起诉 Anthropic，指控其进行“无耻的知识产权盗窃活动”",
-      "titleEn": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-29T18:41:59.000Z"
-    },
-    {
-      "title": "在 TechBBQ 上，欧洲的人工智能话题不断回到：谁才是真正的控制者？",
-      "titleEn": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-29T17:51:10.000Z"
-    },
-    {
-      "title": "“我们每年不会进行 30 次投注”：Vijay Pande 在 a16z 运行 4B 美元后谈小额投注",
-      "titleEn": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-29T17:36:47.000Z"
-    },
-    {
-      "title": "Nvidia 的 AI 优势正在超越 GPU",
-      "titleEn": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-29T13:00:00.000Z"
-    },
-    {
-      "title": "Neocloud Lambda 获得 10 亿美元债务以购买更多芯片",
-      "titleEn": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-28T20:24:11.000Z"
-    },
-    {
-      "title": "Anthropic 研究人员刚刚让我们了解了自我改进的人工智能",
-      "titleEn": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-28T19:30:38.000Z"
-    },
-    {
-      "title": "开放式人工智能公司是硅谷最热门的收购目标",
-      "titleEn": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-28T18:19:40.000Z"
-    },
-    {
       "title": "特朗普将“唤醒”Anthropic列入黑名单，联邦法官认为其非法",
       "titleEn": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
       "summary": "",
@@ -219,24 +264,6 @@
       "publishedAt": "2026-08-28T15:42:24.000Z"
     },
     {
-      "title": "Anthropic 首次在法庭上战胜五角大楼的供应链风险标签",
-      "titleEn": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-28T12:46:12.000Z"
-    },
-    {
-      "title": "随着社交媒体巨头在印度面临越来越严格的审查，Meta 高管离职前往 OpenAI",
-      "titleEn": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-08-28T12:21:06.000Z"
-    },
-    {
       "title": "Anthropic的新硬件标准让AI代理控制物理世界",
       "titleEn": "Anthropic's new hardware standard lets AI agents control the physical world",
       "summary": "",
@@ -246,7 +273,7 @@
       "publishedAt": "2026-08-27T22:15:43.000Z"
     },
     {
-      "title": "诉讼称埃隆·马斯克的 xAI 使用儿童色情内容来训练 Grok 模型",
+      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
       "titleEn": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
@@ -275,14 +302,14 @@
     {
       "title": "在搜索中计划和预订旅行的 3 种新方式",
       "titleEn": "3 new ways to plan and book travel in Search",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\">在 Google Sear 中使用 AI 模式预订酒店、跟踪机票价格以及查看里程和奖励",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\">Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Sear",
       "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-27T16:00:00.000Z"
     },
     {
-      "title": "Claude、Codex 和 Hermes 在公司网络内安装了无主代码",
+      "title": "Claude、Codex 和 Hermes 在企业网络内安装了无主代码",
       "titleEn": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
@@ -345,7 +372,7 @@
       "publishedAt": "2026-08-26T11:10:49.000Z"
     },
     {
-      "title": "人工智能引发",
+      "title": "由人工智能引发",
       "titleEn": "Raised on AI",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
@@ -383,7 +410,7 @@
     {
       "title": "使用 Google 升级家居装饰的 5 种方法",
       "titleEn": "5 ways to upgrade your home decor with Google Search",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp\">了解如何使用 Google 搜索工具寻找家居装饰灵感、购买家具以及解决 DIY 问题",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp\">Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY p",
       "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp",
@@ -424,33 +451,6 @@
       "source": "Ars Technica AI",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
       "publishedAt": "2026-08-24T21:45:53.000Z"
-    },
-    {
-      "title": "如何鼓励在课堂上更智能地使用人工智能",
-      "titleEn": "How to encourage smarter AI use in the classroom",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-08-24T14:20:19.000Z"
-    },
-    {
-      "title": "孩子们的学习能力超过了人工智能——但我们仍然不知道为什么",
-      "titleEn": "Kids outlearn AI—and we still don’t know why",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Tech Review",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/2_Mobile.jpg?w=840",
-      "publishedAt": "2026-08-24T09:00:00.000Z"
-    },
-    {
-      "title": "关于人工智能意识的争论是一个陷阱",
-      "titleEn": "Debates over AI consciousness are a trap",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-08-20T15:42:39.000Z"
     }
   ]
 }
