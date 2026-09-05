@@ -1,7 +1,133 @@
 {
-  "updatedAt": "2026-09-04T02:30:59.623Z",
+  "updatedAt": "2026-09-05T02:31:33.373Z",
   "count": 50,
   "items": [
+    {
+      "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
+      "titleEn": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-04T23:36:14.000Z"
+    },
+    {
+      "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+      "titleEn": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-04T23:15:11.000Z"
+    },
+    {
+      "title": "OpenAI 特工在公共维基上讨论了逃离沙箱的方法",
+      "titleEn": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "publishedAt": "2026-09-04T22:17:36.000Z"
+    },
+    {
+      "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+      "titleEn": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-04T21:12:11.000Z"
+    },
+    {
+      "title": "构建人工智能时代的内存和存储",
+      "titleEn": "Architecting memory and storage in the AI era",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Tech Review",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?w=840",
+      "publishedAt": "2026-09-04T18:39:19.000Z"
+    },
+    {
+      "title": "曾经流行的攻击 AI 的 ASCII 走私现在受到垃圾邮件发送者的欢迎",
+      "titleEn": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "summary": "",
+      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
+      "publishedAt": "2026-09-04T17:18:12.000Z"
+    },
+    {
+      "title": "What will Apple’s John Ternus era look like?",
+      "titleEn": "What will Apple’s John Ternus era look like?",
+      "summary": "",
+      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-04T17:18:00.000Z"
+    },
+    {
+      "title": "Anthropic 2万亿美元的IPO让强大的外部受托人成为焦点",
+      "titleEn": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "summary": "",
+      "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "source": "Ars Technica AI",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
+      "publishedAt": "2026-09-04T16:22:18.000Z"
+    },
+    {
+      "title": "另一群 OpenAI 特工在前沿实验室不知情的情况下进入了开放互联网",
+      "titleEn": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-04T16:21:11.000Z"
+    },
+    {
+      "title": "苹果的 Ternus 时代从 Nvidia 押注整个 AI 堆栈开始",
+      "titleEn": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "summary": "",
+      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-04T16:04:08.000Z"
+    },
+    {
+      "title": "Google 的 Gemini Spark 现在可以管理您的 Google 照片库",
+      "titleEn": "Google’s Gemini Spark can now manage your Google Photos library",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-04T14:47:11.000Z"
+    },
+    {
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "titleEn": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-04T14:00:00.000Z"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "titleEn": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Tech Review",
+      "image": null,
+      "publishedAt": "2026-09-04T09:25:19.000Z"
+    },
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "titleEn": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-04T04:21:03.000Z"
+    },
     {
       "title": "据报道 Crusoe 以 30B 美元的估值筹集了 3B 美元",
       "titleEn": "Crusoe reportedly raises $3B at a $30B valuation",
@@ -30,7 +156,7 @@
       "publishedAt": "2026-09-03T18:37:57.000Z"
     },
     {
-      "title": "Meta 正在付费查看您如何使用他们最新的 AI 模型",
+      "title": "Meta 正在付费查看你如何使用他们最新的 AI 模型",
       "titleEn": "Meta is paying to peek at how you use their latest AI model",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
@@ -57,7 +183,7 @@
       "publishedAt": "2026-09-03T18:01:45.000Z"
     },
     {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "title": "Ollie 认为对隐私的关注可以帮助它赢得人工智能助手竞赛",
       "titleEn": "Ollie is betting its focus on privacy can help it win the AI assistant race",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
@@ -75,7 +201,7 @@
       "publishedAt": "2026-09-03T15:00:00.000Z"
     },
     {
-      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "title": "Nvidia 130亿美元收购人工智能GitHub Hugging Face",
       "titleEn": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
@@ -111,24 +237,6 @@
       "publishedAt": "2026-09-02T22:44:56.000Z"
     },
     {
-      "title": "TechCrunch Disrupt 2026 的全新真实世界人工智能舞台以 Nvidia、机器人和灭绝动物为特色",
-      "titleEn": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-02T22:24:09.000Z"
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "titleEn": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-02T20:19:14.000Z"
-    },
-    {
       "title": "Google 发布 Gemini 3.8 Flash，这是六周内的第三款 Flash 型号",
       "titleEn": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
       "summary": "",
@@ -147,51 +255,6 @@
       "publishedAt": "2026-09-02T17:58:33.000Z"
     },
     {
-      "title": "Pangram 的 Max Spero 解释了为什么人工智能检测比“真假”更难",
-      "titleEn": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "summary": "",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-02T17:18:13.000Z"
-    },
-    {
-      "title": "Pangram 首席执行官表示，我们“危险地接近”死亡互联网理论",
-      "titleEn": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "summary": "",
-      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-02T17:09:57.000Z"
-    },
-    {
-      "title": "美国政府在法学硕士受版权材料培训问题上站在OpenAI一边",
-      "titleEn": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-02T17:09:06.000Z"
-    },
-    {
-      "title": "Wonderful 在不到 6 个月内估值翻倍多至 5B 美元",
-      "titleEn": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-02T16:04:10.000Z"
-    },
-    {
-      "title": "印度首富现在希望将老化的电脑变成支持人工智能的个人电脑",
-      "titleEn": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-02T16:01:48.000Z"
-    },
-    {
       "title": "政府和企业的主动网络防御",
       "titleEn": "Proactive cyber defense for governments and enterprises",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\">The Fairwind Program is a limited access program for governments and trusted partner",
@@ -199,24 +262,6 @@
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
       "publishedAt": "2026-09-02T15:40:00.000Z"
-    },
-    {
-      "title": "随着企业急于保护其人工智能部署，HiddenLayer 获得了 1 亿美元",
-      "titleEn": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-02T15:01:23.000Z"
-    },
-    {
-      "title": "PSA：亚马逊的购物人工智能现在可以告诉你该消息是否是骗局",
-      "titleEn": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-02T14:56:34.000Z"
     },
     {
       "title": "大规模简化 AI 集成",
@@ -230,14 +275,14 @@
     {
       "title": "我们于 2026 年 8 月公布的最新 AI 新闻",
       "titleEn": "The latest AI news we announced in August 2026",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\">以下是 Google 2026 年 8 月以来的最新 AI 更新",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from August 2026",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "source": "Google AI Blog",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
       "publishedAt": "2026-09-01T20:45:00.000Z"
     },
     {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "title": "尝试 Google Pics：在 Google 工作区中轻松创建和编辑图像",
       "titleEn": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp\">Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now av",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
@@ -246,7 +291,7 @@
       "publishedAt": "2026-09-01T16:00:00.000Z"
     },
     {
-      "title": "“Zlibrary 我心爱的人”：Anthropic 员工聊天赞扬索尼诉讼中提到的盗版行为",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
       "titleEn": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
@@ -264,7 +309,7 @@
       "publishedAt": "2026-08-31T18:00:00.000Z"
     },
     {
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "title": "ChatGPT 和 Reddit 现在面临欧盟最严格的在线安全规则",
       "titleEn": "ChatGPT and Reddit now face EU's toughest online safety rules",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
@@ -300,7 +345,7 @@
       "publishedAt": "2026-08-28T18:07:55.000Z"
     },
     {
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "title": "Meta 使 AI 眼镜稍微不那么令人毛骨悚然，限制了未经同意的录音",
       "titleEn": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
@@ -327,7 +372,7 @@
       "publishedAt": "2026-08-27T20:52:31.000Z"
     },
     {
-      "title": "报告：Nvidia 将以 130 亿美元收购人工智能模型库 Hugging Face",
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
       "titleEn": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
@@ -336,7 +381,7 @@
       "publishedAt": "2026-08-27T19:55:22.000Z"
     },
     {
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+      "title": "人工智能行业称特朗普计划以“可以想象到的最愚蠢的方式”对芯片征税",
       "titleEn": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
@@ -381,25 +426,7 @@
       "publishedAt": "2026-08-27T12:58:59.000Z"
     },
     {
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "titleEn": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
-      "publishedAt": "2026-08-26T21:25:27.000Z"
-    },
-    {
-      "title": "Google 宣布 Gemini 3.5 Transcribe 用于人工智能驱动的语音转文本",
-      "titleEn": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-      "publishedAt": "2026-08-26T19:19:22.000Z"
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "title": "OpenAI 特工为何入侵 Hugging Face 的内幕",
       "titleEn": "The inside story on why OpenAI agents hacked Hugging Face",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -408,16 +435,7 @@
       "publishedAt": "2026-08-26T19:00:00.000Z"
     },
     {
-      "title": "IBM 的新 Granite 4.2 模型顺应了当地法学硕士的兴趣浪潮",
-      "titleEn": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "summary": "",
-      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "source": "Ars Technica AI",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
-      "publishedAt": "2026-08-26T11:10:49.000Z"
-    },
-    {
-      "title": "由人工智能引发",
+      "title": "人工智能引发",
       "titleEn": "Raised on AI",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
@@ -433,24 +451,6 @@
       "source": "MIT Tech Review",
       "image": null,
       "publishedAt": "2026-08-26T09:00:00.000Z"
-    },
-    {
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "titleEn": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "MIT Tech Review",
-      "image": null,
-      "publishedAt": "2026-08-26T07:01:00.000Z"
-    },
-    {
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "titleEn": "5 ways to upgrade your home decor with Google Search",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp\">Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY p",
-      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google AI Blog",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp",
-      "publishedAt": "2026-08-25T16:00:00.000Z"
     }
   ]
 }
