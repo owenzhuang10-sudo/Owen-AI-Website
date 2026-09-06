@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T02:31:33.758Z",
+  "updatedAt": "2026-09-06T02:28:22.971Z",
   "source": "Artificial Analysis",
   "sourceUrl": "https://artificialanalysis.ai/leaderboards/models",
   "categories": [
@@ -190,19 +190,19 @@
         },
         {
           "rank": 23,
-          "name": "Qwen3.8 27B",
-          "org": "Alibaba",
-          "country": "cn",
-          "score": 41.6,
-          "released": "2026-08-14"
-        },
-        {
-          "rank": 24,
           "name": "DeepSeek V4 Flash Vision",
           "org": "DeepSeek",
           "country": "cn",
           "score": 41.5,
           "released": "2026-08-21"
+        },
+        {
+          "rank": 24,
+          "name": "Qwen3.8 27B",
+          "org": "Alibaba",
+          "country": "cn",
+          "score": 41.4,
+          "released": "2026-08-14"
         },
         {
           "rank": 25,
