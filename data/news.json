@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-09-06T02:28:22.596Z",
+  "updatedAt": "2026-09-07T02:25:30.926Z",
   "count": 50,
   "items": [
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "title": "出版商和代理商对 Anthropic 和解提出索赔，作者予以反击",
+      "titleEn": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-06T20:47:37.000Z"
+    },
+    {
+      "title": "Travis Kalanick 的 Atoms 可能会进军机器人出租车业务",
+      "titleEn": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "summary": "",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch AI",
+      "image": null,
+      "publishedAt": "2026-09-06T16:45:00.000Z"
+    },
+    {
+      "title": "《西雅图时报》和《新闻日报》是最新起诉 OpenAI 和 Microsoft 的出版物",
       "titleEn": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -12,7 +30,7 @@
       "publishedAt": "2026-09-05T22:49:55.000Z"
     },
     {
-      "title": "Hikers rescued after using Google Gemini for planning",
+      "title": "徒步旅行者使用 Google Gemini 进行规划后获救",
       "titleEn": "Hikers rescued after using Google Gemini for planning",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
@@ -21,7 +39,7 @@
       "publishedAt": "2026-09-05T19:35:24.000Z"
     },
     {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "title": "OpenAI 确认“维基事件”，并表示正在“制定一个框架”以进行更多披露",
       "titleEn": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
@@ -30,7 +48,7 @@
       "publishedAt": "2026-09-05T18:05:27.000Z"
     },
     {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
       "titleEn": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -48,7 +66,7 @@
       "publishedAt": "2026-09-04T23:15:11.000Z"
     },
     {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "title": "OpenAI 特工在公共维基上讨论了逃离沙箱的方法",
       "titleEn": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
@@ -57,7 +75,7 @@
       "publishedAt": "2026-09-04T22:17:36.000Z"
     },
     {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
       "titleEn": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
@@ -66,7 +84,7 @@
       "publishedAt": "2026-09-04T21:12:11.000Z"
     },
     {
-      "title": "Architecting memory and storage in the AI era",
+      "title": "构建人工智能时代的内存和存储",
       "titleEn": "Architecting memory and storage in the AI era",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
@@ -75,7 +93,7 @@
       "publishedAt": "2026-09-04T18:39:19.000Z"
     },
     {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "title": "曾经流行的攻击 AI 的 ASCII 走私现在受到垃圾邮件发送者的欢迎",
       "titleEn": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
@@ -84,7 +102,7 @@
       "publishedAt": "2026-09-04T17:18:12.000Z"
     },
     {
-      "title": "What will Apple’s John Ternus era look like?",
+      "title": "苹果的约翰·特努斯时代会是什么样子？",
       "titleEn": "What will Apple’s John Ternus era look like?",
       "summary": "",
       "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
@@ -93,7 +111,7 @@
       "publishedAt": "2026-09-04T17:18:00.000Z"
     },
     {
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "title": "Anthropic 2万亿美元的IPO让强大的外部受托人成为焦点",
       "titleEn": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
@@ -102,7 +120,7 @@
       "publishedAt": "2026-09-04T16:22:18.000Z"
     },
     {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "title": "另一群 OpenAI 特工在前沿实验室不知情的情况下进入了开放互联网",
       "titleEn": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
@@ -120,7 +138,7 @@
       "publishedAt": "2026-09-04T16:04:08.000Z"
     },
     {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "title": "Google 的 Gemini Spark 现在可以管理您的 Google 照片库",
       "titleEn": "Google’s Gemini Spark can now manage your Google Photos library",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
@@ -129,7 +147,7 @@
       "publishedAt": "2026-09-04T14:47:11.000Z"
     },
     {
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "title": "不到 24 小时即可申请参加 TechCrunch Disrupt 2026 会外活动",
       "titleEn": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
@@ -138,7 +156,7 @@
       "publishedAt": "2026-09-04T14:00:00.000Z"
     },
     {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "title": "乌克兰无人机的数据正在推动新的狂野西部市场",
       "titleEn": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
@@ -147,7 +165,7 @@
       "publishedAt": "2026-09-04T09:25:19.000Z"
     },
     {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "title": "那些令人倒胃口的人工智能生成菜单背后的同一性问题",
       "titleEn": "The sameness problem behind those unappetizing AI-generated menus",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
@@ -156,7 +174,7 @@
       "publishedAt": "2026-09-04T04:21:03.000Z"
     },
     {
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "title": "据报道 Crusoe 以 30B 美元的估值筹集了 3B 美元",
       "titleEn": "Crusoe reportedly raises $3B at a $30B valuation",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -165,7 +183,7 @@
       "publishedAt": "2026-09-04T00:48:42.000Z"
     },
     {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "title": "据报道，Accel 正在洽谈领投 Thinking Machines 的 10 亿美元融资，估值为 400 亿美元",
       "titleEn": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
@@ -174,7 +192,7 @@
       "publishedAt": "2026-09-03T19:36:29.000Z"
     },
     {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "title": "Abliteration.ai 正在通过拆除人工智能护栏来做生意",
       "titleEn": "Abliteration.ai is making a business out of removing AI guardrails",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
@@ -183,7 +201,7 @@
       "publishedAt": "2026-09-03T18:37:57.000Z"
     },
     {
-      "title": "Meta is paying to peek at how you use their latest AI model",
+      "title": "Meta 正在付费查看你如何使用他们最新的 AI 模型",
       "titleEn": "Meta is paying to peek at how you use their latest AI model",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
@@ -192,7 +210,7 @@
       "publishedAt": "2026-09-03T18:19:56.000Z"
     },
     {
-      "title": "Four major AI models suffer rare overlapping downtime",
+      "title": "四大人工智能模型遭遇罕见的重叠停机",
       "titleEn": "Four major AI models suffer rare overlapping downtime",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
@@ -201,7 +219,7 @@
       "publishedAt": "2026-09-03T18:10:19.000Z"
     },
     {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "title": "OpenAI 推出 Astra，其强大（且有争议）的新车型",
       "titleEn": "OpenAI launches Astra, its powerful (and controversial) new model",
       "summary": "",
       "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
@@ -210,25 +228,7 @@
       "publishedAt": "2026-09-03T18:01:45.000Z"
     },
     {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "titleEn": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-03T16:09:01.000Z"
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "titleEn": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch AI",
-      "image": null,
-      "publishedAt": "2026-09-03T15:00:00.000Z"
-    },
-    {
-      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "title": "Nvidia 130亿美元收购人工智能GitHub Hugging Face",
       "titleEn": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
@@ -237,7 +237,7 @@
       "publishedAt": "2026-09-03T13:34:13.000Z"
     },
     {
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "title": "Google 发布 Gemini 3.8 Flash，这是六周内的第三款 Flash 型号",
       "titleEn": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
@@ -246,7 +246,7 @@
       "publishedAt": "2026-09-02T18:13:54.000Z"
     },
     {
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "title": "特朗普可能被迫透露联邦政府用于人工智能安全测试的秘密规则",
       "titleEn": "Trump may be forced to reveal secret rules feds use for AI safety testing",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
@@ -255,7 +255,7 @@
       "publishedAt": "2026-09-02T17:58:33.000Z"
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
+      "title": "政府和企业的主动网络防御",
       "titleEn": "Proactive cyber defense for governments and enterprises",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp\">The Fairwind Program is a limited access program for governments and trusted partner",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
@@ -264,7 +264,7 @@
       "publishedAt": "2026-09-02T15:40:00.000Z"
     },
     {
-      "title": "Facilitating AI integration with simplicity at scale",
+      "title": "大规模简化 AI 集成",
       "titleEn": "Facilitating AI integration with simplicity at scale",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
@@ -273,7 +273,7 @@
       "publishedAt": "2026-09-02T14:00:00.000Z"
     },
     {
-      "title": "The latest AI news we announced in August 2026",
+      "title": "我们于 2026 年 8 月公布的最新 AI 新闻",
       "titleEn": "The latest AI news we announced in August 2026",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from August 2026",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
@@ -282,7 +282,7 @@
       "publishedAt": "2026-09-01T20:45:00.000Z"
     },
     {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "title": "尝试 Google Pics：在 Google 工作区中轻松创建和编辑图像",
       "titleEn": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp\">Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now av",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
@@ -291,7 +291,7 @@
       "publishedAt": "2026-09-01T16:00:00.000Z"
     },
     {
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "title": "“Zlibrary 我的挚爱”：Anthropic 员工聊天赞扬索尼诉讼中提到的盗版行为",
       "titleEn": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
@@ -300,7 +300,7 @@
       "publishedAt": "2026-08-31T18:10:45.000Z"
     },
     {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "title": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题",
       "titleEn": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -309,7 +309,7 @@
       "publishedAt": "2026-08-31T18:00:00.000Z"
     },
     {
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "title": "ChatGPT 和 Reddit 现在面临欧盟最严格的在线安全规则",
       "titleEn": "ChatGPT and Reddit now face EU's toughest online safety rules",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
@@ -318,7 +318,7 @@
       "publishedAt": "2026-08-31T13:41:40.000Z"
     },
     {
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "title": "Pocket 的人工智能让我的游戏想法成为现实。现在Meta控制着结果。",
       "titleEn": "Pocket's AI made my game ideas real. Now Meta controls the results.",
       "summary": "",
       "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
@@ -327,7 +327,7 @@
       "publishedAt": "2026-08-31T10:00:34.000Z"
     },
     {
-      "title": "Inside Meta’s push to put robots to work in data centers",
+      "title": "Meta 推动机器人在数据中心工作的内幕",
       "titleEn": "Inside Meta’s push to put robots to work in data centers",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
@@ -336,7 +336,7 @@
       "publishedAt": "2026-08-30T11:03:47.000Z"
     },
     {
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "title": "特朗普将“唤醒”Anthropic列入黑名单，联邦法官认为其非法",
       "titleEn": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
@@ -345,7 +345,7 @@
       "publishedAt": "2026-08-28T18:07:55.000Z"
     },
     {
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "title": "Meta 使 AI 眼镜稍微不那么令人毛骨悚然，限制了未经同意的录音",
       "titleEn": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
@@ -354,7 +354,7 @@
       "publishedAt": "2026-08-28T15:42:24.000Z"
     },
     {
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "title": "Anthropic的新硬件标准让AI代理控制物理世界",
       "titleEn": "Anthropic's new hardware standard lets AI agents control the physical world",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
@@ -363,7 +363,7 @@
       "publishedAt": "2026-08-27T22:15:43.000Z"
     },
     {
-      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+      "title": "诉讼称埃隆·马斯克的 xAI 使用儿童色情内容来训练 Grok 模型",
       "titleEn": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
@@ -372,7 +372,7 @@
       "publishedAt": "2026-08-27T20:52:31.000Z"
     },
     {
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+      "title": "报告：Nvidia 将以 130 亿美元收购人工智能模型库 Hugging Face",
       "titleEn": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
@@ -381,7 +381,7 @@
       "publishedAt": "2026-08-27T19:55:22.000Z"
     },
     {
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+      "title": "人工智能行业称特朗普计划以“可以想象到的最愚蠢的方式”对芯片征税",
       "titleEn": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
       "summary": "",
       "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
@@ -390,7 +390,7 @@
       "publishedAt": "2026-08-27T18:57:08.000Z"
     },
     {
-      "title": "3 new ways to plan and book travel in Search",
+      "title": "在搜索中计划和预订旅行的 3 种新方式",
       "titleEn": "3 new ways to plan and book travel in Search",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp\">Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Sear",
       "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
@@ -399,7 +399,7 @@
       "publishedAt": "2026-08-27T16:00:00.000Z"
     },
     {
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "title": "Claude、Codex 和 Hermes 在企业网络内安装了无主代码",
       "titleEn": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
@@ -408,7 +408,7 @@
       "publishedAt": "2026-08-27T14:00:13.000Z"
     },
     {
-      "title": "How much of a problem is AI’s water use?",
+      "title": "人工智能的用水问题有多严重？",
       "titleEn": "How much of a problem is AI’s water use?",
       "summary": "",
       "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
@@ -417,7 +417,7 @@
       "publishedAt": "2026-08-27T13:57:08.000Z"
     },
     {
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "title": "OpenAI如何让一群LLM特工进行测试并洗劫Hugging Face",
       "titleEn": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
       "summary": "",
       "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
@@ -426,7 +426,7 @@
       "publishedAt": "2026-08-27T12:58:59.000Z"
     },
     {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "title": "OpenAI 特工为何入侵 Hugging Face 的内幕",
       "titleEn": "The inside story on why OpenAI agents hacked Hugging Face",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -435,7 +435,7 @@
       "publishedAt": "2026-08-26T19:00:00.000Z"
     },
     {
-      "title": "Raised on AI",
+      "title": "人工智能引发",
       "titleEn": "Raised on AI",
       "summary": "",
       "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
